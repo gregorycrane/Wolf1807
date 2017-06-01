@@ -25,7 +25,8 @@
 					<biblStruct>
 						<monogr>
 							<title>Dartsellung der Alterthums-Wissenschaften (in Kleine Schriften).</title>
-							<editor>
+						 <ref n="http://hdl.handle.net/2027/uc1.$b65093">based on a scan from the HathiTrust</ref>
+						 <editor>
 								<persName>
 									<name xml:lang="en">Gregory Crane</name>
 								</persName>
@@ -52,7 +53,7 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2014-10-21" who="DWP"/>
+			<change when="2017-06-01" who="GRC"/>
 		</revisionDesc>
 	</teiHeader>
 	<text>

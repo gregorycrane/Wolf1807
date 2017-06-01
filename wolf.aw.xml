@@ -8,25 +8,8 @@
 				<sponsor>University of Leipzig</sponsor>
 		
 				<principal>Gregory Crane</principal>
-				<principal>Monica Berti</principal>
 				<meeting/>
-				<respStmt>
-					<persName xml:id="DDD">Digital Divide Data</persName>
-					<resp>Corrected and encoded the text</resp>
-				</respStmt>
-				 <respStmt>
-			  <persName>Frederik Baumgardt</persName>
-			  <resp>Technical Manager (University of Leipzig)</resp>
-			 </respStmt>
-				<respStmt>
-					<persName>Simona Stoyanova</persName>
-					<resp>Project Assistant (University of Leipzig)</resp>
-				</respStmt>
-				<respStmt>
-					<persName>Bruce Robertson</persName>
-					<resp>Technical Advisor</resp>
-				</respStmt>
-			</titleStmt>
+				</titleStmt>
 			<publicationStmt>
 				<authority>University of Leipzig</authority>
 				<idno type="filename">TO BE ADDED BY LEIPZIG</idno>
@@ -59,7 +42,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
-			<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+			<p>Text encoded in accordance with the latest EpiDoc standards (May 2017)</p>
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>

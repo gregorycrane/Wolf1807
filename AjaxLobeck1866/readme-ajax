@@ -1,0 +1,53 @@
+an on-going effort to create a digital version of the 3rd edition of Lobeck's Ajax, starting with the text and possibly going into the commentary. In the short run, my goal is to compare multiple editions of the Ajax and to see how/if I can measure/visualize the evolution of the reconstructed text.
+
+My interest here focuses on materiality in a very technical sense, but not in any technical sense that Humanists would normally use. I use materiality in the sense of accounting. When General Motors or Siemens publishes its earning with fitures down to the cent, no one believes that those figures are accurate -- accounting includes too many questions of interpretation and there is too much inherent noise in the data. But the figures are published on the grounds that they are materially accurate, i.e., that any difference between the published figures and real figures (however we may interpret that concept) does not materially affect any decisions that we make about these companies -- they are close enough.
+
+For editions of historical texts where we are trying to reconstruct a lost original, what material progress have we made in our editions? Here I distinguish the questions that Editors ask each other from the questions that affect readers of the play. Editor may care about improving our understanding of which surviving manuscript influenced which without having any material impact on those reading the play itself.
+
+I do this as an exercise in re-reading the Ajax. The OCR-generated text provides a very good start -- in my view, the extra effort needed to clean up the errors and add tagging may be more than repaid by the degree to which it challenges me to read more carefully and to think about details that I would slide over in re-reading a text that I have read many times before. In general, with texts in historical languages, where we read slowly and do not pretend to the fluency that we can acquire for a particular version of a particular modern language in a particular set of cultural contexts, correcting and adding markup as we read may be a very useful task, both for the reader and the field.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   AjaxLobeck1866/soph.ajax_lobeck.txt
+#
+# Untracked files:
+#	CTSAncientGreekXML/
+#	Greek_Dependency_Treebanks/
+#	Homerica/
+#	LightWeightCTSServer/
+#	LorenzoVallaDonatio/
+#	Persian-Jones/
+#	Printindices/
+#	Thucydides-new-working-materials/
+#	TopanTerminalBrowser/
+#	Wolf1807/
+#	camena-neolatinlit/
+#	canonical-angLit/
+#	canonical-greekLit/
+#	canonical-latinLit/
+#	canonical-pdlrefwk/
+#	catalog_data/
+#	catalog_pending/
+#	chansonderoland/
+#	cltk/
+#	cts-croala/
+#	d3p/
+#	harrington_trees/
+#	hmt-archive/
+#	homeric_papyri/
+#	perseids_canonical_test/
+#	persian-jones.txt
+#	persian-jones.xml
+#	proiel-treebank/
+#	result.json
+#	results.html
+#	smith-bible/
+#	test/
+#	xPersian-Jones/
+#

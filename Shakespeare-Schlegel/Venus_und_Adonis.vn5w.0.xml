@@ -1,0 +1,2154 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:vn5w.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Poetische Werke</title><title>Shakespeare, William</title><title>Venus und Adonis</title><author>Shakespeare, William</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-0B32-7</idno><idno type="textgrid">textgrid:vmx3.0</idno><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Erstmals ins Deutsche übersetzt von Heinrich Christoph Albrecht (1783) Die vorliegende Übersetzung stammt von Ferdinand Freiligrath. Erstdruck: Düsseldorf (Schaubsche Buchhandlung) 1849.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.</title><author key="pnd:118613723">Shakespeare, William</author></titleStmt><extent>675-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Berlin</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg1010.vn5x.0" n="/Literatur/M/Shakespeare, William/Poetische Werke/Venus und Adonis">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Venus und Adonis</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-0C15-1</idno><idno type="TextGridUri">textgrid:vn5x.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                              Erstmals ins Deutsche übersetzt von Heinrich Christoph Albrecht (1783) Die vorliegende Übersetzung stammt von Ferdinand Freiligrath. Erstdruck: Düsseldorf (Schaubsche Buchhandlung) 1849.
+                           </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.</title>
+                  <author key="pnd:118613723">Shakespeare, William</author>
+               </titleStmt>
+               <extent>675-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Berlin</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1564" notAfter="1616"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+            <text>
+               <body>
+                     
+                        
+                     
+                     
+                     <div type="text" xml:id="tg1010.2.vn5x.0">
+
+
+
+                        <div type="h4">
+                           <head type="h4" xml:id="tg1010.2.1.vn5x.0">William Shakespeare</head>
+                           <head type="h2" xml:id="tg1010.2.2.vn5x.0">Venus und Adonis</head>
+                           
+                           <milestone unit="head_start"/>
+                              <p xml:id="tg1010.2.4.vn5x.0">
+                                 <seg rend="zenoTXFontsize80" xml:id="tg1010.2.4.1.vn5x.0"> Vilia miretur vulgus; mihi flavus Apollo</seg>
+                              </p>
+                              <p xml:id="tg1010.2.5.vn5x.0">
+                                 <seg rend="zenoTXFontsize80" xml:id="tg1010.2.5.1.vn5x.0"> Pocula Castalia plena ministret aqua.</seg>
+                              </p>
+                           <milestone unit="head_end"/>
+                           <milestone unit="head_start"/>
+                              <p rend="zenoPR" xml:id="tg1010.2.6.vn5x.0">
+                                 <seg rend="zenoTXFontsize80" xml:id="tg1010.2.6.1.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.6.1.1.vn5x.0">(Ovid, Amores I 15)</hi>
+                                 </seg>
+                              </p>
+                           <milestone unit="head_end"/>
+                           <lb xml:id="tg1010.2.7.vn5x.0"/>
+                           <sp>
+                              <speaker rend="zenoPC" xml:id="tg1010.2.8.vn5x.0">
+                                 <hi rend="italic" xml:id="tg1010.2.8.1.vn5x.0">Dem</hi>
+                              </speaker>
+                              <lg>
+                                 <lb xml:id="tg1010.2.9.vn5x.0"/>
+                                 <l rend="zenoPC" xml:id="tg1010.2.10.vn5x.0">Hochgeborenen Herrn Heinrich Wriothesley</l>
+                              </lg>
+                           </sp>
+                           <sp>
+                              <lb xml:id="tg1010.2.11.vn5x.0"/>
+                              <speaker rend="zenoPC" xml:id="tg1010.2.12.vn5x.0">
+                                 <hi rend="italic" xml:id="tg1010.2.12.1.vn5x.0">Grafen von Southampton und Barm von Titchfield</hi>
+                              </speaker>
+                              <lb xml:id="tg1010.2.13.vn5x.0"/>
+                              <lg>
+                                 <l rend="zenoPLm8n8" xml:id="tg1010.2.14.vn5x.0">Hochgeborener Herr!</l>
+                              </lg>
+                           </sp>
+                           <lb xml:id="tg1010.2.15.vn5x.0"/>
+                           <p rend="zenoPLm8n8" xml:id="tg1010.2.16.vn5x.0">
+                              <hi rend="italic" xml:id="tg1010.2.16.1.vn5x.0">Ich weiß nicht, ob ich Ew. Lordschaft nicht beleidige, indem ich meine ungeglätteten Verse darbringe, und ob mich die Welt nicht dafür tadeln wird, daß ich einen so starken Pfeiler erwähle, um eine so schwache Last zu stützen. Sollte ich aber Ew. Edlen Beifall finden, so würde ich das für das größte Lob halten und geloben, daß ich allmeine Mußestunden daransetzen werde, bis ich Ihnen mit einem gewichtigeren Werke meine Hochachtung bewiesen habe. Falls aber dieser erste Sprößling meiner Eingebung sich als mißraten erweisen sollte, würde ich bekümmert sein, ihm einen so edlen Paten erwählt zu haben, und in der Besorgnis vor einer gleich schlechten Ernte niemals wieder solch unergiebigen Boden beackern. Ich überlasse ihn Ew. Edlen zur Prüfung und um Ew. Edlen Herz Befriedigung zu schaffen, die, wie ich wünsche, alle Zeit Ihrem Wunsche und der hoffnungsvollen Erwartung der Welt entsprechen möge.</hi>
+                           </p>
+                           <sp>
+                              <speaker rend="zenoPC" xml:id="tg1010.2.17.vn5x.0">
+                                 <hi rend="italic" xml:id="tg1010.2.17.1.vn5x.0">Euer Gnaden ganz gehorsamster</hi>
+                              </speaker>
+                              <lb xml:id="tg1010.2.18.vn5x.0"/>
+                              <lg>
+                                 <l rend="zenoPR" xml:id="tg1010.2.19.vn5x.0">William Shakespeare</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.20.vn5x.0"/>
+                              <pb type="start" n="675" xml:id="tg1010.2.21.vn5x.0"/>
+                              <lb xml:id="tg1010.2.22.vn5x.0"/>
+                              <lg>
+                                 <l xml:id="tg1010.2.23.vn5x.0">Als von dem weinenden Morgen schied die Sonne</l>
+                                 <l xml:id="tg1010.2.24.vn5x.0">Mit Purpurantlitz, eilt' Adonis schon,</l>
+                                 <l xml:id="tg1010.2.25.vn5x.0">Der rosenwangige, zu des Jagens Wonne;</l>
+                                 <l xml:id="tg1010.2.26.vn5x.0">Jagd liebt' er, doch der Liebe lacht' er Hohn.</l>
+                                 <l xml:id="tg1010.2.27.vn5x.0">Von Liebe siech, tritt Venus ihm entgegen</l>
+                                 <l xml:id="tg1010.2.28.vn5x.0">Und wirbt um ihn, wie kecke Werber pflegen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.29.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.30.vn5x.0"/>
+                                 <l xml:id="tg1010.2.31.vn5x.0">»Du, dreimal schöner, als ich selbst«, begann</l>
+                                 <l xml:id="tg1010.2.32.vn5x.0">Die Liebliche mit buhlerischem Kosen,</l>
+                                 <l xml:id="tg1010.2.33.vn5x.0">»Süß über alles, holder als ein Mann,</l>
+                                 <l xml:id="tg1010.2.34.vn5x.0">Mehr weiß und rot, als Tauben sind und Rosen;</l>
+                                 <l xml:id="tg1010.2.35.vn5x.0">Sich selbst besiegend, da sie dich vollendet,</l>
+                                 <l xml:id="tg1010.2.36.vn5x.0">Sagt die Natur, daß mit dir alles endet.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.37.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.38.vn5x.0"/>
+                                 <l xml:id="tg1010.2.39.vn5x.0">Geruh', du Wunder, dich vom Roß zu schwingen,</l>
+                                 <l xml:id="tg1010.2.40.vn5x.0">Und an den Sattelbogen festzuzäumen</l>
+                                 <l xml:id="tg1010.2.41.vn5x.0">Sein stolzes Haupt; zum Lohn von tausend Dingen</l>
+                                 <l xml:id="tg1010.2.42.vn5x.0">Erfährst du auch, so süßen als geheimen.</l>
+                                 <l xml:id="tg1010.2.43.vn5x.0">O, komm – dies Moos birgt keiner Schlange Tücke! –</l>
+                                 <l xml:id="tg1010.2.44.vn5x.0">Daß ich mit meinen Küssen dich ersticke.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.45.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.46.vn5x.0"/>
+                                 <l xml:id="tg1010.2.47.vn5x.0">Und fürchte nicht, verhaßte Sattheit müsse</l>
+                                 <l xml:id="tg1010.2.48.vn5x.0">Den Mund dir schließen; nein, im Überfluß</l>
+                                 <l xml:id="tg1010.2.49.vn5x.0">Soll er noch hungern, wundgeküßt: zehn Küsse</l>
+                                 <l xml:id="tg1010.2.50.vn5x.0">Wie einer kurz, wie zwanzig lang ein Kuß.</l>
+                                 <l xml:id="tg1010.2.51.vn5x.0">Ein Sommertag muß einer Stunde gleichen,</l>
+                                 <l xml:id="tg1010.2.52.vn5x.0">Läßt unter solchem Spiel man ihn verstreichen.«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.53.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.54.vn5x.0"/>
+                                 <l xml:id="tg1010.2.55.vn5x.0">Mit dem ergreift sie seine schweiß'ge Hand,</l>
+                                 <l xml:id="tg1010.2.56.vn5x.0">Die Botin seiner Kraft und Männlichkeit.</l>
+                                 <l xml:id="tg1010.2.57.vn5x.0">»'s ist edler Balsam«, zittert sie, »gesandt,</l>
+                                 <l xml:id="tg1010.2.58.vn5x.0">Daß eine Göttin seiner sich erfreut.«</l>
+                                 <l xml:id="tg1010.2.59.vn5x.0">So rasend gibt ihr Stärke die Begier,</l>
+                                 <l xml:id="tg1010.2.60.vn5x.0">Ihn sich herabzuziehn von seinem Tier.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.61.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.62.vn5x.0"/>
+                                 <l xml:id="tg1010.2.63.vn5x.0">Des Renners Zügel über einem Arm,</l>
+                                 <l xml:id="tg1010.2.64.vn5x.0">Schlägt sie den andern um des Knaben Leib,</l>
+                                 <l xml:id="tg1010.2.65.vn5x.0">Der dämisch schmollt, und rot wird, doch nicht warm,</l>
+                                 <l xml:id="tg1010.2.66.vn5x.0">Und abhold ist dem süßen Zeitvertreib.</l>
+                                 <l xml:id="tg1010.2.67.vn5x.0">Sie rot und heiß, wie Kohlen recht im Feuer;</l>
+                                 <l xml:id="tg1010.2.68.vn5x.0">Er rot vor Scham, allein ein frost'ger Freier.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.69.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.70.vn5x.0"/>
+                                 <l xml:id="tg1010.2.71.vn5x.0">O, Lieb' ist schnell! – um einen knorr'gen Ast</l>
+                                 <l xml:id="tg1010.2.72.vn5x.0">Weiß sie behend den bunten Zaum zu winden;</l>
+                                 <l xml:id="tg1010.2.73.vn5x.0">Das Roß ist aufgestallt, und jetzt in Hast</l>
+                                 <l xml:id="tg1010.2.74.vn5x.0">Versucht sie auch den Reiter festzubinden.</l>
+                                 <l xml:id="tg1010.2.75.vn5x.0">Ihn rückwärts stoßend, wie er sie es müßte,</l>
+                                 <l xml:id="tg1010.2.76.vn5x.0">Lenkt seinen Leib sie, doch nicht seine Lüste.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.77.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.78.vn5x.0"/>
+                                 <l xml:id="tg1010.2.79.vn5x.0">Kaum sinkt er hin, so fällt auch sie zur Erde,</l>
+                                 <l xml:id="tg1010.2.80.vn5x.0">Gleich ihm auf Hüft' und Ellenbogen lehnend;</l>
+                                 <l xml:id="tg1010.2.81.vn5x.0">Sie streichelt ihn, doch er mit Zorngebärde</l>
+                                 <l xml:id="tg1010.2.82.vn5x.0">Verweist es ihr; – ihn zu beschwicht'gen wähnend,</l>
+                                 <l xml:id="tg1010.2.83.vn5x.0">Vor Wollust stammelnd, sagt sie unter Küssen:</l>
+                                 <l xml:id="tg1010.2.84.vn5x.0">»Ja, wenn du schmälst, muß ich den Mund dir schließen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.85.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.86.vn5x.0"/>
+                                 <l xml:id="tg1010.2.87.vn5x.0">Er brennt vor Scham, sein mädchenhaft Erglühn</l>
+                                 <l xml:id="tg1010.2.88.vn5x.0">Löscht sie mit Tränen; drauf mit ihren Locken</l>
+                                 <l xml:id="tg1010.2.89.vn5x.0">Und ihren Seufzern wieder kühlt sie ihn,</l>
+                                 <l xml:id="tg1010.2.90.vn5x.0">Und fächelt seine Wangen wieder trocken.</l>
+                                 <l xml:id="tg1010.2.91.vn5x.0">Er nennt sie frech und schilt ihr zuchtlos Werben;</l>
+                                 <l xml:id="tg1010.2.92.vn5x.0">Was folgen soll, läßt sie durch Küsse sterben.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.93.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.94.vn5x.0"/>
+                                 <l xml:id="tg1010.2.95.vn5x.0">Und wie ein Aar, der lange Zeit gefastet,</l>
+                                 <l xml:id="tg1010.2.96.vn5x.0">Den Schnabel senkt in Federn, Fleisch und Bein,</l>
+                                 <l xml:id="tg1010.2.97.vn5x.0">Die Schwingen schüttelt und nicht eher rastet,</l>
+                                 <pb n="676" xml:id="tg1010.2.98.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.99.vn5x.0">Als bis er voll ist und der Raub herein:</l>
+                                 <l xml:id="tg1010.2.100.vn5x.0">So küßt sie Stirn ihm, Kinn und Mund und Wangen,</l>
+                                 <l xml:id="tg1010.2.101.vn5x.0">Um, wo sie endet, wieder anzufangen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.102.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.103.vn5x.0"/>
+                                 <l xml:id="tg1010.2.104.vn5x.0">Er muß es schmollend wohl zufrieden sein;</l>
+                                 <l xml:id="tg1010.2.105.vn5x.0">Er liegt und keucht, und atmet ihr entgegen.</l>
+                                 <l xml:id="tg1010.2.106.vn5x.0">Sie saugt begierig seinen Odem ein,</l>
+                                 <l xml:id="tg1010.2.107.vn5x.0">Und nennt ihn Wonnedüften, Himmelsregen;</l>
+                                 <l xml:id="tg1010.2.108.vn5x.0">Und wünscht, ihr Antlitz trüge Blumenbeete,</l>
+                                 <l xml:id="tg1010.2.109.vn5x.0">Daß ewig sie ein solcher Tau umwehte.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.110.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.111.vn5x.0"/>
+                                 <l xml:id="tg1010.2.112.vn5x.0">Sieh, wie ein Netz den Vogel, so umstricken</l>
+                                 <l xml:id="tg1010.2.113.vn5x.0">Der Göttin Arme den Gefangnen; – Wut</l>
+                                 <l xml:id="tg1010.2.114.vn5x.0">Und finstres Zürnen sprüht aus seinen Blicken,</l>
+                                 <l xml:id="tg1010.2.115.vn5x.0">Und läßt sie glühn mit doppelt schöner Glut.</l>
+                                 <l xml:id="tg1010.2.116.vn5x.0">Wird Regen sich in volle Ström' ergießen,</l>
+                                 <l xml:id="tg1010.2.117.vn5x.0">Dann müssen wohl die Ufer überfließen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.118.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.119.vn5x.0"/>
+                                 <l xml:id="tg1010.2.120.vn5x.0">Noch bittet sie, und artig bittet sie;</l>
+                                 <l xml:id="tg1010.2.121.vn5x.0">Denn art'gen Ohren ja tönt ihre Stimme.</l>
+                                 <l xml:id="tg1010.2.122.vn5x.0">Noch brütet er, noch lohnt er ihre Müh'</l>
+                                 <l xml:id="tg1010.2.123.vn5x.0">Mit roter Scham und aschefarbnem Grimme.</l>
+                                 <l xml:id="tg1010.2.124.vn5x.0">Rot zieht sie vor, doch blaß auch läßt sie gelten,</l>
+                                 <l xml:id="tg1010.2.125.vn5x.0">Der Neuheit wegen, denn blaß ist er selten.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.126.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.127.vn5x.0"/>
+                                 <l xml:id="tg1010.2.128.vn5x.0">Gleichviel, ob er sie liebt; sie muß ihn lieben,</l>
+                                 <l xml:id="tg1010.2.129.vn5x.0">Und schwört es laut bei ihrer Hand, der schönen,</l>
+                                 <l xml:id="tg1010.2.130.vn5x.0">Unsterblichen: »Durch nichts werd' ich vertrieben</l>
+                                 <l xml:id="tg1010.2.131.vn5x.0">Von deiner Brust, als bis mit meinen Tränen</l>
+                                 <l xml:id="tg1010.2.132.vn5x.0">Du Frieden machst; für dich rinnt diese Flut;</l>
+                                 <l xml:id="tg1010.2.133.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.133.1.vn5x.0">Ein</hi> süßer Kuß macht alles, alles gut.«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.134.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.135.vn5x.0"/>
+                                 <l xml:id="tg1010.2.136.vn5x.0">Als dies Versprechen ihrer Lipp' entflieht,</l>
+                                 <l xml:id="tg1010.2.137.vn5x.0">Hebt er das Kinn, wie Taucher sich erheben,</l>
+                                 <l xml:id="tg1010.2.138.vn5x.0">Und schnell versinken, wenn man sie ansieht: –</l>
+                                 <l xml:id="tg1010.2.139.vn5x.0">So will er ihr, was sie begehrte, geben;</l>
+                                 <l xml:id="tg1010.2.140.vn5x.0">Doch plötzlich blinzelt er, und kehrt zur Seite</l>
+                                 <l xml:id="tg1010.2.141.vn5x.0">Die Lippe, die zum Kusse schon bereite.</l>
+                                 <pb n="677" xml:id="tg1010.2.142.vn5x.0"/> 
+                              </lg>
+                              <lb xml:id="tg1010.2.143.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.144.vn5x.0"/>
+                                 <l xml:id="tg1010.2.145.vn5x.0">Nie lechzt' ein Wandrer in der Hitze so</l>
+                                 <l xml:id="tg1010.2.146.vn5x.0">Nach einem Trunk, wie sie nach diesem Kusse;</l>
+                                 <l xml:id="tg1010.2.147.vn5x.0">Dem Heile nah, wird sie des Heils nicht froh,</l>
+                                 <l xml:id="tg1010.2.148.vn5x.0">In Flammen steh'nd trotz ihrer Tränen Gusse.</l>
+                                 <l xml:id="tg1010.2.149.vn5x.0">»O, Mitleid«, ruft sie, »kieselherz'ger Knabe!</l>
+                                 <l xml:id="tg1010.2.150.vn5x.0">Ein Kuß nur ist's, drum ich gebeten habe!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.151.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.152.vn5x.0"/>
+                                 <l xml:id="tg1010.2.153.vn5x.0">Wie ich um dich, so hat um mich gefreit</l>
+                                 <l xml:id="tg1010.2.154.vn5x.0">Der fürchterliche, rauhe Gott des Krieges,</l>
+                                 <l xml:id="tg1010.2.155.vn5x.0">Der seinen Nacken bog in keinem Streit,</l>
+                                 <l xml:id="tg1010.2.156.vn5x.0">Der, wo er wandelt, sich erfreut des Sieges;</l>
+                                 <l xml:id="tg1010.2.157.vn5x.0">Doch hab' ich ihn zu Füßen mir gesehn,</l>
+                                 <l xml:id="tg1010.2.158.vn5x.0">Erflehend das, was dir wird ohne Flehn.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.159.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.160.vn5x.0"/>
+                                 <l xml:id="tg1010.2.161.vn5x.0">An meinen Altar hängt' er seine Lanze,</l>
+                                 <l xml:id="tg1010.2.162.vn5x.0">Sein beulig Schlachtschild und sein Helmgefieder,</l>
+                                 <l xml:id="tg1010.2.163.vn5x.0">Ließ sich herab zu Tändelspiel und Tanze,</l>
+                                 <l xml:id="tg1010.2.164.vn5x.0">Und lernte Lächeln, Schmeichelworte, Lieder,</l>
+                                 <l xml:id="tg1010.2.165.vn5x.0">Verschwörend Fahn' und Trommel; – sieh, sein Feld</l>
+                                 <l xml:id="tg1010.2.166.vn5x.0">Ward diese Brust, mein Bett war sein Gezelt.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.167.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.168.vn5x.0"/>
+                                 <l xml:id="tg1010.2.169.vn5x.0">So den Besiegenden hab' ich besiegt;</l>
+                                 <l xml:id="tg1010.2.170.vn5x.0">An Rosenketten hielt ich ihn gefangen.</l>
+                                 <l xml:id="tg1010.2.171.vn5x.0">Er, dessen Stärke starker Stahl sich biegt,</l>
+                                 <l xml:id="tg1010.2.172.vn5x.0">Ließ meiner Schönheit dienen sein Verlangen,</l>
+                                 <l xml:id="tg1010.2.173.vn5x.0">O, sei nicht stolz! Nicht rühme deines Sieges</l>
+                                 <l xml:id="tg1010.2.174.vn5x.0">Dich über sie, die schlug den Gott des Krieges.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.175.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.176.vn5x.0"/>
+                                 <l xml:id="tg1010.2.177.vn5x.0">Laß deine Lippen auf den meinen ruhn –</l>
+                                 <l xml:id="tg1010.2.178.vn5x.0">Sie sind ja rot, wenn auch nicht schön, wie deine.</l>
+                                 <l xml:id="tg1010.2.179.vn5x.0">Der Kuß soll dein sein, wie er mein ist! – Nun,</l>
+                                 <l xml:id="tg1010.2.180.vn5x.0">Das Haupt empor! Was suchst du auf dem Raine?</l>
+                                 <l xml:id="tg1010.2.181.vn5x.0">Sieh mir ins Aug', sieh dich auf seinem Grunde!</l>
+                                 <l xml:id="tg1010.2.182.vn5x.0">Wenn Aug' in Aug', warum nicht Mund auf Munde?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.183.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.184.vn5x.0"/>
+                                 <l xml:id="tg1010.2.185.vn5x.0">Schämst du, zu küssen, dich? o schließ' geschwind,</l>
+                                 <l xml:id="tg1010.2.186.vn5x.0">Gleich mir, das Auge! Nacht so scheint die Helle!</l>
+                                 <l xml:id="tg1010.2.187.vn5x.0">Die Liebe schwärmt, wo zwei beisammen sind;</l>
+                                 <pb n="678" xml:id="tg1010.2.188.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.189.vn5x.0">Beginne kühn! kein Aug' sieht diese Stelle!</l>
+                                 <l xml:id="tg1010.2.190.vn5x.0">Die blauen Veilchen unsres Lagers wissen</l>
+                                 <l xml:id="tg1010.2.191.vn5x.0">Nicht, was wir tun, und plaudern nicht von Küssen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.192.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.193.vn5x.0"/>
+                                 <l xml:id="tg1010.2.194.vn5x.0">Der zarte Lenz, der deine Lipp' umweht,</l>
+                                 <l xml:id="tg1010.2.195.vn5x.0">Nennt unreif, doch wohl mag man kosten dich.</l>
+                                 <l xml:id="tg1010.2.196.vn5x.0">O, daß die Zeit nicht nutzlos dir vergeht!</l>
+                                 <l xml:id="tg1010.2.197.vn5x.0">Nicht in sich selbst verzehre Schönheit sich!</l>
+                                 <l xml:id="tg1010.2.198.vn5x.0">Die Blum, die man nicht bricht im ersten Schimmern,</l>
+                                 <l xml:id="tg1010.2.199.vn5x.0">Wird in sich selbst vergehn bald und verkümmern.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.200.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.201.vn5x.0"/>
+                                 <l xml:id="tg1010.2.202.vn5x.0">Wär' ich verrunzelt, mißgestaltet, alt,</l>
+                                 <l xml:id="tg1010.2.203.vn5x.0">Von rauher Stimme, bucklig, ekelhaft,</l>
+                                 <l xml:id="tg1010.2.204.vn5x.0">Verachtet, kränklich, abgenutzt und kalt,</l>
+                                 <l xml:id="tg1010.2.205.vn5x.0">Triefäugig, mager, dürr und ohne Saft:</l>
+                                 <l xml:id="tg1010.2.206.vn5x.0">Dann möcht' es sein! dann taugt' ich nicht für dich!</l>
+                                 <l xml:id="tg1010.2.207.vn5x.0">Doch ohne Mängel, was verschmähst du mich?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.208.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.209.vn5x.0"/>
+                                 <l xml:id="tg1010.2.210.vn5x.0">Nie wird das Alter meiner Stirn gefährlich;</l>
+                                 <l xml:id="tg1010.2.211.vn5x.0">Mein Auge blitzt, und ist im Äugeln stark;</l>
+                                 <l xml:id="tg1010.2.212.vn5x.0">Dem Lenze gleich, wächst meine Schönheit jährlich;</l>
+                                 <l xml:id="tg1010.2.213.vn5x.0">Mein Fleisch ist weich, und brennend ist mein Mark.</l>
+                                 <l xml:id="tg1010.2.214.vn5x.0">Läg' meine Hand feucht in der feuchten deinen,</l>
+                                 <l xml:id="tg1010.2.215.vn5x.0">Sie würde schmelzend zu vergehen scheinen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.216.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.217.vn5x.0"/>
+                                 <l xml:id="tg1010.2.218.vn5x.0">Befiehl, und schmeichelnd soll mein Wort dich locken:</l>
+                                 <l xml:id="tg1010.2.219.vn5x.0">Wie eine Fee leicht über's Blumenland,</l>
+                                 <l xml:id="tg1010.2.220.vn5x.0">Wie eine Nymphe, mit gelösten Locken,</l>
+                                 <l xml:id="tg1010.2.221.vn5x.0">Spurlos mich schwingen will ich über'n Sand.</l>
+                                 <l xml:id="tg1010.2.222.vn5x.0">Lieb' ist ein Geist, von Feuer ganz gewoben,</l>
+                                 <l xml:id="tg1010.2.223.vn5x.0">Leicht, nimmer sinkend, strebend nur nach oben.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.224.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.225.vn5x.0"/>
+                                 <l xml:id="tg1010.2.226.vn5x.0">Sieh nur mein Lager, diese Primeln, an!</l>
+                                 <l xml:id="tg1010.2.227.vn5x.0">Sie tragen mich, wie starker Bäume Macht;</l>
+                                 <l xml:id="tg1010.2.228.vn5x.0">Ein schwaches Taubenpaar ist mein Gespann,</l>
+                                 <l xml:id="tg1010.2.229.vn5x.0">Und zieht mich leicht, vom Morgen, bis zur Nacht.</l>
+                                 <l xml:id="tg1010.2.230.vn5x.0">Wenn also leicht die Liebe sich bewährt,</l>
+                                 <l xml:id="tg1010.2.231.vn5x.0">Wie, Süßer, glaubst du, daß sie dich beschwert?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.232.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.233.vn5x.0"/>
+                                 <l xml:id="tg1010.2.234.vn5x.0">Versah dein Herz an deinen Augen sich?</l>
+                                 <l xml:id="tg1010.2.235.vn5x.0">Kann deine Linke lieben deine Rechte?</l>
+                                 <l xml:id="tg1010.2.236.vn5x.0">Wirb um dich selbst dann, selbst verschmähe dich,</l>
+                                 <l xml:id="tg1010.2.237.vn5x.0">Und mache dich zu deinem eignen Knechte.</l>
+                                 <l xml:id="tg1010.2.238.vn5x.0">So ging Narciß der eignen Schöne nach,</l>
+                                 <l xml:id="tg1010.2.239.vn5x.0">Und starb vor Sehnsucht, als er stand am Bach,</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.240.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.241.vn5x.0"/>
+                                 <l xml:id="tg1010.2.242.vn5x.0">Die Fackel ward, das Dunkel zu verjagen,</l>
+                                 <l xml:id="tg1010.2.243.vn5x.0">Gestein zum Schmücken, Schönheit zum Genießen,</l>
+                                 <l xml:id="tg1010.2.244.vn5x.0">Das Kraut zum Duften, wie der Baum zum Tragen;</l>
+                                 <l xml:id="tg1010.2.245.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.245.1.vn5x.0">Die</hi> Sprossen sünd'gen, die für sich nur sprießen:</l>
+                                 <l xml:id="tg1010.2.246.vn5x.0">Saat stiftet Saat, Schönheit der Schönheit Licht;</l>
+                                 <l xml:id="tg1010.2.247.vn5x.0">Du wardst gezeugt, und Zeugen ist dir Pflicht.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.248.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.249.vn5x.0"/>
+                                 <l xml:id="tg1010.2.250.vn5x.0">Wie wären dir der Erde Kinder eigen,</l>
+                                 <l xml:id="tg1010.2.251.vn5x.0">Wenn deiner Kinder nicht auch sie erworben?</l>
+                                 <l xml:id="tg1010.2.252.vn5x.0">Sieh, die Natur gebietet dir, zu zeugen,</l>
+                                 <l xml:id="tg1010.2.253.vn5x.0">Daß dein Geschlecht lebt, wenn du selbst gestorben:</l>
+                                 <l xml:id="tg1010.2.254.vn5x.0">So wirst du ganz nicht in den Tod gegeben,</l>
+                                 <l xml:id="tg1010.2.255.vn5x.0">Dein Bild ja lebt, und in ihm wirst du leben!« –</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.256.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.257.vn5x.0"/>
+                                 <l xml:id="tg1010.2.258.vn5x.0">Und jetzt begann die Lechzende zu schwitzen;</l>
+                                 <l xml:id="tg1010.2.259.vn5x.0">Der Schatten ließ die Stelle, wo sie lagen;</l>
+                                 <l xml:id="tg1010.2.260.vn5x.0">Und Titan, keuchend in des Mittags Hitzen,</l>
+                                 <l xml:id="tg1010.2.261.vn5x.0">Sah heiß herab auf sie aus seinem Wagen:</l>
+                                 <l xml:id="tg1010.2.262.vn5x.0">Wünschend, Adonis säß' im goldnen heute,</l>
+                                 <l xml:id="tg1010.2.263.vn5x.0">Wär' er Adonis und an Venus' Seite.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.264.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.265.vn5x.0"/>
+                                 <l xml:id="tg1010.2.266.vn5x.0">Adonis aber, schläfrig und verdrossen,</l>
+                                 <l xml:id="tg1010.2.267.vn5x.0">Die Stirne runzelnd, finster seine Brau,</l>
+                                 <l xml:id="tg1010.2.268.vn5x.0">Das zorn'ge Auge mürrisch halb geschlossen,</l>
+                                 <l xml:id="tg1010.2.269.vn5x.0">Wie wenn den Himmel einhüllt Nebelgrau –</l>
+                                 <l xml:id="tg1010.2.270.vn5x.0">Mundziehend spricht er: »Laß mich fort! Zu sehr</l>
+                                 <l xml:id="tg1010.2.271.vn5x.0">Brennt heut die Sonne! Nichts von Liebe mehr!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.272.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.273.vn5x.0"/>
+                                 <l xml:id="tg1010.2.274.vn5x.0">»Weh' mir!« ruft Venus, »wie so jung und kalt!</l>
+                                 <l xml:id="tg1010.2.275.vn5x.0">Welch leerer Vorwand, dich mir zu entziehn!</l>
+                                 <l xml:id="tg1010.2.276.vn5x.0">Himmlischen Odem seufz' ich dir alsbald,</l>
+                                 <pb n="680" xml:id="tg1010.2.277.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.278.vn5x.0">Daß er dich kühle bei der Sonne Glühn.</l>
+                                 <l xml:id="tg1010.2.279.vn5x.0">Mein wallend Haar soll Schatten dir gewähren,</l>
+                                 <l xml:id="tg1010.2.280.vn5x.0">Und brennt es auch, so lösch' ich es mit Zähren.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.281.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.282.vn5x.0"/>
+                                 <l xml:id="tg1010.2.283.vn5x.0">Die Sonn' am Himmel wärmt nur und gibt Licht,</l>
+                                 <l xml:id="tg1010.2.284.vn5x.0">Und schau', ich liege zwischen ihr und dir!</l>
+                                 <l xml:id="tg1010.2.285.vn5x.0">Von dort die Hitze sengt mich wahrlich nicht,</l>
+                                 <l xml:id="tg1010.2.286.vn5x.0">Nur deiner Augen Glut bringt Hitze mir!</l>
+                                 <l xml:id="tg1010.2.287.vn5x.0">War' ich unsterblich nicht: – dahingegeben</l>
+                                 <l xml:id="tg1010.2.288.vn5x.0">Zwei solchen Sonnen, könnt' ich fürder leben?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.289.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.290.vn5x.0"/>
+                                 <l xml:id="tg1010.2.291.vn5x.0">Bist du von Stein denn, bist du hart wie Stahl?</l>
+                                 <l xml:id="tg1010.2.292.vn5x.0">Den harten Stein doch höhlt des Regens Guß!</l>
+                                 <l xml:id="tg1010.2.293.vn5x.0">Gebar ein Weib dich, und du fühlst die Qual</l>
+                                 <l xml:id="tg1010.2.294.vn5x.0">Des nicht, der liebt und einsam lieben muß?</l>
+                                 <l xml:id="tg1010.2.295.vn5x.0">Glich dir die Mutter, die dich trug, du Schlimmer:</l>
+                                 <l xml:id="tg1010.2.296.vn5x.0">Sie starb als Jungfrau und gebar dich nimmer.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.297.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.298.vn5x.0"/>
+                                 <l xml:id="tg1010.2.299.vn5x.0">Wer bin ich denn, daß du mich fliehst, Verächter?</l>
+                                 <l xml:id="tg1010.2.300.vn5x.0">Bringt meine Werbung dir denn auch Gefahr?</l>
+                                 <l xml:id="tg1010.2.301.vn5x.0">Macht denn ein Küßchen deine Lippen schlechter?</l>
+                                 <l xml:id="tg1010.2.302.vn5x.0">O sprich! – doch hübsch! – sonst schweige ganz und gar!</l>
+                                 <l xml:id="tg1010.2.303.vn5x.0">Nur <hi rend="italic" xml:id="tg1010.2.303.1.vn5x.0">einen</hi> Kuß! – du sollst ihn wieder haben,</l>
+                                 <l xml:id="tg1010.2.304.vn5x.0">Und willst du Zinsen, sollen zwei dich laben!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.305.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.306.vn5x.0"/>
+                                 <l xml:id="tg1010.2.307.vn5x.0">Pfui, kalt Gemälde, lebenloser Stein,</l>
+                                 <l xml:id="tg1010.2.308.vn5x.0">Buntschimmernd Bildnis – all' dein Glanz erlogen!</l>
+                                 <l xml:id="tg1010.2.309.vn5x.0">Das Aug' erfreust du; – ach, das Aug' allein!</l>
+                                 <l xml:id="tg1010.2.310.vn5x.0">Ding, wie ein Mann, doch nicht vom Weib erzogen!</l>
+                                 <l xml:id="tg1010.2.311.vn5x.0">Du bist kein Mann, was auch dein Aussehn sagt,</l>
+                                 <l xml:id="tg1010.2.312.vn5x.0">Denn Männer, wahrlich, küssen ungefragt!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.313.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.314.vn5x.0"/>
+                                 <l xml:id="tg1010.2.315.vn5x.0">So spricht sie brünstig, bis die Ungeduld</l>
+                                 <l xml:id="tg1010.2.316.vn5x.0">Einhalt gebietet ihrer Zunge Fechten!</l>
+                                 <l xml:id="tg1010.2.317.vn5x.0">Ihr feurig Antlitz zeugt von ihrer Schuld,</l>
+                                 <l xml:id="tg1010.2.318.vn5x.0">In Liebe richtend, hilft ihr nicht ihr Rechten.</l>
+                                 <l xml:id="tg1010.2.319.vn5x.0">So weint sie denn, und glaubt mir nur, sie spräche,</l>
+                                 <l xml:id="tg1010.2.320.vn5x.0">Wenn Schluchzen nicht ihr Sprechen unterbräche.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.321.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.322.vn5x.0"/>
+                                 <l xml:id="tg1010.2.323.vn5x.0">Kopfschüttelnd nun erfaßt sie seine Hand,</l>
+                                 <l xml:id="tg1010.2.324.vn5x.0">Senkt dann die Augen auf des Bodens Grün;</l>
+                                 <l xml:id="tg1010.2.325.vn5x.0">Mit ihren Armen jetzo wie ein Band,</l>
+                                 <l xml:id="tg1010.2.326.vn5x.0">Wie er sich sträuben mag, umschlingt sie ihn.</l>
+                                 <l xml:id="tg1010.2.327.vn5x.0">Und will er fort, der weiberscheue Ringer,</l>
+                                 <l xml:id="tg1010.2.328.vn5x.0">Verschränkt sie heftig ihre Lilienfinger.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.329.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.330.vn5x.0"/>
+                                 <l xml:id="tg1010.2.331.vn5x.0">»O, du mein Liebling«, spricht sie lächelnd, »seh'</l>
+                                 <l xml:id="tg1010.2.332.vn5x.0">Ich endlich dich in diesem schnee'gen Hag!</l>
+                                 <l xml:id="tg1010.2.333.vn5x.0">Ich will dein Park sein, so sei du mein Reh!</l>
+                                 <l xml:id="tg1010.2.334.vn5x.0">Geh' nach Gelüst hier deiner Weide nach!</l>
+                                 <l xml:id="tg1010.2.335.vn5x.0">Fang' auf den Lippen an! wenn <hi rend="italic" xml:id="tg1010.2.335.1.vn5x.0">die</hi> versiegen,</l>
+                                 <l xml:id="tg1010.2.336.vn5x.0">Dann tiefer, wo die lust'gen Quellen liegen!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.337.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.338.vn5x.0"/>
+                                 <l xml:id="tg1010.2.339.vn5x.0">Genug des Süßen gibt's in diesem Reiche;</l>
+                                 <l xml:id="tg1010.2.340.vn5x.0">Gras in den Gründen, anmutvolle Höhn;</l>
+                                 <l xml:id="tg1010.2.341.vn5x.0">Gewölbte Hügel, Buschwerk und Gesträuche,</l>
+                                 <l xml:id="tg1010.2.342.vn5x.0">Die vor dem Regen und des Sturmes Wehn</l>
+                                 <l xml:id="tg1010.2.343.vn5x.0">Dich schützen werden; drum sei meine Hinde,</l>
+                                 <l xml:id="tg1010.2.344.vn5x.0">Und fürchte nicht, daß hier ein Hund dich finde!'</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.345.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.346.vn5x.0"/>
+                                 <l xml:id="tg1010.2.347.vn5x.0">Auf dies, wie spöttisch, lächelt er; – o sieh',</l>
+                                 <l xml:id="tg1010.2.348.vn5x.0">Wie seine Wangen jetzt zwei Grübchen tragen:</l>
+                                 <l xml:id="tg1010.2.349.vn5x.0">Cupido selbst, der Lose, machte sie,</l>
+                                 <l xml:id="tg1010.2.350.vn5x.0">Daß er drin ruhe, möcht' ihn wer erschlagen.</l>
+                                 <l xml:id="tg1010.2.351.vn5x.0">Er wußt' es wohl: nahm er den Sitz der Liebe</l>
+                                 <l xml:id="tg1010.2.352.vn5x.0">Zum Grabe sich, daß er lebendig bliebe.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.353.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.354.vn5x.0"/>
+                                 <l xml:id="tg1010.2.355.vn5x.0">Und diese Grübchen alle beide tun</l>
+                                 <l xml:id="tg1010.2.356.vn5x.0">Auf ihren Mund, die Seel' ihr zu verschlingen.</l>
+                                 <l xml:id="tg1010.2.357.vn5x.0">Vorher schon rasend, was beginnt sie nun?</l>
+                                 <l xml:id="tg1010.2.358.vn5x.0">Gleich anfangs tot, was hilft ein zweites Ringen?</l>
+                                 <l xml:id="tg1010.2.359.vn5x.0">Du arme Venus, deiner eignen Macht</l>
+                                 <l xml:id="tg1010.2.360.vn5x.0">Verfallen, liebst du, was dich kalt verlacht!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.361.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.362.vn5x.0"/>
+                                 <l xml:id="tg1010.2.363.vn5x.0">Was soll sie sagen <hi rend="italic" xml:id="tg1010.2.363.1.vn5x.0">jetzt,</hi> wohin sich wenden?</l>
+                                 <l xml:id="tg1010.2.364.vn5x.0">Zu End' ihr Reden, aber nicht ihr Glühn!</l>
+                                 <l xml:id="tg1010.2.365.vn5x.0">Die Zeit ist um; er will sich ihren Händen,</l>
+                                 <pb n="682" xml:id="tg1010.2.366.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.367.vn5x.0">Die ihn umschlingen, mit Gewalt entziehn.</l>
+                                 <l xml:id="tg1010.2.368.vn5x.0">»O Mitleid«, ruft sie, »bin ich <hi rend="italic" xml:id="tg1010.2.368.1.vn5x.0">nichts</hi> denn wert?«</l>
+                                 <l xml:id="tg1010.2.369.vn5x.0">Doch er springt auf und eilt nach seinem Pferd.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.370.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.371.vn5x.0"/>
+                                 <l xml:id="tg1010.2.372.vn5x.0">Jetzt aber sieh': – vom Dickicht her erschaut</l>
+                                 <l xml:id="tg1010.2.373.vn5x.0">Den Hengst des Knaben eine flücht'ge Stute;</l>
+                                 <l xml:id="tg1010.2.374.vn5x.0">Sie jagt heran, sie schnaubt, sie wiehert laut,</l>
+                                 <l xml:id="tg1010.2.375.vn5x.0">Jung, ungebändigt, voll von Kraft und Mute.</l>
+                                 <l xml:id="tg1010.2.376.vn5x.0">Da reißt der Renner wild sich los vom Baum,</l>
+                                 <l xml:id="tg1010.2.377.vn5x.0">Sie zu begrüßen mit zerriss'nem Zaum.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.378.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.379.vn5x.0"/>
+                                 <l xml:id="tg1010.2.380.vn5x.0">Er nimmt sich auf, er wiehert ihr entgegen,</l>
+                                 <l xml:id="tg1010.2.381.vn5x.0">Und jetzo sprengt er seine festen Gurten;</l>
+                                 <l xml:id="tg1010.2.382.vn5x.0">Die Erde dröhnt von seines Hufes Schlägen,</l>
+                                 <l xml:id="tg1010.2.383.vn5x.0">Als ob Gewitter ihr im Schoße murrten.</l>
+                                 <l xml:id="tg1010.2.384.vn5x.0">Sein hart Gebiß zerknirscht er im Entfliehn,</l>
+                                 <l xml:id="tg1010.2.385.vn5x.0">Bewält'gend so, was einst bewältigt ihn.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.386.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.387.vn5x.0"/>
+                                 <l xml:id="tg1010.2.388.vn5x.0">Er spitzt die Ohren; seiner Mähne Dräun</l>
+                                 <l xml:id="tg1010.2.389.vn5x.0">Wallt auf im Takt, wie seine Füßestampfen.</l>
+                                 <l xml:id="tg1010.2.390.vn5x.0">Mit seinen Nüstern zieht die Luft er ein,</l>
+                                 <l xml:id="tg1010.2.391.vn5x.0">Sie wie ein Ofen wieder auszudampfen.</l>
+                                 <l xml:id="tg1010.2.392.vn5x.0">Sein zorn'ges Auge, voll von wilder Glut,</l>
+                                 <l xml:id="tg1010.2.393.vn5x.0">Zeigt sein Verlangen, seinen heißen Mut.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.394.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.395.vn5x.0"/>
+                                 <l xml:id="tg1010.2.396.vn5x.0">Zuweilen trabt er mit bescheidnem Stolz,</l>
+                                 <l xml:id="tg1010.2.397.vn5x.0">Als wollt' er zählen alle seine Schritte;</l>
+                                 <l xml:id="tg1010.2.398.vn5x.0">Dann wieder bäumt er, courbettiert durch's Holz,</l>
+                                 <l xml:id="tg1010.2.399.vn5x.0">Jagt und holt aus, als wär's zum tollsten Ritte;</l>
+                                 <l xml:id="tg1010.2.400.vn5x.0">Als wollt' er sagen: »so tut meine Stärke</l>
+                                 <l xml:id="tg1010.2.401.vn5x.0">Daß dort die Schöne lüstern auf mich merke!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.402.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.403.vn5x.0"/>
+                                 <l xml:id="tg1010.2.404.vn5x.0">Was kümmert jetzt ihn seines Reiters Zorn,</l>
+                                 <l xml:id="tg1010.2.405.vn5x.0">Sein schmeichelnd: <hi rend="italic" xml:id="tg1010.2.405.1.vn5x.0">Holla,</hi> und sein: <hi rend="italic" xml:id="tg1010.2.405.2.vn5x.0">Willst du stehn?</hi>
+                                 </l>
+                                 <l xml:id="tg1010.2.406.vn5x.0">Was gilt ihm Trense, was der scharfe Sporn,</l>
+                                 <l xml:id="tg1010.2.407.vn5x.0">Was reicher Zäume, lust'ger Decken Wehn?</l>
+                                 <l xml:id="tg1010.2.408.vn5x.0">Er sieht sein Lieb, und nichts sonst auf der Welt,</l>
+                                 <l xml:id="tg1010.2.409.vn5x.0">Weil seinen Augen gar nichts sonst gefällt.</l>
+                                 <pb n="683" xml:id="tg1010.2.410.vn5x.0"/> 
+                              </lg>
+                              <lb xml:id="tg1010.2.411.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.412.vn5x.0"/>
+                                 <l xml:id="tg1010.2.413.vn5x.0">Sieh', wollt' ein Maler mehr sein als das Leben,</l>
+                                 <l xml:id="tg1010.2.414.vn5x.0">Verließ' er kühn des Alltags breite Spur,</l>
+                                 <l xml:id="tg1010.2.415.vn5x.0">Wollt' er das Bild uns eines Rosses geben,</l>
+                                 <l xml:id="tg1010.2.416.vn5x.0">Das mehr durch Kunst, als andre durch Natur:</l>
+                                 <l xml:id="tg1010.2.417.vn5x.0">Traun, solch ein Roß wohl gliche diesem Pferde,</l>
+                                 <l xml:id="tg1010.2.418.vn5x.0">So Wuchs und Farbe, Mut, Gang und Gebärde!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.419.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.420.vn5x.0"/>
+                                 <l xml:id="tg1010.2.421.vn5x.0">Leicht auf den Füßen, von gedrungnem Bau,</l>
+                                 <l xml:id="tg1010.2.422.vn5x.0">Kopf klein und zierlich, große Augen drin,</l>
+                                 <l xml:id="tg1010.2.423.vn5x.0">Weitauf die Nüstern, Hufhaar lang und rauh,</l>
+                                 <l xml:id="tg1010.2.424.vn5x.0">Schweif dicht und wallend, Mähne zart und dünn:</l>
+                                 <l xml:id="tg1010.2.425.vn5x.0">So trabt er stolz, und nichts fehlt seiner Schöne,</l>
+                                 <l xml:id="tg1010.2.426.vn5x.0">Als daß sein Kreuz ein stolzer Reiter kröne.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.427.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.428.vn5x.0"/>
+                                 <l xml:id="tg1010.2.429.vn5x.0">Oft schnaubt er fort, starrt dann auf <hi rend="italic" xml:id="tg1010.2.429.1.vn5x.0">eine</hi> Stelle,</l>
+                                 <l xml:id="tg1010.2.430.vn5x.0">Fährt wieder auf jetzt, wenn ein Blatt nur fällt,</l>
+                                 <l xml:id="tg1010.2.431.vn5x.0">Enteilt im Flug, beschämt des Windes Schnelle,</l>
+                                 <l xml:id="tg1010.2.432.vn5x.0">Und läßt sie raten, wo er endlich hält.</l>
+                                 <l xml:id="tg1010.2.433.vn5x.0">Durch seine Mähne pfeift des Windes Singen,</l>
+                                 <l xml:id="tg1010.2.434.vn5x.0">Und Schweif und Mähne wehn ihm nach als </l>
+                                 <l xml:id="tg1010.2.435.vn5x.0">Schwingen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.436.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.437.vn5x.0"/>
+                                 <l xml:id="tg1010.2.438.vn5x.0">Vor seinem Lieb dann bleibt er wiehernd stehn;</l>
+                                 <l xml:id="tg1010.2.439.vn5x.0">Sie wiehert auch, als freute sie sein Spiel;</l>
+                                 <l xml:id="tg1010.2.440.vn5x.0">Doch bald, wie Weiber: stolz, ihn heiß zu sehn,</l>
+                                 <l xml:id="tg1010.2.441.vn5x.0">Macht sie die Spröde, tut sie fremd und kühl,</l>
+                                 <l xml:id="tg1010.2.442.vn5x.0">Weis't ab sein Werben, stampft in sein Verlangen,</l>
+                                 <l xml:id="tg1010.2.443.vn5x.0">Schlägt mit den Fersen sein verliebt Umfangen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.444.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.445.vn5x.0"/>
+                                 <l xml:id="tg1010.2.446.vn5x.0">Dann, wie betrübt und voll von Mißbehagen,</l>
+                                 <l xml:id="tg1010.2.447.vn5x.0">Senkt er den Schweif wie eine fallende Feder,</l>
+                                 <l xml:id="tg1010.2.448.vn5x.0">Läßt ihn der Schenkel weiße Schaumflut schlagen,</l>
+                                 <l xml:id="tg1010.2.449.vn5x.0">Schnappt nach den Fliegen auf des Riemwerks Leder;</l>
+                                 <l xml:id="tg1010.2.450.vn5x.0">Sein Lieb', gewahrend, wie so wild er tut,</l>
+                                 <l xml:id="tg1010.2.451.vn5x.0">Wird gütiger, und nach läßt seine Wut.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.452.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.453.vn5x.0"/>
+                                 <l xml:id="tg1010.2.454.vn5x.0">Sein zorn'ger Reiter naht, daß er ihn fange;</l>
+                                 <l xml:id="tg1010.2.455.vn5x.0">Doch sieh', die Stute faßt ein plötzlich Scheun;</l>
+                                 <l xml:id="tg1010.2.456.vn5x.0">Sie eilt von dannen, aufgeschreckt und bange,</l>
+                                 <pb n="684" xml:id="tg1010.2.457.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.458.vn5x.0">Der Hengst ihr nach – Adonis steht allein.</l>
+                                 <l xml:id="tg1010.2.459.vn5x.0">Fort nach dem Walde jagen sie, die Tollen,</l>
+                                 <l xml:id="tg1010.2.460.vn5x.0">Schneller als Kräh'n, die Wette fliegen wollen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.461.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.462.vn5x.0"/>
+                                 <l xml:id="tg1010.2.463.vn5x.0">Erschöpft und heiß setzt sich Adonis nieder,</l>
+                                 <l xml:id="tg1010.2.464.vn5x.0">Verwünscht sein Tier und seine Störrigkeit;</l>
+                                 <l xml:id="tg1010.2.465.vn5x.0">Und jetzo kehrt die günst'ge Stunde wieder</l>
+                                 <l xml:id="tg1010.2.466.vn5x.0">In der sich Venus ihres Redens freut.</l>
+                                 <l xml:id="tg1010.2.467.vn5x.0">Denn dreifach Leiden fühlt ein Herz, das liebt,</l>
+                                 <l xml:id="tg1010.2.468.vn5x.0">Fehlt ihm der Beistand, den die Zunge gibt.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.469.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.470.vn5x.0"/>
+                                 <l xml:id="tg1010.2.471.vn5x.0">Verhaltne Flamme, zugedämmte Flut,</l>
+                                 <l xml:id="tg1010.2.472.vn5x.0">Flammt auf und flutet nachher um so freier:</l>
+                                 <l xml:id="tg1010.2.473.vn5x.0">So auch ein Gram, der still im Herzen ruht;</l>
+                                 <l xml:id="tg1010.2.474.vn5x.0">Ein freies Reden stillt der Liebe Feuer;</l>
+                                 <l xml:id="tg1010.2.475.vn5x.0">Doch, ward des Herzens Anwalt stumm einmal,</l>
+                                 <l xml:id="tg1010.2.476.vn5x.0">Dann bricht der Schützling und vergeht in Qual.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.477.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.478.vn5x.0"/>
+                                 <l xml:id="tg1010.2.479.vn5x.0">Er sieht sie kommen und beginnt zu glühn –</l>
+                                 <l xml:id="tg1010.2.480.vn5x.0">So glüht im Wind erstorbner Kohlen Hitze! –</l>
+                                 <l xml:id="tg1010.2.481.vn5x.0">Den wirren Blick, zu Boden schlägt er ihn,</l>
+                                 <l xml:id="tg1010.2.482.vn5x.0">Die zorn'ge Stirn verbirgt er mit der Mütze;</l>
+                                 <l xml:id="tg1010.2.483.vn5x.0">Was kümmert's ihn, daß sie so nah sich stellt,</l>
+                                 <l xml:id="tg1010.2.484.vn5x.0">Weil er sie seitwärts nur im Auge hält?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.485.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.486.vn5x.0"/>
+                                 <l xml:id="tg1010.2.487.vn5x.0">O, welch ein Anblick, mit verstohlnem Gange</l>
+                                 <l xml:id="tg1010.2.488.vn5x.0">Dem finstern Knaben sie sich nahn zu sehn;</l>
+                                 <l xml:id="tg1010.2.489.vn5x.0">Den Streit zu schaun auf ihrer süßen Wange,</l>
+                                 <l xml:id="tg1010.2.490.vn5x.0">Den Weiß und Purpur wechselnd jetzt begehn!</l>
+                                 <l xml:id="tg1010.2.491.vn5x.0">Erst war sie bleich, doch bald in wilder Hitze</l>
+                                 <l xml:id="tg1010.2.492.vn5x.0">Entfuhr ihr Feuer, wie dem Himmel Blitze.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.493.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.494.vn5x.0"/>
+                                 <l xml:id="tg1010.2.495.vn5x.0">Nun steht sie vor ihm, grade wo er ruht;</l>
+                                 <l xml:id="tg1010.2.496.vn5x.0">Kniet dann voll Demut auf den Grund, den kühlen;</l>
+                                 <l xml:id="tg1010.2.497.vn5x.0">Mit einer Hand erhebt sie seinen Hut;</l>
+                                 <l xml:id="tg1010.2.498.vn5x.0">Die andre läßt sie sanft sein Antlitz fühlen.</l>
+                                 <l xml:id="tg1010.2.499.vn5x.0">Annimmt es weich den leisen Druck der weichen,</l>
+                                 <l xml:id="tg1010.2.500.vn5x.0">Und hält ihn fest, Schneeflocken zu vergleichen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.501.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.502.vn5x.0"/>
+                                 <l xml:id="tg1010.2.503.vn5x.0">O, welch ein Krieg von Blicken nun beginnt!</l>
+                                 <l xml:id="tg1010.2.504.vn5x.0">Ihr Auge, schwimmend, schaut in sein's mit Flehen;</l>
+                                 <l xml:id="tg1010.2.505.vn5x.0">Sein Auge tut, als wär' es für sie blind.</l>
+                                 <l xml:id="tg1010.2.506.vn5x.0">Ihr Auge wirbt, sein Auge will's nicht sehen;</l>
+                                 <l xml:id="tg1010.2.507.vn5x.0">Und durch den Chorus ihrer heißen Zähren</l>
+                                 <l xml:id="tg1010.2.508.vn5x.0">Läßt seine Akte dieses Spiel erklären.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.509.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.510.vn5x.0"/>
+                                 <l xml:id="tg1010.2.511.vn5x.0">Ganz freundlich nun ergreift sie seine Hand;</l>
+                                 <l xml:id="tg1010.2.512.vn5x.0">'s ist eine Lilie, rings von Schnee umsäumt;</l>
+                                 <l xml:id="tg1010.2.513.vn5x.0">'s ist Elfenbein, das Marmor licht umspannt:</l>
+                                 <l xml:id="tg1010.2.514.vn5x.0">So weißen Feind umfängt so weiß ein Freund.</l>
+                                 <l xml:id="tg1010.2.515.vn5x.0">Dies schöne Kämpfen, dieses süße Rauben,</l>
+                                 <l xml:id="tg1010.2.516.vn5x.0">Dem Schnäbeln gleicht es zweier Silbertauben.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.517.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.518.vn5x.0"/>
+                                 <l xml:id="tg1010.2.519.vn5x.0">Und noch einmal jetzt hebt sie stürmend an:</l>
+                                 <l xml:id="tg1010.2.520.vn5x.0">»Du schönster Wandler auf dem ird'schen Runde!</l>
+                                 <l xml:id="tg1010.2.521.vn5x.0">Wär'st du wie ich doch! wär' doch ich ein Mann!</l>
+                                 <l xml:id="tg1010.2.522.vn5x.0">Wär' mein Herz heil, und trügest du das wunde!</l>
+                                 <l xml:id="tg1010.2.523.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.523.1.vn5x.0">Ein</hi> süßer Blick – und Rat wollt' ich dir geben,</l>
+                                 <l xml:id="tg1010.2.524.vn5x.0">Müßt' ich dich retten auch mit meinem Leben!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.525.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.526.vn5x.0"/>
+                                 <l xml:id="tg1010.2.527.vn5x.0">»Die Hand«, spricht er, »wozu mich länger quälen?«</l>
+                                 <l xml:id="tg1010.2.528.vn5x.0">»Dein Herz!« spricht sie, »und gleich sollst du sie haben!</l>
+                                 <l xml:id="tg1010.2.529.vn5x.0">O lasse dein Herz meines nicht verstählen!</l>
+                                 <l xml:id="tg1010.2.530.vn5x.0">Zu hart ja würd' es, Seufzer drein zu graben!</l>
+                                 <l xml:id="tg1010.2.531.vn5x.0">Des Flehns der Liebe hätt' ich nimmer acht,</l>
+                                 <l xml:id="tg1010.2.532.vn5x.0">Wenn stählern dein Herz meines hart gemacht!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.533.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.534.vn5x.0"/>
+                                 <l xml:id="tg1010.2.535.vn5x.0">»Schmach!« ruft er aus, »was hältst du mich gefangen?</l>
+                                 <l xml:id="tg1010.2.536.vn5x.0">Hin ist mein Tag! mein Renner jagt im Hain!</l>
+                                 <l xml:id="tg1010.2.537.vn5x.0">Nur deine Schuld ist's, daß er durchgegangen!</l>
+                                 <l xml:id="tg1010.2.538.vn5x.0">Fort, sag' ich, fort! und laß mich hier allein!</l>
+                                 <l xml:id="tg1010.2.539.vn5x.0">Denn nicht gedenk' ich heut noch andrer Dinge.</l>
+                                 <l xml:id="tg1010.2.540.vn5x.0">Als wie zurück ich meinen Flüchtling bringe!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.541.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.542.vn5x.0"/>
+                                 <l xml:id="tg1010.2.543.vn5x.0">So ihr Erwidern: »Zürne nicht den Pferden!</l>
+                                 <l xml:id="tg1010.2.544.vn5x.0">Der Brunst zu folgen ist des Tieres Pflicht.</l>
+                                 <l xml:id="tg1010.2.545.vn5x.0">Lieb' ist die Kohle, die gekühlt muß werden,</l>
+                                 <pb n="686" xml:id="tg1010.2.546.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.547.vn5x.0">Soll sie das Herz in Flammen setzen nicht!</l>
+                                 <l xml:id="tg1010.2.548.vn5x.0">Die See hat Grenzen, keine das Verlangen:</l>
+                                 <l xml:id="tg1010.2.549.vn5x.0">Warum denn staunen, daß dein Roß gegangen?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.550.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.551.vn5x.0"/>
+                                 <l xml:id="tg1010.2.552.vn5x.0">Wie stand dein Zelter mährengleich und trübe,</l>
+                                 <l xml:id="tg1010.2.553.vn5x.0">Als ihn dein Leder fest noch hielt am Baum!</l>
+                                 <l xml:id="tg1010.2.554.vn5x.0">Doch als er nahn sah seine stolze Liebe,</l>
+                                 <l xml:id="tg1010.2.555.vn5x.0">Ha, wie zerriß er trotzig da den Zaum!</l>
+                                 <l xml:id="tg1010.2.556.vn5x.0">Wie flog sein Haar, wie schnob er wild und dräuend,</l>
+                                 <l xml:id="tg1010.2.557.vn5x.0">Genick und Nacken, Maul und Brust befreiend!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.558.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.559.vn5x.0"/>
+                                 <l xml:id="tg1010.2.560.vn5x.0">Wer die Geliebte sieht in ihren Kissen,</l>
+                                 <l xml:id="tg1010.2.561.vn5x.0">Nackt, weißer schimmernd als des Lagers Lein:</l>
+                                 <l xml:id="tg1010.2.562.vn5x.0">Mag der vom Schwelgen nur des Auges wissen!</l>
+                                 <l xml:id="tg1010.2.563.vn5x.0">Er lodert <hi rend="italic" xml:id="tg1010.2.563.1.vn5x.0">ganz,</hi> will ihrer <hi rend="italic" xml:id="tg1010.2.563.2.vn5x.0">ganz</hi> sich freun.</l>
+                                 <l xml:id="tg1010.2.564.vn5x.0">Wer ist so mutlos, der nicht auch so kühn,</l>
+                                 <l xml:id="tg1010.2.565.vn5x.0">Bei Frost zu rühren an der Flamme Glühn?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.566.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.567.vn5x.0"/>
+                                 <l xml:id="tg1010.2.568.vn5x.0">Laß mich entschuld'gen deinen Renner, Knabe!</l>
+                                 <l xml:id="tg1010.2.569.vn5x.0">Und lern' von ihm, ich bitt' dich herzlich drum,</l>
+                                 <l xml:id="tg1010.2.570.vn5x.0">Wie du benutzest dargebotne Gabe!</l>
+                                 <l xml:id="tg1010.2.571.vn5x.0">Dies eine lehr' ich dich, und wär' ich stumm:</l>
+                                 <l xml:id="tg1010.2.572.vn5x.0">O, lerne lieben! leicht ja ist die Müh',</l>
+                                 <l xml:id="tg1010.2.573.vn5x.0">Und kannst du's einmal, du verlernst es nie!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.574.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.575.vn5x.0"/>
+                                 <l xml:id="tg1010.2.576.vn5x.0">»Ich will's nicht lernen!« ruft er, »wär's ein Schwein,</l>
+                                 <l xml:id="tg1010.2.577.vn5x.0">Ein Eber noch: dann wollt' ich's jagen gehen!</l>
+                                 <l xml:id="tg1010.2.578.vn5x.0">Es ist ein Borgen – ich mag nichts entleihn!</l>
+                                 <l xml:id="tg1010.2.579.vn5x.0">Meine Lieb' zur Lieb' ist Lieb' nur, Lieb' zu schmähen!</l>
+                                 <l xml:id="tg1010.2.580.vn5x.0">Im Tod ein Leben ist sie, sagt man mir,</l>
+                                 <l xml:id="tg1010.2.581.vn5x.0">Das lacht und weint in einem Atem schier.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.582.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.583.vn5x.0"/>
+                                 <l xml:id="tg1010.2.584.vn5x.0">Wer legt ein Kleid auch unvollendet an?</l>
+                                 <l xml:id="tg1010.2.585.vn5x.0">Wer bricht die Knospe, eh' sie Blätter kerben?</l>
+                                 <l xml:id="tg1010.2.586.vn5x.0">Wird Keimendem ein Jot nur abgetan,</l>
+                                 <l xml:id="tg1010.2.587.vn5x.0">So muß es kläglich schon als Keim verderben.</l>
+                                 <l xml:id="tg1010.2.588.vn5x.0">Das Pferd, das man zu früh ritt und belud,</l>
+                                 <l xml:id="tg1010.2.589.vn5x.0">Verliert den Stolz, bleibt ewig ohne Mut!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.590.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.591.vn5x.0"/>
+                                 <l xml:id="tg1010.2.592.vn5x.0">Du ringst die Hand mir aus! Auf, uns zu trennen!</l>
+                                 <l xml:id="tg1010.2.593.vn5x.0">Dein nutzlos Reden, laß es endlich sein!</l>
+                                 <l xml:id="tg1010.2.594.vn5x.0">Hör' endlich auf, die Brust mir zu berennen –</l>
+                                 <l xml:id="tg1010.2.595.vn5x.0">Nie durch ihr Tor doch zieht die Liebe ein!</l>
+                                 <l xml:id="tg1010.2.596.vn5x.0">Fort deine Heucheltränen, dein Gewäsche!</l>
+                                 <l xml:id="tg1010.2.597.vn5x.0">Mein Herz ist hart – sie machen keine Bresche!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.598.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.599.vn5x.0"/>
+                                 <l xml:id="tg1010.2.600.vn5x.0">Sie drauf: »Du sprichst? Was, hast du eine Zunge?</l>
+                                 <l xml:id="tg1010.2.601.vn5x.0">Es sei! doch wär' ich jetzt nur ohne Ohr!</l>
+                                 <l xml:id="tg1010.2.602.vn5x.0">Denn wie Sirenen redest du, mein Junge!</l>
+                                 <l xml:id="tg1010.2.603.vn5x.0">Zwiefach jetzt duld' ich, duldend schon zuvor!</l>
+                                 <l xml:id="tg1010.2.604.vn5x.0">Melod'scher Mißlaut! Himmelslied voll Strenge!</l>
+                                 <l xml:id="tg1010.2.605.vn5x.0">Herztötende, tiefsüße Erdenklänge!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.606.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.607.vn5x.0"/>
+                                 <l xml:id="tg1010.2.608.vn5x.0">Hätt' ich nicht Augen: jene ungeseh'ne</l>
+                                 <l xml:id="tg1010.2.609.vn5x.0">Inwend'ge Schönheit hörend würd' ich lieben;</l>
+                                 <l xml:id="tg1010.2.610.vn5x.0">Taub aber, fühlt' ich deine äußre Schöne</l>
+                                 <l xml:id="tg1010.2.611.vn5x.0">Mit jedem Teile, dem Gefühl geblieben.</l>
+                                 <l xml:id="tg1010.2.612.vn5x.0">Ohn' Aug' und Ohr in Liebe würd' ich sein,</l>
+                                 <l xml:id="tg1010.2.613.vn5x.0">Und nach dir lechzen – durch's Gefühl allein!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.614.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.615.vn5x.0"/>
+                                 <l xml:id="tg1010.2.616.vn5x.0">Selbst, hätt' ich eingebüßt des Fühlens Sinn;</l>
+                                 <l xml:id="tg1010.2.617.vn5x.0">Könnt' ich nicht sehn, nicht fühlen und nicht hören;</l>
+                                 <l xml:id="tg1010.2.618.vn5x.0">Wär' jeder Sinn, nur der Geruch nicht, hin:</l>
+                                 <l xml:id="tg1010.2.619.vn5x.0">Doch würde wanklos meine Liebe währen!</l>
+                                 <l xml:id="tg1010.2.620.vn5x.0">Denn auf von deinem holden Antlitz steigt</l>
+                                 <l xml:id="tg1010.2.621.vn5x.0">Dein Odem ja, der duftend Liebe zeugt.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.622.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.623.vn5x.0"/>
+                                 <l xml:id="tg1010.2.624.vn5x.0">Doch welch ein Mahl wär'st dem Geschmacke du,</l>
+                                 <l xml:id="tg1010.2.625.vn5x.0">Der Amm' und Nährer ist der andern Viere!</l>
+                                 <l xml:id="tg1010.2.626.vn5x.0">Sie würden's endlos wünschen! 'Zwiefach zu',</l>
+                                 <l xml:id="tg1010.2.627.vn5x.0">Hieß' es zum Argwohn, 'riegle Tor und Türe!</l>
+                                 <l xml:id="tg1010.2.628.vn5x.0">Damit nicht Eifersucht, die saure, herbe,</l>
+                                 <l xml:id="tg1010.2.629.vn5x.0">In's Haus sich schleichend, unser Fest verderbe!'«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.630.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.631.vn5x.0"/>
+                                 <l xml:id="tg1010.2.632.vn5x.0">Aufgeht noch einmal das Rubinportal,</l>
+                                 <l xml:id="tg1010.2.633.vn5x.0">Durch dessen Honig seine Rede gleitet;</l>
+                                 <l xml:id="tg1010.2.634.vn5x.0">Ein roter Morgen scheint's, der allemal</l>
+                                 <pb n="688" xml:id="tg1010.2.635.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.636.vn5x.0">Wrack dem Matrosen, Sturm der Flur bedeutet;</l>
+                                 <l xml:id="tg1010.2.637.vn5x.0">Den Schäfern Leid, den kleinen Vögeln Weh',</l>
+                                 <l xml:id="tg1010.2.638.vn5x.0">Den Herden aber Hagelwind und Schnee.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.639.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.640.vn5x.0"/>
+                                 <l xml:id="tg1010.2.641.vn5x.0">Sie merkt das böse Zeichen mit Bedacht: –</l>
+                                 <l xml:id="tg1010.2.642.vn5x.0">Wie sich der Wind legt, eh' der Regen fällt,</l>
+                                 <l xml:id="tg1010.2.643.vn5x.0">Und wie das Obst platzt, eh' es Flecken macht,</l>
+                                 <l xml:id="tg1010.2.644.vn5x.0">Und wie der Wolf den Zahn weist, eh' er bellt,</l>
+                                 <l xml:id="tg1010.2.645.vn5x.0">Und wie die Kugel, eh' sie tötet, singt:</l>
+                                 <l xml:id="tg1010.2.646.vn5x.0">Ahnt sie sein Meinen, eh' sein Wort es bringt.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.647.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.648.vn5x.0"/>
+                                 <l xml:id="tg1010.2.649.vn5x.0">Und flach vor seinem Blicke fällt sie nieder,</l>
+                                 <l xml:id="tg1010.2.650.vn5x.0">Denn Liebe stirbt und wird belebt durch Blicke:</l>
+                                 <l xml:id="tg1010.2.651.vn5x.0">Ein Grollen schlägt, ein Lächeln heilt sie wieder –</l>
+                                 <l xml:id="tg1010.2.652.vn5x.0">Bankbrüchig jetzt, ist sie erst recht im Glücke.</l>
+                                 <l xml:id="tg1010.2.653.vn5x.0">Der dumme Knabe meint, sie wäre tot;</l>
+                                 <l xml:id="tg1010.2.654.vn5x.0">Er klopft ihr bleich Gesicht – und klopft es rot.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.655.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.656.vn5x.0"/>
+                                 <l xml:id="tg1010.2.657.vn5x.0">Und unterläßt nun, voll von Angst und Staunen,</l>
+                                 <l xml:id="tg1010.2.658.vn5x.0">Was er gewollt: mit Tadel sie bestürmen;</l>
+                                 <l xml:id="tg1010.2.659.vn5x.0">Zuvorkommt Liebe listig seinen Launen –</l>
+                                 <l xml:id="tg1010.2.660.vn5x.0">O Heil der List, die so sich weiß zu schirmen:</l>
+                                 <l xml:id="tg1010.2.661.vn5x.0">Denn wie erschlagen liegt sie auf dem Rasen,</l>
+                                 <l xml:id="tg1010.2.662.vn5x.0">Bis er ihr atmend Leben eingeblasen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.663.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.664.vn5x.0"/>
+                                 <l xml:id="tg1010.2.665.vn5x.0">Er drückt die Nas' ihr, gibt ihr Backenschläge,</l>
+                                 <l xml:id="tg1010.2.666.vn5x.0">Krümmt ihre Finger, ruft: »O woll' erwachen!«</l>
+                                 <l xml:id="tg1010.2.667.vn5x.0">Reibt ihre Lippen, sinnt auf tausend Wege,</l>
+                                 <l xml:id="tg1010.2.668.vn5x.0">Was er verdorben, wieder gut zu machen;</l>
+                                 <l xml:id="tg1010.2.669.vn5x.0">Küßt sie – und sie, geschäh' nur ihr Gelüste,</l>
+                                 <l xml:id="tg1010.2.670.vn5x.0">Erhöbe nie sich, daß er immer küßte.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.671.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.672.vn5x.0"/>
+                                 <l xml:id="tg1010.2.673.vn5x.0">Zum Tage jetzo wird des Kummers Nacht;</l>
+                                 <l xml:id="tg1010.2.674.vn5x.0">Matt ihre blauen Fenster hebt sie beide,</l>
+                                 <l xml:id="tg1010.2.675.vn5x.0">Der Sonne gleich, wenn in erneuter Pracht</l>
+                                 <l xml:id="tg1010.2.676.vn5x.0">Sie grüßt den Morgen, aller Welt zur Freude;</l>
+                                 <l xml:id="tg1010.2.677.vn5x.0">Und wie die Sonne hehr durchstrahlt die Welt,</l>
+                                 <l xml:id="tg1010.2.678.vn5x.0">So wird ihr Antlitz ganz vom Aug' erhellt:</l>
+                                 <pb n="689" xml:id="tg1010.2.679.vn5x.0"/> 
+                              </lg>
+                              <lb xml:id="tg1010.2.680.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.681.vn5x.0"/>
+                                 <l xml:id="tg1010.2.682.vn5x.0">Das auf das seine heftet all' sein Flammen,</l>
+                                 <l xml:id="tg1010.2.683.vn5x.0">Als ob von dem nur Glut und Schein ihm kämen;</l>
+                                 <l xml:id="tg1010.2.684.vn5x.0">Vier solche Kerzen brannten nie zusammen,</l>
+                                 <l xml:id="tg1010.2.685.vn5x.0">Nur daß die seinen wölkt ein stilles Grämen;</l>
+                                 <l xml:id="tg1010.2.686.vn5x.0">Doch ihre, deren Strahl durch Tränen bricht,</l>
+                                 <l xml:id="tg1010.2.687.vn5x.0">Sprühn, wie bei Nacht im Wasser Mondenlicht;</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.688.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.689.vn5x.0"/>
+                                 <l xml:id="tg1010.2.690.vn5x.0">»Bin ich im Himmel oder noch auf Erden?«</l>
+                                 <l xml:id="tg1010.2.691.vn5x.0">Ruft sie, »der Flut, dem Feuer preisgegeben?</l>
+                                 <l xml:id="tg1010.2.692.vn5x.0">Ist's müder Abend, will es Morgen werden?</l>
+                                 <l xml:id="tg1010.2.693.vn5x.0">Schwelg' ich im Tode? wünsch' ich noch zu leben?</l>
+                                 <l xml:id="tg1010.2.694.vn5x.0">Erst eben lebt' ich – ach in Sterbeleide!</l>
+                                 <l xml:id="tg1010.2.695.vn5x.0">Starb eben erst – und Tod war Lebensfreude!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.696.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.697.vn5x.0"/>
+                                 <l xml:id="tg1010.2.698.vn5x.0">O, du erschlugst mich! tu' es noch einmal!</l>
+                                 <l xml:id="tg1010.2.699.vn5x.0">Das schlau den Lehrer deiner Augen macht,</l>
+                                 <l xml:id="tg1010.2.700.vn5x.0">Dein hartes Herz hat so zu meiner Qual</l>
+                                 <l xml:id="tg1010.2.701.vn5x.0">Erzogen sie, daß meins sie umgebracht!</l>
+                                 <l xml:id="tg1010.2.702.vn5x.0">Und meine Augen – nie mehr sah'n die armen,</l>
+                                 <l xml:id="tg1010.2.703.vn5x.0">Trug nicht dein Mund ein wonnevoll Erbarmen!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.704.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.705.vn5x.0"/>
+                                 <l xml:id="tg1010.2.706.vn5x.0">Drum mögen lang sich deine Lippen küssen!</l>
+                                 <l xml:id="tg1010.2.707.vn5x.0">O, mög' ihr Purpur nun und nie erbleichen!</l>
+                                 <l xml:id="tg1010.2.708.vn5x.0">Sie sollen blühn, und alle Seuche müssen</l>
+                                 <l xml:id="tg1010.2.709.vn5x.0">Dem unheildroh'nden Jahre sie verscheuchen!</l>
+                                 <l xml:id="tg1010.2.710.vn5x.0">Daß angeführt der Sternendeuter sage,</l>
+                                 <l xml:id="tg1010.2.711.vn5x.0">Durch deinen Odem sei gebannt die Plage.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.712.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.713.vn5x.0"/>
+                                 <l xml:id="tg1010.2.714.vn5x.0">O, wie als Siegel deine Lippen frei</l>
+                                 <l xml:id="tg1010.2.715.vn5x.0">Die meinen preßten! Sprich, was muß ich geben,</l>
+                                 <l xml:id="tg1010.2.716.vn5x.0">Daß sie es wieder tun? Mich selbst? Es sei,</l>
+                                 <l xml:id="tg1010.2.717.vn5x.0">Dafern du ehrlich zahlst und handelst eben!</l>
+                                 <l xml:id="tg1010.2.718.vn5x.0">Willst du den Kauf? Wohl denn, besiegl' ihn stracks</l>
+                                 <l xml:id="tg1010.2.719.vn5x.0">Auf meiner Lippen rotem Siegelwachs!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.720.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.721.vn5x.0"/>
+                                 <l xml:id="tg1010.2.722.vn5x.0">Nicht, tausend Küsse kauft mein Herz von mir?</l>
+                                 <l xml:id="tg1010.2.723.vn5x.0">Du zahlst sie wieder, ganz wie dein Verlangen.</l>
+                                 <l xml:id="tg1010.2.724.vn5x.0">O sprich, was sind zehnhundert Küsse dir?</l>
+                                 <pb n="690" xml:id="tg1010.2.725.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.726.vn5x.0">Sind sie nicht rasch gezählt und rasch gegangen?</l>
+                                 <l xml:id="tg1010.2.727.vn5x.0">Sag', daß Nicht-Zahlung sie verdoppeln müsse –</l>
+                                 <l xml:id="tg1010.2.728.vn5x.0">Sind solche Müh' denn zwanzighundert Küsse?«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.729.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.730.vn5x.0"/>
+                                 <l xml:id="tg1010.2.731.vn5x.0">So er: »Wenn du mich lieb hast – immer nenne</l>
+                                 <l xml:id="tg1010.2.732.vn5x.0">Mich blöd, doch halt' es meinem Flaum zu gut!</l>
+                                 <l xml:id="tg1010.2.733.vn5x.0">Willst du mich kennen, eh' ich selbst mich kenne?</l>
+                                 <l xml:id="tg1010.2.734.vn5x.0">Fängt denn der Fischer auch die zarte Brut?</l>
+                                 <l xml:id="tg1010.2.735.vn5x.0">Abfallen reife, nimmer grüne Pflaumen,</l>
+                                 <l xml:id="tg1010.2.736.vn5x.0">Und brichst du sie, so sind sie herb dem Gaumen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.737.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.738.vn5x.0"/>
+                                 <l xml:id="tg1010.2.739.vn5x.0">O sieh', wie müd die Sonne niedergeht;</l>
+                                 <l xml:id="tg1010.2.740.vn5x.0">Ihr heißes Tagwerk endigt sie im West.</l>
+                                 <l xml:id="tg1010.2.741.vn5x.0">Die Eule kreischt, Herold der Nacht; 's wird spät;</l>
+                                 <l xml:id="tg1010.2.742.vn5x.0">Zum Pferch das Lamm, der Vogel eilt zum Nest.</l>
+                                 <l xml:id="tg1010.2.743.vn5x.0">Kohlschwarz Gewölk verhüllt den Himmel weit,</l>
+                                 <l xml:id="tg1010.2.744.vn5x.0">Und ruft: Gut' Nacht nun! es ist Scheidenszeit!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.745.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.746.vn5x.0"/>
+                                 <l xml:id="tg1010.2.747.vn5x.0">Drum gute Nacht! und sag' auch du gut' Nacht!</l>
+                                 <l xml:id="tg1010.2.748.vn5x.0">Ein Kuß, wenn du es sagst, wird noch gezollt!«</l>
+                                 <l xml:id="tg1010.2.749.vn5x.0">»Gut' Nacht!« ruft sie, und eh' er auf sich macht,</l>
+                                 <l xml:id="tg1010.2.750.vn5x.0">Reicht er ihr dar des Scheidens Honigsold.</l>
+                                 <l xml:id="tg1010.2.751.vn5x.0">Um seinen Hals die Arme schlägt sie dicht,</l>
+                                 <l xml:id="tg1010.2.752.vn5x.0">Sie scheinen eins, Gesicht wächst an Gesicht.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.753.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.754.vn5x.0"/>
+                                 <l xml:id="tg1010.2.755.vn5x.0">Bis atemlos er endlich sich befreit,</l>
+                                 <l xml:id="tg1010.2.756.vn5x.0">Und ihrem Durst das sel'ge Naß versagt,</l>
+                                 <l xml:id="tg1010.2.757.vn5x.0">Den Purpurmund, in dessen Süßigkeit</l>
+                                 <l xml:id="tg1010.2.758.vn5x.0">Sie schwelgt, und dennoch über Dürre klagt.</l>
+                                 <l xml:id="tg1010.2.759.vn5x.0">Vor Mangel sie, er matt vor Überfluß,</l>
+                                 <l xml:id="tg1010.2.760.vn5x.0">Hinfallen sie, nochmals vereint im Kuß.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.761.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.762.vn5x.0"/>
+                                 <l xml:id="tg1010.2.763.vn5x.0">Jetzt hat sie ihn! Ha, wie er blöd sich fügt!</l>
+                                 <l xml:id="tg1010.2.764.vn5x.0">Ha, wie sie nie zu sättigend ihn zerfleischt!</l>
+                                 <l xml:id="tg1010.2.765.vn5x.0">Ihr Mund ist Sieger, seiner zahlt besiegt</l>
+                                 <l xml:id="tg1010.2.766.vn5x.0">Die Lösung aus, die der Beleid'ger heischt,</l>
+                                 <l xml:id="tg1010.2.767.vn5x.0">Und geierhungrig heischt so hohen Satz:</l>
+                                 <l xml:id="tg1010.2.768.vn5x.0">Versiegen muß des Zahlers Lippenschatz.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.769.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.770.vn5x.0"/>
+                                 <l xml:id="tg1010.2.771.vn5x.0">Und nun der Beute Süßigkeit sie kennt,</l>
+                                 <l xml:id="tg1010.2.772.vn5x.0">Beginnt zu prassen sie mit blinder Wut;</l>
+                                 <l xml:id="tg1010.2.773.vn5x.0">Heiß kocht ihr Blut, ihr Antlitz raucht und brennt,</l>
+                                 <l xml:id="tg1010.2.774.vn5x.0">Achtlose Wollust facht verwegnen Mut,</l>
+                                 <l xml:id="tg1010.2.775.vn5x.0">Nicht Ehre mehr, nicht Sitte mehr ermessend,</l>
+                                 <l xml:id="tg1010.2.776.vn5x.0">Taub der Vernunft, des Rots der Scham vergessend.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.777.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.778.vn5x.0"/>
+                                 <l xml:id="tg1010.2.779.vn5x.0">Von ihrem Ungestüm heiß und zerschlagen,</l>
+                                 <l xml:id="tg1010.2.780.vn5x.0">Dem Falken ähnlich, den man zahm gekirrt,</l>
+                                 <l xml:id="tg1010.2.781.vn5x.0">Dem Rehe gleich, das matt vom langen Jagen,</l>
+                                 <l xml:id="tg1010.2.782.vn5x.0">Dem Kinde, das durch Tändeln ruhig wird,</l>
+                                 <l xml:id="tg1010.2.783.vn5x.0">Gehorcht er jetzt, und sie zur selben Zeit</l>
+                                 <l xml:id="tg1010.2.784.vn5x.0">Nimmt – nach Gelüst nicht, doch nach Möglichkeit.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.785.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.786.vn5x.0"/>
+                                 <l xml:id="tg1010.2.787.vn5x.0">Kein Wachs so hart, das Wärme nicht erweichte,</l>
+                                 <l xml:id="tg1010.2.788.vn5x.0">Drauf jeder Druck zuletzt nicht haften bliebe!</l>
+                                 <l xml:id="tg1010.2.789.vn5x.0">Kein Ding so schwer, das Kühnheit nicht erreichte</l>
+                                 <l xml:id="tg1010.2.790.vn5x.0">Und Stetigkeit – vor allem in der Liebe!</l>
+                                 <l xml:id="tg1010.2.791.vn5x.0">Neigung ermattet nicht nach Feiglingsart:</l>
+                                 <l xml:id="tg1010.2.792.vn5x.0">Nein, wirbt am besten, wenn verschmäht sie ward.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.793.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.794.vn5x.0"/>
+                                 <l xml:id="tg1010.2.795.vn5x.0">Wich seinem Zürnen alsobald ihr Schmachten,</l>
+                                 <l xml:id="tg1010.2.796.vn5x.0">Von seinen Lippen Nektar sog sie nie.</l>
+                                 <l xml:id="tg1010.2.797.vn5x.0">Wer Liebe hegt, soll keiner Ungunst achten –</l>
+                                 <l xml:id="tg1010.2.798.vn5x.0">Die Ros' hat Dornen, dennoch pflückt man sie!</l>
+                                 <l xml:id="tg1010.2.799.vn5x.0">Wie manchem Schloß die Schönheit auch verfalle,</l>
+                                 <l xml:id="tg1010.2.800.vn5x.0">Die Liebe mit dem Dietrich bricht durch alle!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.801.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.802.vn5x.0"/>
+                                 <l xml:id="tg1010.2.803.vn5x.0">Aus Mitleid jetzt kann sie ihn nicht mehr halten,</l>
+                                 <l xml:id="tg1010.2.804.vn5x.0">Denn gar zu kläglich ist sein Flehn und Grämen;</l>
+                                 <l xml:id="tg1010.2.805.vn5x.0">Drum sagt sie endlich Lebewohl dem Kalten,</l>
+                                 <l xml:id="tg1010.2.806.vn5x.0">Und bittet ihn, ihr Herz in acht zu nehmen,</l>
+                                 <l xml:id="tg1010.2.807.vn5x.0">Das – sie beschwört es bei Cupidos Bogen –</l>
+                                 <l xml:id="tg1010.2.808.vn5x.0">Ihr in den Käfig seiner Brust entflogen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.809.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.810.vn5x.0"/>
+                                 <l xml:id="tg1010.2.811.vn5x.0">»Du Süßer«, spricht sie, »eine Nacht voll Sorgen</l>
+                                 <l xml:id="tg1010.2.812.vn5x.0">Steht mir bevor! Du scheuchst den Schlaf mir fort!</l>
+                                 <l xml:id="tg1010.2.813.vn5x.0">Sag' mir, mein Meister, treffen wir uns morgen?</l>
+                                 <pb n="692" xml:id="tg1010.2.814.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.815.vn5x.0">Sag', treffen wir uns? sag' mir, ist's ein Wort?«</l>
+                                 <l xml:id="tg1010.2.816.vn5x.0">Er sagt ihr, nein! denn längst ward ausgemacht:</l>
+                                 <l xml:id="tg1010.2.817.vn5x.0">Mit Freuden zieht er auf die Eberjagd.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.818.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.819.vn5x.0"/>
+                                 <l xml:id="tg1010.2.820.vn5x.0">»Die Eberjagd!« – und jähes Blaß zur Stunde</l>
+                                 <l xml:id="tg1010.2.821.vn5x.0">(Dem Linnen gleich, das auf die Rose weht)</l>
+                                 <l xml:id="tg1010.2.822.vn5x.0">Deckt ihr Gesicht; sie zittert bei der Kunde,</l>
+                                 <l xml:id="tg1010.2.823.vn5x.0">Und reißt ihn an sich, der schon von ihr geht;</l>
+                                 <l xml:id="tg1010.2.824.vn5x.0">Sinkt dann, indes ihn ihre Arm' umstricken:</l>
+                                 <l xml:id="tg1010.2.825.vn5x.0">Er fällt auf ihren Leib, sie auf den Rücken.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.826.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.827.vn5x.0"/>
+                                 <l xml:id="tg1010.2.828.vn5x.0">Nun ist sie recht erst in der Liebe Schranken:</l>
+                                 <l xml:id="tg1010.2.829.vn5x.0">Aufsaß ihr Ritter ja, heiß obzusiegen;</l>
+                                 <l xml:id="tg1010.2.830.vn5x.0">Doch diesmal auch bleibt alles beim Gedanken –</l>
+                                 <l xml:id="tg1010.2.831.vn5x.0">Er reitet nicht, hat er sie auch bestiegen!</l>
+                                 <l xml:id="tg1010.2.832.vn5x.0">Wer um Elysium so gebracht sein muß,</l>
+                                 <l xml:id="tg1010.2.833.vn5x.0">Erduldet Schlimm'res wohl als Tantalus.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.834.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.835.vn5x.0"/>
+                                 <l xml:id="tg1010.2.836.vn5x.0">Gleichwie, betrogen von gemalten Trauben,</l>
+                                 <l xml:id="tg1010.2.837.vn5x.0">Hungrige Vögel schwelgen mit den Blicken –</l>
+                                 <l xml:id="tg1010.2.838.vn5x.0">Ihr Kropf bleibt leer, kein Beerchen läßt sich rauben –</l>
+                                 <l xml:id="tg1010.2.839.vn5x.0">So schmachtet sie in ihren Mißgeschicken.</l>
+                                 <l xml:id="tg1010.2.840.vn5x.0">Die Wärme, die er kalt sie läßt vermissen,</l>
+                                 <l xml:id="tg1010.2.841.vn5x.0">Sucht sie zu fachen mit beständ'gem Küssen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.842.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.843.vn5x.0"/>
+                                 <l xml:id="tg1010.2.844.vn5x.0">Umsonst, du Gute! nie wirst du erhört! –</l>
+                                 <l xml:id="tg1010.2.845.vn5x.0">All' ihre Listen hat sie nun geübt;</l>
+                                 <l xml:id="tg1010.2.846.vn5x.0">Wohl scheint ihr Werben größern Lohnes wert:</l>
+                                 <l xml:id="tg1010.2.847.vn5x.0">Die Liebe liebt, und wird doch nicht geliebt!</l>
+                                 <l xml:id="tg1010.2.848.vn5x.0">»Pfui«, ruft er, »du erdrückst mich! laß mich gehn!</l>
+                                 <l xml:id="tg1010.2.849.vn5x.0">Du hast kein Recht, mir so im Weg zu stehn!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.850.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.851.vn5x.0"/>
+                                 <l xml:id="tg1010.2.852.vn5x.0">Sie drauf: »Du wär'st schon fort zu dieser Frist,</l>
+                                 <l xml:id="tg1010.2.853.vn5x.0">Wenn das vom Eber nicht entschlüpft dir wäre!</l>
+                                 <l xml:id="tg1010.2.854.vn5x.0">O sei gewarnt; du weißt nicht, was es ist,</l>
+                                 <l xml:id="tg1010.2.855.vn5x.0">Ein tappig Schwein zu stechen mit dem Speere!</l>
+                                 <l xml:id="tg1010.2.856.vn5x.0">Gleichwie ein blut'ger Fleischer, mordbereit,</l>
+                                 <l xml:id="tg1010.2.857.vn5x.0">Die nackten Hauer wetzt er allezeit.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.858.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.859.vn5x.0"/>
+                                 <l xml:id="tg1010.2.860.vn5x.0">Auf seinen Rücken starrt ihm eine Schlacht</l>
+                                 <l xml:id="tg1010.2.861.vn5x.0">Von borst'gen Lanzen; grimmig sein Geschnauf;</l>
+                                 <l xml:id="tg1010.2.862.vn5x.0">Glüh flammt sein Auge, wenn man wild ihn macht;</l>
+                                 <l xml:id="tg1010.2.863.vn5x.0">Sein Rüssel, wo er geht, wühlt Gräber auf;</l>
+                                 <l xml:id="tg1010.2.864.vn5x.0">Hinwirft er, was sich zeigt auf seinem Wege,</l>
+                                 <l xml:id="tg1010.2.865.vn5x.0">Und tötet, was er wirft, durch Hauerschläge.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.866.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.867.vn5x.0"/>
+                                 <l xml:id="tg1010.2.868.vn5x.0">Sein sehn'ger Wanst, mit straffem Haar bewehrt,</l>
+                                 <l xml:id="tg1010.2.869.vn5x.0">Stichfest und derb, braucht keinen Speer zu scheun;</l>
+                                 <l xml:id="tg1010.2.870.vn5x.0">Sein kurzer dicker Hals wird schwer versehrt;</l>
+                                 <l xml:id="tg1010.2.871.vn5x.0">Zornig nimmt er es auf selbst mit dem Leun;</l>
+                                 <l xml:id="tg1010.2.872.vn5x.0">Die er durchbricht, die Dorn- und Brombeerhecken,</l>
+                                 <l xml:id="tg1010.2.873.vn5x.0">Gehn vor ihm auf, als macht' er ihnen Schrecken.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.874.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.875.vn5x.0"/>
+                                 <l xml:id="tg1010.2.876.vn5x.0">Ach, wenig achtet er dein hold Gesicht,</l>
+                                 <l xml:id="tg1010.2.877.vn5x.0">Dem als Tribut ich staunende Blicke zolle;</l>
+                                 <l xml:id="tg1010.2.878.vn5x.0">Dein klares Aug', dein Mund auch rührt ihn nicht,</l>
+                                 <l xml:id="tg1010.2.879.vn5x.0">Noch deine Hand, die weiche, wonnevolle.</l>
+                                 <l xml:id="tg1010.2.880.vn5x.0">Nein, hätt' er dich: verheeren würd' er diese</l>
+                                 <l xml:id="tg1010.2.881.vn5x.0">Schönheiten all', wie er verheert die Wiese.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.882.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.883.vn5x.0"/>
+                                 <l xml:id="tg1010.2.884.vn5x.0">Drum stör ihn nicht, wo tief im Forst er ruht;</l>
+                                 <l xml:id="tg1010.2.885.vn5x.0">Was soll die Schönheit mit so garst'gen Feinden?</l>
+                                 <l xml:id="tg1010.2.886.vn5x.0">Komm nicht mit Fleiß zu nahe seiner Wut –</l>
+                                 <l xml:id="tg1010.2.887.vn5x.0">Wer gern gedeiht, nimmt Rat an von den Freunden.</l>
+                                 <l xml:id="tg1010.2.888.vn5x.0">Als du ihn nanntest, daß ich's nicht verhehle,</l>
+                                 <l xml:id="tg1010.2.889.vn5x.0">Bebt' ich um dich, und Angst befiel die Seele.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.890.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.891.vn5x.0"/>
+                                 <l xml:id="tg1010.2.892.vn5x.0">Denk' an mein Antlitz nur! War es nicht bleich?</l>
+                                 <l xml:id="tg1010.2.893.vn5x.0">Sahst du nicht Furcht in meinen Augen wittern?</l>
+                                 <l xml:id="tg1010.2.894.vn5x.0">Sank ich in Ohnmacht nieder nicht sogleich?</l>
+                                 <l xml:id="tg1010.2.895.vn5x.0">In meiner Brust, auf der du liegst, mit Zittern</l>
+                                 <l xml:id="tg1010.2.896.vn5x.0">Schlägt hoch mein ahnend Herz, die heiße Kraft,</l>
+                                 <l xml:id="tg1010.2.897.vn5x.0">Und wirft und schüttelt dich erdbebenhaft.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.898.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.899.vn5x.0"/>
+                                 <l xml:id="tg1010.2.900.vn5x.0">Denn wo die Liebe herrscht, kommt mit Geschrei</l>
+                                 <l xml:id="tg1010.2.901.vn5x.0">Die Eifersucht, und nennt sich ihren Hort;</l>
+                                 <l xml:id="tg1010.2.902.vn5x.0">Macht blinden Lärm gleich, spricht von Meuterei,</l>
+                                 <pb n="694" xml:id="tg1010.2.903.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.904.vn5x.0">Und ruft sogar in Friedenszeit: 'Mord, Mord!'</l>
+                                 <l xml:id="tg1010.2.905.vn5x.0">Beirrend so der sanften Lieb' Entzücken,</l>
+                                 <l xml:id="tg1010.2.906.vn5x.0">Wie Luft und Wasser Feuer unterdrücken.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.907.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.908.vn5x.0"/>
+                                 <l xml:id="tg1010.2.909.vn5x.0">Und diese Klatsche, diese Späherin,</l>
+                                 <l xml:id="tg1010.2.910.vn5x.0">Die, wie ein Krebs, der Liebe Lenz verschlingt,</l>
+                                 <l xml:id="tg1010.2.911.vn5x.0">Sie, diese Eifersucht, die her und hin</l>
+                                 <l xml:id="tg1010.2.912.vn5x.0">Wahres zuweilen, oft auch Falsches bringt,</l>
+                                 <l xml:id="tg1010.2.913.vn5x.0">Pocht mir an's Herz, raunt mir in's Ohr und droht:</l>
+                                 <l xml:id="tg1010.2.914.vn5x.0">»Wenn du ihn liebst, so fürcht' auch seinen Tod!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.915.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.916.vn5x.0"/>
+                                 <l xml:id="tg1010.2.917.vn5x.0">Und mehr als das: stellt meinem Auge dar</l>
+                                 <l xml:id="tg1010.2.918.vn5x.0">Ein zornig Schwein, ein toll und tobend Tier;</l>
+                                 <l xml:id="tg1010.2.919.vn5x.0">Und blutend unter seiner Fänge Paar</l>
+                                 <l xml:id="tg1010.2.920.vn5x.0">Liegt auf dem Rücken ein Gebild – gleich dir!</l>
+                                 <l xml:id="tg1010.2.921.vn5x.0">Die Blumen, die sein Herzblut aufgefangen,</l>
+                                 <l xml:id="tg1010.2.922.vn5x.0">Stehn trauernd da, und ihre Köpfchen hangen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.923.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.924.vn5x.0"/>
+                                 <l xml:id="tg1010.2.925.vn5x.0">Was sollt ich tun, als so zu meinem Schmerz</l>
+                                 <l xml:id="tg1010.2.926.vn5x.0">Du mir erschienest, allzukühner Knabe?</l>
+                                 <l xml:id="tg1010.2.927.vn5x.0">Schon beim Gedanken blutet mir das Herz,</l>
+                                 <l xml:id="tg1010.2.928.vn5x.0">Und Furcht verleiht ihm der Voraussicht Gabe:</l>
+                                 <l xml:id="tg1010.2.929.vn5x.0">Ja, sterben wirst du, liebste meiner Sorgen,</l>
+                                 <l xml:id="tg1010.2.930.vn5x.0">Dafern der Eber dich hinauslockt morgen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.931.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.932.vn5x.0"/>
+                                 <l xml:id="tg1010.2.933.vn5x.0">Doch hör' auf mich, willst du durchaus in's Feld:</l>
+                                 <l xml:id="tg1010.2.934.vn5x.0">Laß los die Koppel auf den bangen Hasen,</l>
+                                 <l xml:id="tg1010.2.935.vn5x.0">Los auf den Fuchs, der sich durch List erhält,</l>
+                                 <l xml:id="tg1010.2.936.vn5x.0">Los auf das Reh, das kampfscheu tritt den Rasen:</l>
+                                 <l xml:id="tg1010.2.937.vn5x.0">All' diese Zagen, jag' sie auf den Dünen,</l>
+                                 <l xml:id="tg1010.2.938.vn5x.0">Und hoch zu Roß folg' mit den Hunden ihnen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.939.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.940.vn5x.0"/>
+                                 <l xml:id="tg1010.2.941.vn5x.0">Und wenn den Hasen frisch du aufgespürt,</l>
+                                 <l xml:id="tg1010.2.942.vn5x.0">O sieh' den armen Schelm, o sieh' den Bängsten,</l>
+                                 <l xml:id="tg1010.2.943.vn5x.0">Wie er dem Winde vorläuft, jetzt laviert,</l>
+                                 <l xml:id="tg1010.2.944.vn5x.0">Jetzo sich duckt und lauscht in seinen Ängsten;</l>
+                                 <l xml:id="tg1010.2.945.vn5x.0">Ein Labyrinth von Listen und von Launen</l>
+                                 <l xml:id="tg1010.2.946.vn5x.0">Durchhastet er zu seiner Feinde Staunen.</l>
+                                 <pb n="695" xml:id="tg1010.2.947.vn5x.0"/> 
+                              </lg>
+                              <lb xml:id="tg1010.2.948.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.949.vn5x.0"/>
+                                 <l xml:id="tg1010.2.950.vn5x.0">Oft läuft er zwischen eine Lämmerherde,</l>
+                                 <l xml:id="tg1010.2.951.vn5x.0">Daß ihr Geruch die Hunde irre macht</l>
+                                 <l xml:id="tg1010.2.952.vn5x.0">Oft, wo Kaninchenvolk durchwühlt die Erde,</l>
+                                 <l xml:id="tg1010.2.953.vn5x.0">Verbirgt er sich, daß jäh verstummt die Jagd;</l>
+                                 <l xml:id="tg1010.2.954.vn5x.0">Oft unter Hirschen auch enteilt er schnell:</l>
+                                 <l xml:id="tg1010.2.955.vn5x.0">Gefahr zeugt List, Witz ist der Furcht Gesell.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.956.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.957.vn5x.0"/>
+                                 <l xml:id="tg1010.2.958.vn5x.0">Denn seine Wittrung dort, vermischt den andern,</l>
+                                 <l xml:id="tg1010.2.959.vn5x.0">Bringt Ungewißheit den erhitzten Hunden;</l>
+                                 <l xml:id="tg1010.2.960.vn5x.0">Ihr Bellen schweigt; sie suchen und sie wandern,</l>
+                                 <l xml:id="tg1010.2.961.vn5x.0">Bis ihren Fehler sie zuletzt gefunden;</l>
+                                 <l xml:id="tg1010.2.962.vn5x.0">Dann frisch Gebell, vom Widerhall verdoppelt,</l>
+                                 <l xml:id="tg1010.2.963.vn5x.0">Als wär' am Himmel noch 'ne Jagd entkoppelt.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.964.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.965.vn5x.0"/>
+                                 <l xml:id="tg1010.2.966.vn5x.0">Um diese Zeit, fernab von einer Höh',</l>
+                                 <l xml:id="tg1010.2.967.vn5x.0">Stellt Lampe sich auf seine Hinterläufe,</l>
+                                 <l xml:id="tg1010.2.968.vn5x.0">Daß er sich um nach seinen Gegnern seh' –</l>
+                                 <l xml:id="tg1010.2.969.vn5x.0">Da wiederum tönt Klaffen und Gekeife,</l>
+                                 <l xml:id="tg1010.2.970.vn5x.0">Und jetzt dem Kranken gleicht er, der verstört</l>
+                                 <l xml:id="tg1010.2.971.vn5x.0">Vor seiner Tür des Priesters Glöcklein hört.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.972.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.973.vn5x.0"/>
+                                 <l xml:id="tg1010.2.974.vn5x.0">Noch einmal flieht er, ganz mit Tau benetzt –</l>
+                                 <l xml:id="tg1010.2.975.vn5x.0">Doch jede Ranke schon hält auf den Matten.</l>
+                                 <l xml:id="tg1010.2.976.vn5x.0">Sieh, wie im Zickzack über'n Weg er setzt –</l>
+                                 <l xml:id="tg1010.2.977.vn5x.0">Ach, jedes Murmeln hemmt ihn, jeder Schatten.</l>
+                                 <l xml:id="tg1010.2.978.vn5x.0">Denn harten Tritts das Elend treten alle:</l>
+                                 <l xml:id="tg1010.2.979.vn5x.0">Nicht einer, der es aufhebt nach dem Falle.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.980.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.981.vn5x.0"/>
+                                 <l xml:id="tg1010.2.982.vn5x.0">Lieg' still, und hör' noch etwas von der Sache!</l>
+                                 <l xml:id="tg1010.2.983.vn5x.0">Nein, still – noch kommst du nicht von meiner Seite!</l>
+                                 <l xml:id="tg1010.2.984.vn5x.0">Daß ich des Ebers Jagd verhaßt dir mache,</l>
+                                 <l xml:id="tg1010.2.985.vn5x.0">Ungleich mir selbst, hörst du mich pred'gen heute –</l>
+                                 <l xml:id="tg1010.2.986.vn5x.0">Auf solchen Fall anwendend solche Lehren,</l>
+                                 <l xml:id="tg1010.2.987.vn5x.0">Denn jedes Weh kann Liebe dir erklären.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.988.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.989.vn5x.0"/>
+                                 <l xml:id="tg1010.2.990.vn5x.0">Wo blieb ich denn?« – »Mir gleich!« sprach er entgegen;</l>
+                                 <l xml:id="tg1010.2.991.vn5x.0">»Bleib' mir nur fern, so endet die Geschichte!</l>
+                                 <l xml:id="tg1010.2.992.vn5x.0">Die Nacht ist um!« – Sie: »Was ist dran gelegen?«</l>
+                                 <pb n="696" xml:id="tg1010.2.993.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.994.vn5x.0">Er gleich: »Man harrt mein mit dem ersten Lichte;</l>
+                                 <l xml:id="tg1010.2.995.vn5x.0">Und noch ist's dunkel, und ich werde fallen!« –</l>
+                                 <l xml:id="tg1010.2.996.vn5x.0">Sie: »Die Begier sieht nächtens hell vor allen!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.997.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.998.vn5x.0"/>
+                                 <l xml:id="tg1010.2.999.vn5x.0">Doch wenn du wirklich fällst, so wiss' und glaube:</l>
+                                 <l xml:id="tg1010.2.1000.vn5x.0">Die Erd', in Liebe, stellte dir ein Bein,</l>
+                                 <l xml:id="tg1010.2.1001.vn5x.0">Einzig damit sie einen Kuß dir raube.</l>
+                                 <l xml:id="tg1010.2.1002.vn5x.0">Reich Gut lockt Wackre auch zu Dieberein:</l>
+                                 <l xml:id="tg1010.2.1003.vn5x.0">So wölkt dein Mund Dianas Blick, der herben –</l>
+                                 <l xml:id="tg1010.2.1004.vn5x.0">Sie möchte küssen und meineidig sterben.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1005.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1006.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1007.vn5x.0">Nun erst erkenn' ich dieses Dunkels Sinn:</l>
+                                 <l xml:id="tg1010.2.1008.vn5x.0">Cynthia aus Scham birgt ihren Schein zumal,</l>
+                                 <l xml:id="tg1010.2.1009.vn5x.0">Bis sie verurteilt als Verräterin</l>
+                                 <l xml:id="tg1010.2.1010.vn5x.0">Sieht die Natur: die Form zu dir ja stahl</l>
+                                 <l xml:id="tg1010.2.1011.vn5x.0">Die Freche vom Olymp, durch solches Nehmen</l>
+                                 <l xml:id="tg1010.2.1012.vn5x.0">Die Sonn' am Tag, nachts Luna zu beschämen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1013.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1014.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1015.vn5x.0">Und drum die Parzen auch ging sie bestechen,</l>
+                                 <l xml:id="tg1010.2.1016.vn5x.0">Das seltne Kunstwerk der Natur zu kreuzen;</l>
+                                 <l xml:id="tg1010.2.1017.vn5x.0">Der Schönheit beizumischen leid'ge Schwächen,</l>
+                                 <l xml:id="tg1010.2.1018.vn5x.0">Ach, und Entstellung sonst vollkomm'nen Reizen,</l>
+                                 <l xml:id="tg1010.2.1019.vn5x.0">Sie unterwerfend aller Tyrannei</l>
+                                 <l xml:id="tg1010.2.1020.vn5x.0">Qualvollen Elends, schnöder Krüppelei:</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1021.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1022.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1023.vn5x.0">Dem Fieber so, das brennend und verheerend,</l>
+                                 <l xml:id="tg1010.2.1024.vn5x.0">Der Pestilenz, dem Krampf, der irren Wut,</l>
+                                 <l xml:id="tg1010.2.1025.vn5x.0">Und jener Krankheit, die, das Mark verzehrend,</l>
+                                 <l xml:id="tg1010.2.1026.vn5x.0">Mit heißem Wallen sieden macht das Blut! –</l>
+                                 <l xml:id="tg1010.2.1027.vn5x.0">Die sind's! Die schwuren der Natur den Tod,</l>
+                                 <l xml:id="tg1010.2.1028.vn5x.0">Weil sie so hold dich schuf, so weiß und rot.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1029.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1030.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1031.vn5x.0">Und der geringsten dieser bösen Seuchen</l>
+                                 <l xml:id="tg1010.2.1032.vn5x.0">Erliegt die Schönheit, eh' Minuten fliehn;</l>
+                                 <l xml:id="tg1010.2.1033.vn5x.0">Saft, Kraft und Farbe – alles siehst du weichen,</l>
+                                 <l xml:id="tg1010.2.1034.vn5x.0">Was eben noch dem Stauner göttlich schien;</l>
+                                 <l xml:id="tg1010.2.1035.vn5x.0">Auftaut und schmilzt es fort mit einemmal,</l>
+                                 <l xml:id="tg1010.2.1036.vn5x.0">Wie Schnee des Bergs im Mittagssonnenstrahl.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1037.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1038.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1039.vn5x.0">Drum, unfruchtbare Keuschheit zu verhöhnen,</l>
+                                 <l xml:id="tg1010.2.1040.vn5x.0">Drum Nonnen und Vestalen auch zum Torte,</l>
+                                 <l xml:id="tg1010.2.1041.vn5x.0">Die Mangel gern an Töchtern und an Söhnen</l>
+                                 <l xml:id="tg1010.2.1042.vn5x.0">Ausgössen auf die Erde, die verdorrte: –</l>
+                                 <l xml:id="tg1010.2.1043.vn5x.0">Vergeude du! die Lampe, hell von Schein,</l>
+                                 <l xml:id="tg1010.2.1044.vn5x.0">Verzehrt ihr Öl, der Welt ihr Licht zu leihn.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1045.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1046.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1047.vn5x.0">Was ist dein Leib, als ein verschlingend Grab</l>
+                                 <l xml:id="tg1010.2.1048.vn5x.0">Für alle sie, die durch das Recht der Zeit</l>
+                                 <l xml:id="tg1010.2.1049.vn5x.0">Dir die Natur zu deinen Kindern gab,</l>
+                                 <l xml:id="tg1010.2.1050.vn5x.0">Zerstörtest du sie nicht in Dunkelheit?</l>
+                                 <l xml:id="tg1010.2.1051.vn5x.0">Ist dem also, muß dich die Welt verachten:</l>
+                                 <l xml:id="tg1010.2.1052.vn5x.0">Nie so den Stolz die Hoffnung sah sie schlachten.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1053.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1054.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1055.vn5x.0">So in dir selber stirbst du selber nun –</l>
+                                 <l xml:id="tg1010.2.1056.vn5x.0">Ein Unheil, schlimmer, als wenn Brüder streiten,</l>
+                                 <l xml:id="tg1010.2.1057.vn5x.0">Als wenn Verzweifler sich ein Leides tun,</l>
+                                 <l xml:id="tg1010.2.1058.vn5x.0">Als wenn dem Sohn die Eltern Tod bereiten.</l>
+                                 <l xml:id="tg1010.2.1059.vn5x.0">Rost frißt den Schatz, den geizig man versteckt,</l>
+                                 <l xml:id="tg1010.2.1060.vn5x.0">Doch durch gebrauchtes Gold wird Gold geheckt.«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1061.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1062.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1063.vn5x.0">»Pah«, ruft Adon, »auf's neue singst du eben</l>
+                                 <l xml:id="tg1010.2.1064.vn5x.0">Das alte Lied, das längst mich widern muß;</l>
+                                 <l xml:id="tg1010.2.1065.vn5x.0">Umsonst der Kuß, den ich dir kaum gegeben!</l>
+                                 <l xml:id="tg1010.2.1066.vn5x.0">Umsonst dein Ringen gegen Wind und Fluß!</l>
+                                 <l xml:id="tg1010.2.1067.vn5x.0">Denn – seh' die brünst'ge Nacht als Zeugin nieder!</l>
+                                 <l xml:id="tg1010.2.1068.vn5x.0">Dein Sprechen erst macht dich mir recht zuwider!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1069.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1070.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1071.vn5x.0">Lieh' dir die Liebe zwanzigtausend Zungen,</l>
+                                 <l xml:id="tg1010.2.1072.vn5x.0">Und rührte jede mehr als deine mich,</l>
+                                 <l xml:id="tg1010.2.1073.vn5x.0">Wär' jede wie Sirenenlied erklungen:</l>
+                                 <l xml:id="tg1010.2.1074.vn5x.0">Nie schlich ein Ton doch mir zum Ohre sich!</l>
+                                 <l xml:id="tg1010.2.1075.vn5x.0">Denn jeden falschen Ton ihm fern zu halten,</l>
+                                 <l xml:id="tg1010.2.1076.vn5x.0">Siehst du mein Herz als Schirmvogt in ihm walten:</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1077.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1078.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1079.vn5x.0">Daß nicht in meiner Brust friedlichen Bann</l>
+                                 <l xml:id="tg1010.2.1080.vn5x.0">Die trügerische Harmonie sich stehle,</l>
+                                 <l xml:id="tg1010.2.1081.vn5x.0">Und daß mein kleines Herz, vernichtet dann,</l>
+                                 <pb n="698" xml:id="tg1010.2.1082.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.1083.vn5x.0">Sich ruhlos nicht auf seinem Lager quäle!</l>
+                                 <l xml:id="tg1010.2.1084.vn5x.0">Nein, Herrin, nein! mein Herz mag keinen Kummer!</l>
+                                 <l xml:id="tg1010.2.1085.vn5x.0">Nun es allein schläft, schläft es festen Schlummer!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1086.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1087.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1088.vn5x.0">Kein Wort von dir, das sich nicht widerlegt!</l>
+                                 <l xml:id="tg1010.2.1089.vn5x.0">Breit sind die Pfade zur Gefahr und eben;</l>
+                                 <l xml:id="tg1010.2.1090.vn5x.0">Nicht Liebe hass' ich – nur was dich bewegt,</l>
+                                 <l xml:id="tg1010.2.1091.vn5x.0">In Liebe jedem Fremden dich zu geben!</l>
+                                 <l xml:id="tg1010.2.1092.vn5x.0">Du tust's um Samen? wundersam Entschuld'gen!</l>
+                                 <l xml:id="tg1010.2.1093.vn5x.0">Muß kuppelnd so Vernunft der Wollust huld'gen?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1094.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1095.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1096.vn5x.0">O nenn es Liebe nicht! die Lieb' entfloh</l>
+                                 <l xml:id="tg1010.2.1097.vn5x.0">Zum Himmel ja, seit Wollust Liebe heißt,</l>
+                                 <l xml:id="tg1010.2.1098.vn5x.0">Als Liebe frische Schönheit kostet – roh</l>
+                                 <l xml:id="tg1010.2.1099.vn5x.0">Beschimpfend noch, wo gierig sie zerreißt;</l>
+                                 <l xml:id="tg1010.2.1100.vn5x.0">Stets nur bedenkend, wie sie schänd' und raube –</l>
+                                 <l xml:id="tg1010.2.1101.vn5x.0">Der Raupe gleich, die schwelgt im ersten Laube.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1102.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1103.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1104.vn5x.0">Die Lieb' erquickt, wie Sonnenstrahl nach Wettern;</l>
+                                 <l xml:id="tg1010.2.1105.vn5x.0">Die Wollust wirkt, wie Sturm nach Sonnenschein;</l>
+                                 <l xml:id="tg1010.2.1106.vn5x.0">Der Liebe Lenz prangt stets in frischen Blättern,</l>
+                                 <l xml:id="tg1010.2.1107.vn5x.0">Der Wollust Winter bricht vor Herbst herein.</l>
+                                 <l xml:id="tg1010.2.1108.vn5x.0">Die Lieb' hält Maß, die Lust hat nie genug;</l>
+                                 <l xml:id="tg1010.2.1109.vn5x.0">Die Lieb' ist Wahrheit ganz, die Lust ganz Lug.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1110.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1111.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1112.vn5x.0">Wohl wüßt' ich mehr, doch weiter nun kein Wort!</l>
+                                 <l xml:id="tg1010.2.1113.vn5x.0">Der Text ist alt, der Redner allzu grün.</l>
+                                 <l xml:id="tg1010.2.1114.vn5x.0">Darum, in Trauer, will ich jetzo fort,</l>
+                                 <l xml:id="tg1010.2.1115.vn5x.0">Scham im Gesicht, im Herzen Zornesglühn.</l>
+                                 <l xml:id="tg1010.2.1116.vn5x.0">Mein Ohr, das angehört dein üppig Sprechen,</l>
+                                 <l xml:id="tg1010.2.1117.vn5x.0">Verbrennt sich selbst für ein so groß Verbrechen.«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1118.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1119.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1120.vn5x.0">Mit dem aus ihren Armen bricht er los,</l>
+                                 <l xml:id="tg1010.2.1121.vn5x.0">Die ihn umspannt bis jetzt mit süßem Drücken,</l>
+                                 <l xml:id="tg1010.2.1122.vn5x.0">Rennt heimwärts durch den Wald von ihrem Schoß,</l>
+                                 <l xml:id="tg1010.2.1123.vn5x.0">Und läßt bekümmert sie auf ihrem Rücken.</l>
+                                 <l xml:id="tg1010.2.1124.vn5x.0">Sieh', wie ein Fallstern niederschießt in Pracht,</l>
+                                 <l xml:id="tg1010.2.1125.vn5x.0">Von Venus' Aug' so schießt er in die Nacht.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1126.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1127.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1128.vn5x.0">Sie wirft den Blick ihm nach, wie wer vom Strande</l>
+                                 <l xml:id="tg1010.2.1129.vn5x.0">Nachsieht dem Freunde, der sich eingeschifft,</l>
+                                 <l xml:id="tg1010.2.1130.vn5x.0">Bis ihn die Flut entrafft, die mit dem Rande,</l>
+                                 <l xml:id="tg1010.2.1131.vn5x.0">Dem bäumenden, kampffroh die Wolken trifft:</l>
+                                 <l xml:id="tg1010.2.1132.vn5x.0">So barg die Nacht, die schwarze, mitleidsbar</l>
+                                 <l xml:id="tg1010.2.1133.vn5x.0">Ihn, der die Weide ihrer Augen war.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1134.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1135.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1136.vn5x.0">Worauf erstaunt, wie wer ein reich Gestein</l>
+                                 <l xml:id="tg1010.2.1137.vn5x.0">Plötzlich in's Wasser sich entfallen ließ:</l>
+                                 <l xml:id="tg1010.2.1138.vn5x.0">Worauf erschreckt, wie einer, dem im Hain</l>
+                                 <l xml:id="tg1010.2.1139.vn5x.0">Ein nächt'ger Windstoß aus die Fackel blies: –</l>
+                                 <l xml:id="tg1010.2.1140.vn5x.0">Ganz so verstört hat jetzo sie gelegen,</l>
+                                 <l xml:id="tg1010.2.1141.vn5x.0">Des schönsten Funds beraubt auf ihren Wegen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1142.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1143.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1144.vn5x.0">Und nun schlägt sie ihr Herz, worauf es stöhnt,</l>
+                                 <l xml:id="tg1010.2.1145.vn5x.0">Daß jeder Bergriß, der im Walde klafft,</l>
+                                 <l xml:id="tg1010.2.1146.vn5x.0">All' ihre Klagen wörtlich widertönt,</l>
+                                 <l xml:id="tg1010.2.1147.vn5x.0">Verdoppelnd Leidenschaft auf Leidenschaft.</l>
+                                 <l xml:id="tg1010.2.1148.vn5x.0">»Weh' mir!« ruft sie, und so die Höhlen alle;</l>
+                                 <l xml:id="tg1010.2.1149.vn5x.0">An zwanzigmal nachhallen's zwanzig Halle.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1150.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1151.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1152.vn5x.0">Klagvoll sogleich, da sie den Lärmen hört,</l>
+                                 <l xml:id="tg1010.2.1153.vn5x.0">Singt sie ein Stegreiflied, wie alles Trug ist,</l>
+                                 <l xml:id="tg1010.2.1154.vn5x.0">Wie Liebe jung' und alte Männer tört,</l>
+                                 <l xml:id="tg1010.2.1155.vn5x.0">In Klugheit närrisch, in Verrücktheit klug ist.</l>
+                                 <l xml:id="tg1010.2.1156.vn5x.0">Zum Himmel jammernd steigt das Lied empor,</l>
+                                 <l xml:id="tg1010.2.1157.vn5x.0">Und so auch stets der Widerhalle Chor.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1158.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1159.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1160.vn5x.0">Langweilig singt sie länger als die Nacht: –</l>
+                                 <l xml:id="tg1010.2.1161.vn5x.0">Ob scheinbar kurz auch, lang der Liebe Stunden!</l>
+                                 <l xml:id="tg1010.2.1162.vn5x.0">Was sie entzückt, was ihr Vergnügen macht,</l>
+                                 <l xml:id="tg1010.2.1163.vn5x.0">Wird, denkt sie, gern von andern auch empfunden.</l>
+                                 <l xml:id="tg1010.2.1164.vn5x.0">All' die Geschichten, die sie zahllos weiß,</l>
+                                 <l xml:id="tg1010.2.1165.vn5x.0">Enden, nie fertig, ohne Hörerkreis.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1166.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1167.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1168.vn5x.0">Drum halten auch nur Klänge bei ihr aus,</l>
+                                 <l xml:id="tg1010.2.1169.vn5x.0">Schmarotzerhafte, diese Nacht der Klagen;</l>
+                                 <l xml:id="tg1010.2.1170.vn5x.0">Schrillstimm'gen Kellnern gleich im Schoppenhaus,</l>
+                                 <pb n="700" xml:id="tg1010.2.1171.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.1172.vn5x.0">Die so und so schrein nach des Gasts Behagen.</l>
+                                 <l xml:id="tg1010.2.1173.vn5x.0">Sie: »So soll's sein!« Die Klänge: »So soll's sein!«</l>
+                                 <l xml:id="tg1010.2.1174.vn5x.0">Und riefe »Nein!« sie, riefen alle »Nein!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1175.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1176.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1177.vn5x.0">Sieh' wie die Lerche nun, in wacher Lust,</l>
+                                 <l xml:id="tg1010.2.1178.vn5x.0">Aus feuchtem Nest auf in die Höhe geht,</l>
+                                 <l xml:id="tg1010.2.1179.vn5x.0">Weckend den Tag, von dessen Silberbrust</l>
+                                 <l xml:id="tg1010.2.1180.vn5x.0">Die Sonn' aufgeht in ihrer Majestät!</l>
+                                 <l xml:id="tg1010.2.1181.vn5x.0">Sie, die so prächtig strahlt, daß Zedernspitzen</l>
+                                 <l xml:id="tg1010.2.1182.vn5x.0">Und Berge gleich geschliffnem Golde blitzen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1183.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1184.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1185.vn5x.0">So gibt ihr Venus schönen guten Morgen:</l>
+                                 <l xml:id="tg1010.2.1186.vn5x.0">»Du heller Gott, Hort alles Lichts der Welt,</l>
+                                 <l xml:id="tg1010.2.1187.vn5x.0">Von dem so Stern als Lampe willig borgen</l>
+                                 <l xml:id="tg1010.2.1188.vn5x.0">Den milden Einfluß, welcher sie erhellt:</l>
+                                 <l xml:id="tg1010.2.1189.vn5x.0">Ein Knabe lebt, den eine Ird'sche säugte –</l>
+                                 <l xml:id="tg1010.2.1190.vn5x.0">Leih' er dir Licht, wie du bist andrer Leuchte!«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1191.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1192.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1193.vn5x.0">Drauf eilt sie fort in einen Myrtenhain,</l>
+                                 <l xml:id="tg1010.2.1194.vn5x.0">Gedenkt des Morgens vorgerückter Stunden,</l>
+                                 <l xml:id="tg1010.2.1195.vn5x.0">Bebt, ohne Nachricht immer noch zu sein,</l>
+                                 <l xml:id="tg1010.2.1196.vn5x.0">Und horcht nach seinem Horn und seinen Hunden.</l>
+                                 <l xml:id="tg1010.2.1197.vn5x.0">Auf einmal bellt und gellt's in ihre Ruh';</l>
+                                 <l xml:id="tg1010.2.1198.vn5x.0">Am Waldsaum hastet auf den Lärm sie zu.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1199.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1200.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1201.vn5x.0">Und wie sie läuft, hält <hi rend="italic" xml:id="tg1010.2.1201.1.vn5x.0">der</hi> Busch ihre Hände,</l>
+                                 <l xml:id="tg1010.2.1202.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.1202.1.vn5x.0">Der</hi> ihren Hals, <hi rend="italic" xml:id="tg1010.2.1202.2.vn5x.0">der</hi> küßt ihr Angesicht,</l>
+                                 <l xml:id="tg1010.2.1203.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.1203.1.vn5x.0">Der</hi> schlingt sich fest um ihre runde Lende –</l>
+                                 <l xml:id="tg1010.2.1204.vn5x.0">Sie aber, wie das melke Reh, durchbricht</l>
+                                 <l xml:id="tg1010.2.1205.vn5x.0">Sie alle wild, das, Schmerz in vollen Eutern,</l>
+                                 <l xml:id="tg1010.2.1206.vn5x.0">Hinfliegt, sein Kalb zu säugen in den Kräutern.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1207.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1208.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1209.vn5x.0">Jetzt sagt der Ton, die Hunde sind in Not;</l>
+                                 <l xml:id="tg1010.2.1210.vn5x.0">Da fährt sie auf, wie einer, den die Otter,</l>
+                                 <l xml:id="tg1010.2.1211.vn5x.0">Rund aufgerollt, auf seinem Pfad bedroht:</l>
+                                 <l xml:id="tg1010.2.1212.vn5x.0">Wie er sich ängstigt, zeigt dir sein Geschlotter.</l>
+                                 <l xml:id="tg1010.2.1213.vn5x.0">So macht der Hunde zagendes Gebell</l>
+                                 <l xml:id="tg1010.2.1214.vn5x.0">Bleich und verwirrt die Zagende zur Stell'.</l>
+                                 <pb n="701" xml:id="tg1010.2.1215.vn5x.0"/> 
+                              </lg>
+                              <lb xml:id="tg1010.2.1216.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1217.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1218.vn5x.0">Denn jetzt erkennt sie, welch ein Wild es sei –</l>
+                                 <l xml:id="tg1010.2.1219.vn5x.0">Kein schwaches, nein: Bär, Eber, Leu vielleicht!</l>
+                                 <l xml:id="tg1010.2.1220.vn5x.0">Weil unverwandt der Hunde bang Geschrei</l>
+                                 <l xml:id="tg1010.2.1221.vn5x.0">Von einem Orte nun und nimmer weicht;</l>
+                                 <l xml:id="tg1010.2.1222.vn5x.0">So furchtbar zeigt der Feind sich ihrem Hasse,</l>
+                                 <l xml:id="tg1010.2.1223.vn5x.0">Daß sie sich streiten, wer zuerst ihn fasse.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1224.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1225.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1226.vn5x.0">Der trübe Ton schallt trüb in ihrem Ohr;</l>
+                                 <l xml:id="tg1010.2.1227.vn5x.0">Durch's Ohr ihr Herz dann packt er wild und hart;</l>
+                                 <l xml:id="tg1010.2.1228.vn5x.0">Bis jedes Glied – das Herz tat so zuvor! –</l>
+                                 <l xml:id="tg1010.2.1229.vn5x.0">Blutlos in Furcht, blaßkalt in Schwäche starrt:</l>
+                                 <l xml:id="tg1010.2.1230.vn5x.0">Gleichwie Soldaten, weicht ihr Hauptmann eben,</l>
+                                 <l xml:id="tg1010.2.1231.vn5x.0">Selbst schnöde fliehn und preis das Schlachtfeld geben.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1232.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1233.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1234.vn5x.0">So steht sie da in zitternder Verzückung,</l>
+                                 <l xml:id="tg1010.2.1235.vn5x.0">Bis ihre Sinne sie ermut'gend weckt,</l>
+                                 <l xml:id="tg1010.2.1236.vn5x.0">Und ihnen sagt: »Es ist ja nur Berückung,</l>
+                                 <l xml:id="tg1010.2.1237.vn5x.0">Kindischer Irrtum, was euch so erschreckt!</l>
+                                 <l xml:id="tg1010.2.1238.vn5x.0">Laßt euer Zittern! wollet furchtlos sein!«</l>
+                                 <l xml:id="tg1010.2.1239.vn5x.0">Da, bei dem Wort, kommt das gejagte Schwein.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1240.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1241.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1242.vn5x.0">Sein schäum'ger Mund, rundum von Rot umflossen,</l>
+                                 <l xml:id="tg1010.2.1243.vn5x.0">Wie Milch und Blut, die man zusammenmengt,</l>
+                                 <l xml:id="tg1010.2.1244.vn5x.0">Hat neue Furcht durch ihr Gebein gegossen,</l>
+                                 <l xml:id="tg1010.2.1245.vn5x.0">Die, tollen Muts, ziellos hinaus sie sprengt;</l>
+                                 <l xml:id="tg1010.2.1246.vn5x.0">Jetzt läuft sie so, jetzt so, kehrt wieder dann,</l>
+                                 <l xml:id="tg1010.2.1247.vn5x.0">Daß sie den Eber Mordes zeihen kann.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1248.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1249.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1250.vn5x.0">Von tausend Grillen auf einmal gefaßt,</l>
+                                 <l xml:id="tg1010.2.1251.vn5x.0">Nach tausend Seiten irrt und eilt sie nun;</l>
+                                 <l xml:id="tg1010.2.1252.vn5x.0">Verzug gesellt sich ihrer Überhast,</l>
+                                 <l xml:id="tg1010.2.1253.vn5x.0">Und all ihr Tun ist wie Betrunkner Tun.</l>
+                                 <l xml:id="tg1010.2.1254.vn5x.0">Von Angst erfüllt, ist doch sie unbedacht,</l>
+                                 <l xml:id="tg1010.2.1255.vn5x.0">Greift alles an, und hat auf nichts doch acht.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1256.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1257.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1258.vn5x.0">Hier einen Hund im Busch sieht sie versteckt: –</l>
+                                 <l xml:id="tg1010.2.1259.vn5x.0">Könnt' er von seinem Herrn nur zu ihr reden!</l>
+                                 <l xml:id="tg1010.2.1260.vn5x.0">Ein andrer kommt, der seine Wunden leckt –</l>
+                                 <pb n="702" xml:id="tg1010.2.1261.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.1262.vn5x.0">Das beste Pflaster gegen gift'ge Schäden!</l>
+                                 <l xml:id="tg1010.2.1263.vn5x.0">Ein andrer schielt sie an, vorübereilend;</l>
+                                 <l xml:id="tg1010.2.1264.vn5x.0">Sie spricht zu ihm, und Antwort gibt er heulend.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1265.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1266.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1267.vn5x.0">Und da er Luft gemacht hat seinem Grimme,</l>
+                                 <l xml:id="tg1010.2.1268.vn5x.0">Löst alsobald ein andrer Hangmaul jach</l>
+                                 <l xml:id="tg1010.2.1269.vn5x.0">Gegen den Himmel seine dumpfe Stimme;</l>
+                                 <l xml:id="tg1010.2.1270.vn5x.0">Ein andrer und ein andrer folgt ihm nach.</l>
+                                 <l xml:id="tg1010.2.1271.vn5x.0">Den Boden peitschend mit den stolzen Ruten,</l>
+                                 <l xml:id="tg1010.2.1272.vn5x.0">Zerkratzte Ohren schütteln sie und bluten.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1273.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1274.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1275.vn5x.0">Sieh', wie die Leute überkommt ein Grauen</l>
+                                 <l xml:id="tg1010.2.1276.vn5x.0">Bei Zeichen, Wundern und derlei Bedräuung;</l>
+                                 <l xml:id="tg1010.2.1277.vn5x.0">Sie sehn sie an mit bangen Augenbrauen,</l>
+                                 <l xml:id="tg1010.2.1278.vn5x.0">Und nehmen sich die schlimmste Prophezeiung</l>
+                                 <l xml:id="tg1010.2.1279.vn5x.0">So sie auch jetzt! Den Atem hält sie an,</l>
+                                 <l xml:id="tg1010.2.1280.vn5x.0">Seufzt wieder auf, und ruft dem Tode dann.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1281.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1282.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1283.vn5x.0">»Du Harter, Garst'ger, der des Scheidens Pein</l>
+                                 <l xml:id="tg1010.2.1284.vn5x.0">Der Liebe schuf« (dem Tode gilt ihr Schmälen),</l>
+                                 <l xml:id="tg1010.2.1285.vn5x.0">»Sargwurm der Erde, was nur fällt dir ein,</l>
+                                 <l xml:id="tg1010.2.1286.vn5x.0">Schönheit und Odem gierig dem zu stehlen,</l>
+                                 <l xml:id="tg1010.2.1287.vn5x.0">Des Hauch und Schönheit, eh' er sank in's Gral</l>
+                                 <l xml:id="tg1010.2.1288.vn5x.0">Der Rose Schimmer, Duft dem Veilchen gab?</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1289.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1290.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1291.vn5x.0">O wenn er tot ist – nein, es kann nicht sein,</l>
+                                 <l xml:id="tg1010.2.1292.vn5x.0">Daß du ihn sahst und nach ihm warfst den Speer!</l>
+                                 <l xml:id="tg1010.2.1293.vn5x.0">Und doch, es kann! blindlings ja schlägst du drein,</l>
+                                 <l xml:id="tg1010.2.1294.vn5x.0">Und schickst den Wurfspieß aus aufs Ungefähr!</l>
+                                 <l xml:id="tg1010.2.1295.vn5x.0">Dein Ziel das Alter: aber oft, o Schmerz,</l>
+                                 <l xml:id="tg1010.2.1296.vn5x.0">Triffst du vorbei in eines Kindes Herz.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1297.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1298.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1299.vn5x.0">Warntest du nur, geredet hätt' er gleich,</l>
+                                 <l xml:id="tg1010.2.1300.vn5x.0">Und deine Kraft entkräftet durch sein Sprechen.</l>
+                                 <l xml:id="tg1010.2.1301.vn5x.0">Den Fluch der Parzen bringt dir dieser Streich:</l>
+                                 <l xml:id="tg1010.2.1302.vn5x.0">Sie heischten Kraut, du gingst 'ne Blume brechen</l>
+                                 <l xml:id="tg1010.2.1303.vn5x.0">Für Amors Goldpfeil nur war er geschaffen,</l>
+                                 <l xml:id="tg1010.2.1304.vn5x.0">Nicht für ein dunkles Ebenholzgewaffen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1305.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1306.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1307.vn5x.0">Sag', ob dir Tränen zum Getränk nur taugen,</l>
+                                 <l xml:id="tg1010.2.1308.vn5x.0">Sag', ob dich jemals bange Seufzer nährten?</l>
+                                 <l xml:id="tg1010.2.1309.vn5x.0">Warum in ew'gen Schlaf warfst du die Augen,</l>
+                                 <l xml:id="tg1010.2.1310.vn5x.0">Die alle andern Augen sehen lehrten?</l>
+                                 <l xml:id="tg1010.2.1311.vn5x.0">Was kümmert die Natur nun deine Stärke,</l>
+                                 <l xml:id="tg1010.2.1312.vn5x.0">Seit du so tatest ihrem schönsten Werke?«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1313.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1314.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1315.vn5x.0">Und jetzo senkt sie, überwältigt schier,</l>
+                                 <l xml:id="tg1010.2.1316.vn5x.0">Die Wimpern, wie durch Schleusen zu verstopfen</l>
+                                 <l xml:id="tg1010.2.1317.vn5x.0">Die Flut der Tränen, die vom Antlitz ihr</l>
+                                 <l xml:id="tg1010.2.1318.vn5x.0">In ihres Busens süße Rinne tropfen;</l>
+                                 <l xml:id="tg1010.2.1319.vn5x.0">Doch bald, mit mächt'gem Strom es öffnend wieder,</l>
+                                 <l xml:id="tg1010.2.1320.vn5x.0">Durch's Fluttor rauscht der Silberregen nieder.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1321.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1322.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1323.vn5x.0">O wie nun Aug' und Tränen leihn und borgen!</l>
+                                 <l xml:id="tg1010.2.1324.vn5x.0">Ihr Aug' in Tränen, Tränen ihr im Aug' –</l>
+                                 <l xml:id="tg1010.2.1325.vn5x.0">Kristalle, spiegelnd gegenseit'ge Sorgen,</l>
+                                 <l xml:id="tg1010.2.1326.vn5x.0">Die zärtlich trocknet ihrer Seufzer Hauch.</l>
+                                 <l xml:id="tg1010.2.1327.vn5x.0">Doch kaum (wie Wind und Guß ein Tag mag einen)</l>
+                                 <l xml:id="tg1010.2.1328.vn5x.0">Von Seufzen trocken, netzt sie neues Weinen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1329.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1330.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1331.vn5x.0">Abwechselnd drängen ihr beständ'ges Weh</l>
+                                 <l xml:id="tg1010.2.1332.vn5x.0">Die Leidenschaften; jede will es kleiden;</l>
+                                 <l xml:id="tg1010.2.1333.vn5x.0">Sie nimmt sie auf, und jede schafft, daß je</l>
+                                 <l xml:id="tg1010.2.1334.vn5x.0">Das gegenwärt'ge scheint das erste Leiden;</l>
+                                 <l xml:id="tg1010.2.1335.vn5x.0">Doch keine siegt; vereinigt dann zu schauen</l>
+                                 <l xml:id="tg1010.2.1336.vn5x.0">Wie Wolken sind sie, die schlecht Wetterbrauen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1337.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1338.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1339.vn5x.0">Jetzt ruft: »Hallo!« fernab ein Jägersmann;</l>
+                                 <l xml:id="tg1010.2.1340.vn5x.0">Nie klang so süß ein Ammenlied dem Kinde.</l>
+                                 <l xml:id="tg1010.2.1341.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.1341.1.vn5x.0">Der</hi> Hoffnungston tut ihre Furcht in Bann: –</l>
+                                 <l xml:id="tg1010.2.1342.vn5x.0">Daß jedes trübe, blut'ge Bild ihr schwinde,</l>
+                                 <l xml:id="tg1010.2.1343.vn5x.0">Und daß die Lust neu ihrem Busen kehre,</l>
+                                 <l xml:id="tg1010.2.1344.vn5x.0">Schmeichelt er ihr, daß sie Adonis höre.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1345.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1346.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1347.vn5x.0">Worauf, nun ebbend, Perlen gleich in Glas,</l>
+                                 <l xml:id="tg1010.2.1348.vn5x.0">In ihrem Aug' die lichten Tropfen stehen;</l>
+                                 <l xml:id="tg1010.2.1349.vn5x.0">Nur einer manchmal spritzt die Wang' ihr naß,</l>
+                                 <pb n="704" xml:id="tg1010.2.1350.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.1351.vn5x.0">Die gleich ihn schmelzt: als sollt' er nicht vergehen,</l>
+                                 <l xml:id="tg1010.2.1352.vn5x.0">Zum schmutz'gen Grau des Bodens hingesunken,</l>
+                                 <l xml:id="tg1010.2.1353.vn5x.0">Der nur berauscht ist, während sie ertrunken.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1354.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1355.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1356.vn5x.0">Schwergläub'ge Liebe, seltsam muß es scheinen:</l>
+                                 <l xml:id="tg1010.2.1357.vn5x.0">Bald zweifelnd, bald zu gläubig sieht man dich!</l>
+                                 <l xml:id="tg1010.2.1358.vn5x.0">Zu weit in Wohl und Wehe geht dein Meinen,</l>
+                                 <l xml:id="tg1010.2.1359.vn5x.0">So Furcht wie Hoffnung macht dich lächerlich.</l>
+                                 <l xml:id="tg1010.2.1360.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.1360.1.vn5x.0">Die</hi> schmeichelt dir mit dem, was unwahrscheinlich,</l>
+                                 <l xml:id="tg1010.2.1361.vn5x.0">
+                                    <hi rend="italic" xml:id="tg1010.2.1361.1.vn5x.0">Die</hi> mit Wahrscheinlichem wird schnell dir peinlich.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1362.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1363.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1364.vn5x.0">Nun löst sie auf, was früher sie gewoben;</l>
+                                 <l xml:id="tg1010.2.1365.vn5x.0">Adonis lebt, der Tod ist nicht zu schelten;</l>
+                                 <l xml:id="tg1010.2.1366.vn5x.0">Und schalt sie doch, so kann sie jetzt auch loben,</l>
+                                 <l xml:id="tg1010.2.1367.vn5x.0">Und eilt, durch Ehren reich ihm zu vergelten;</l>
+                                 <l xml:id="tg1010.2.1368.vn5x.0">Nennt Gräberkönig ihn, und Königsgrab:</l>
+                                 <l xml:id="tg1010.2.1369.vn5x.0">Was sterblich ist, beherrscht sein Herrscherstab.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1370.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1371.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1372.vn5x.0">»Nein«, ruft sie, »süßer Tod, nie zürnt' ich dir!</l>
+                                 <l xml:id="tg1010.2.1373.vn5x.0">Vergib! ich scherzte (und aus Furcht ja bloß!),</l>
+                                 <l xml:id="tg1010.2.1374.vn5x.0">Als ich den Eber traf, das blut'ge Tier,</l>
+                                 <l xml:id="tg1010.2.1375.vn5x.0">Der wild und streng und gänzlich mitleidslos!</l>
+                                 <l xml:id="tg1010.2.1376.vn5x.0">Da, holder Schatten (Wahrheit sei gestanden!)</l>
+                                 <l xml:id="tg1010.2.1377.vn5x.0">Schalt ich: – mein Lieb' glaubt' ich in deinen Banden!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1378.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1379.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1380.vn5x.0">Ist's meine Schuld? Es war des Ebers Rat;</l>
+                                 <l xml:id="tg1010.2.1381.vn5x.0">An ihm, du finstrer Herrscher, sei gerochen!</l>
+                                 <l xml:id="tg1010.2.1382.vn5x.0">Er ist's, der Schnöde, der dir Unrecht tat!</l>
+                                 <l xml:id="tg1010.2.1383.vn5x.0">Ich folgt' ihm nur, er hat den Schimpf verbrochen!</l>
+                                 <l xml:id="tg1010.2.1384.vn5x.0">Zwei Zungen hat der Gram; nie beide lenkte</l>
+                                 <l xml:id="tg1010.2.1385.vn5x.0">Ein Weib, dem Zeus nicht Witz für Zehne schenkte.«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1386.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1387.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1388.vn5x.0">So, hoffend, daß Adonis noch am Leben,</l>
+                                 <l xml:id="tg1010.2.1389.vn5x.0">Sucht sie zu heilen die geschlagne Wunde;</l>
+                                 <l xml:id="tg1010.2.1390.vn5x.0">Und, seiner Schönheit mehr Gedeihn zu geben,</l>
+                                 <l xml:id="tg1010.2.1391.vn5x.0">Spricht sie dem Tode listig nach dem Munde;</l>
+                                 <l xml:id="tg1010.2.1392.vn5x.0">Spricht ihm von Säulen, Tempeln, Mausoleen,</l>
+                                 <l xml:id="tg1010.2.1393.vn5x.0">Spricht von Triumphen, Siegen und Trophäen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1394.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1395.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1396.vn5x.0">»O Zeus«, ruft sie, »wie war ich torheitsvoll,</l>
+                                 <l xml:id="tg1010.2.1397.vn5x.0">Wie schwach und albern, dessen Tod zu klagen,</l>
+                                 <l xml:id="tg1010.2.1398.vn5x.0">Der lebend ist, und immer leben soll,</l>
+                                 <l xml:id="tg1010.2.1399.vn5x.0">Bis unter sich die Menschheit sich erschlagen!</l>
+                                 <l xml:id="tg1010.2.1400.vn5x.0">Denn mit ihm liegt die Schönheit tot darnieder,</l>
+                                 <l xml:id="tg1010.2.1401.vn5x.0">Und, wenn <hi rend="italic" xml:id="tg1010.2.1401.1.vn5x.0">die</hi> starb, kehrt schwarz das Chaos wieder.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1402.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1403.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1404.vn5x.0">Pfui, Liebe, pfui! Wie einer, der mit Schätzen</l>
+                                 <l xml:id="tg1010.2.1405.vn5x.0">Im Kreis von Dieben weilt, so feig bist du!</l>
+                                 <l xml:id="tg1010.2.1406.vn5x.0">Auch das geringste kann in Furcht dich setzen;</l>
+                                 <l xml:id="tg1010.2.1407.vn5x.0">Was unvernehmbar selbst, nimmt dir die Ruh'!«</l>
+                                 <l xml:id="tg1010.2.1408.vn5x.0">Bei diesem Wort schallt ihr ein Horn zu Ohren;</l>
+                                 <l xml:id="tg1010.2.1409.vn5x.0">Da hüpft sie auf, die eben noch verloren.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1410.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1411.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1412.vn5x.0">Wie Falken auf ihr Lockspiel, fliegt sie hin:</l>
+                                 <l xml:id="tg1010.2.1413.vn5x.0">Leicht, – keinen Halm im Flug seht ihr sie knicken;</l>
+                                 <l xml:id="tg1010.2.1414.vn5x.0">Bis sie erspäht in ihrem hast'gen Sinn</l>
+                                 <l xml:id="tg1010.2.1415.vn5x.0">Den Sieg des Ebers über ihr Entzücken;</l>
+                                 <l xml:id="tg1010.2.1416.vn5x.0">Worauf, als ob der Anblick es erschlage,</l>
+                                 <l xml:id="tg1010.2.1417.vn5x.0">Ihr Aug' erlischt – ein Stern, beschämt vom Tage.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1418.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1419.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1420.vn5x.0">Auch wie die Schnecke, traf ihr Fühlhorn man,</l>
+                                 <l xml:id="tg1010.2.1421.vn5x.0">In ihr Gehäuse still zurück sich schmiegt,</l>
+                                 <l xml:id="tg1010.2.1422.vn5x.0">In Schmerz und Nacht lang sich besinnend dann,</l>
+                                 <l xml:id="tg1010.2.1423.vn5x.0">Eh' sie von neuem an das Helle kriecht:</l>
+                                 <l xml:id="tg1010.2.1424.vn5x.0">So in die Höhlen unter ihrer Brau</l>
+                                 <l xml:id="tg1010.2.1425.vn5x.0">Fliehn ihre Augen bei der blut'gen Schau:</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1426.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1427.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1428.vn5x.0">Wo Dienst und Licht sie zur Verfügung stellen</l>
+                                 <l xml:id="tg1010.2.1429.vn5x.0">Dem wirren Hirn, das ihnen unumwunden</l>
+                                 <l xml:id="tg1010.2.1430.vn5x.0">Aufträgt, annoch der Nacht sich zu gesellen,</l>
+                                 <l xml:id="tg1010.2.1431.vn5x.0">Und nicht durch Schaun das Herz mehr zu verwunden;</l>
+                                 <l xml:id="tg1010.2.1432.vn5x.0">Das, wie ein Fürst, der auf dem Throne bebt,</l>
+                                 <l xml:id="tg1010.2.1433.vn5x.0">Auf ihren Antrieb dumpf Gestöhn erhebt:</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1434.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1435.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1436.vn5x.0">Worauf die Schar der Untertanen zittert,</l>
+                                 <l xml:id="tg1010.2.1437.vn5x.0">Wie wenn der Wind aus unterird'schen Höhlen</l>
+                                 <l xml:id="tg1010.2.1438.vn5x.0">Vorbricht, die Erde bis zum Grund erschüttert,</l>
+                                 <pb n="706" xml:id="tg1010.2.1439.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.1440.vn5x.0">Und kalte Furcht gießt in der Menschen Seelen.</l>
+                                 <l xml:id="tg1010.2.1441.vn5x.0">Derart packt dieser Aufruhr alle Glieder:</l>
+                                 <l xml:id="tg1010.2.1442.vn5x.0">Hervor auch springen ihre Augen wieder;</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1443.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1444.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1445.vn5x.0">Ach, und erleuchten, gegen ihr Geheiß,</l>
+                                 <l xml:id="tg1010.2.1446.vn5x.0">Die weite Wunde, die das Schwein ergrimmt</l>
+                                 <l xml:id="tg1010.2.1447.vn5x.0">Schlug seiner Seite, deren Lilienweiß</l>
+                                 <l xml:id="tg1010.2.1448.vn5x.0">In seiner Wunde Purpurtränen schwimmt.</l>
+                                 <l xml:id="tg1010.2.1449.vn5x.0">Kein Laub ist nah, kein Blümchen weichgemutet,</l>
+                                 <l xml:id="tg1010.2.1450.vn5x.0">Das nicht sein Blut stahl, und nun mit ihm blutet.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1451.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1452.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1453.vn5x.0">Wahrnimmt dies ernste Mitgefühl die Arme;</l>
+                                 <l xml:id="tg1010.2.1454.vn5x.0">Auf eine Schulter müde hängt ihr Haupt sie;</l>
+                                 <l xml:id="tg1010.2.1455.vn5x.0">Wild gibt sie hin sich ihrem Liebesharme;</l>
+                                 <l xml:id="tg1010.2.1456.vn5x.0">Er ist nicht tot, er kann nicht sterben, glaubt sie.</l>
+                                 <l xml:id="tg1010.2.1457.vn5x.0">Ihr Mund verstummt, ihr Fuß versagt den Gang,</l>
+                                 <l xml:id="tg1010.2.1458.vn5x.0">Ihr Aug' ist toll, daß es geweint bislang.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1459.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1460.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1461.vn5x.0">So fest auf seine Wunde nun, die eine,</l>
+                                 <l xml:id="tg1010.2.1462.vn5x.0">Heftet den Blick sie, bis sie dreie schaut;</l>
+                                 <l xml:id="tg1010.2.1463.vn5x.0">Schilt dann ihr metzelnd Auge, das, wo keine</l>
+                                 <l xml:id="tg1010.2.1464.vn5x.0">Sein sollte, zwei noch zu der ersten haut;</l>
+                                 <l xml:id="tg1010.2.1465.vn5x.0">Sein Antlitz zwiefach, doppelt jedes Glied,</l>
+                                 <l xml:id="tg1010.2.1466.vn5x.0">Weil, trübt das Hirn sich, fehl der Blick auch sieht.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1467.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1468.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1469.vn5x.0">»Nicht find' ich Worte, einen nur zu klagen,</l>
+                                 <l xml:id="tg1010.2.1470.vn5x.0">Und dennoch«, ruft sie, »liegen tot hier zwei!</l>
+                                 <l xml:id="tg1010.2.1471.vn5x.0">Verhaucht mein Seufzen, Tränen auch versagen,</l>
+                                 <l xml:id="tg1010.2.1472.vn5x.0">Mein Aug' ward Feuer, und mein Herz ward Blei.</l>
+                                 <l xml:id="tg1010.2.1473.vn5x.0">Schmilz, Blei der Brust, an Auges glüh'nder Röte,</l>
+                                 <l xml:id="tg1010.2.1474.vn5x.0">Daß heiß Verlangen tröpfelnd so mich töte!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1475.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1476.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1477.vn5x.0">Welt, was verlorst du! Wo jetzt noch am Leben</l>
+                                 <l xml:id="tg1010.2.1478.vn5x.0">Ein Antlitz, wert, daß Blicke auf ihm ruhn?</l>
+                                 <l xml:id="tg1010.2.1479.vn5x.0">Wer spricht Musik jetzt? Was kannst du erheben</l>
+                                 <l xml:id="tg1010.2.1480.vn5x.0">Wie des Vergangnen, so des Künft'gen nun?</l>
+                                 <l xml:id="tg1010.2.1481.vn5x.0">Süß sind die Blumen, bunt, der Augen Labe –</l>
+                                 <l xml:id="tg1010.2.1482.vn5x.0">Doch echte Schönheit ging mit ihm zu Grabe!</l>
+                                 <pb n="707" xml:id="tg1010.2.1483.vn5x.0"/> 
+                              </lg>
+                              <lb xml:id="tg1010.2.1484.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1485.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1486.vn5x.0">Daß niemand fürder Hut noch Schleier trage!</l>
+                                 <l xml:id="tg1010.2.1487.vn5x.0">Nicht Wind, nicht Sonne halt' euch je zu Haus!</l>
+                                 <l xml:id="tg1010.2.1488.vn5x.0">Wer Schönheit zu verlieren hat, der zage –</l>
+                                 <l xml:id="tg1010.2.1489.vn5x.0">Euch pfeift der Wind, euch lacht die Sonne aus!</l>
+                                 <l xml:id="tg1010.2.1490.vn5x.0">Als er noch war, da freilich galt es beiden,</l>
+                                 <l xml:id="tg1010.2.1491.vn5x.0">Ihn seiner Schönheit diebisch zu entkleiden!</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1492.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1493.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1494.vn5x.0">Und darum setzt' er auf auch seinen Hut: –</l>
+                                 <l xml:id="tg1010.2.1495.vn5x.0">Gleich kam' die Sonn', ihm untern Rand zu scheinen;</l>
+                                 <l xml:id="tg1010.2.1496.vn5x.0">Der Wind entführt' ihn, spielend mit der Flut</l>
+                                 <l xml:id="tg1010.2.1497.vn5x.0">Der Locken; dann, sahn sie Adonis weinen,</l>
+                                 <l xml:id="tg1010.2.1498.vn5x.0">Aus Mitleid strebten beide um die Wette,</l>
+                                 <l xml:id="tg1010.2.1499.vn5x.0">Wer sein Gesicht zuerst getrocknet hätte.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1500.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1501.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1502.vn5x.0">Daß er sein Antlitz sehe, barg der Leu</l>
+                                 <l xml:id="tg1010.2.1503.vn5x.0">Sich im Gebüsch, ihn ja nicht zu erschrecken;</l>
+                                 <l xml:id="tg1010.2.1504.vn5x.0">Der Tiger, wenn er sang, ward zahm und scheu,</l>
+                                 <l xml:id="tg1010.2.1505.vn5x.0">Und lauschte seinem Liede durch die Hecken;</l>
+                                 <l xml:id="tg1010.2.1506.vn5x.0">Der Wolf verließ die Beute, wenn er sprach,</l>
+                                 <l xml:id="tg1010.2.1507.vn5x.0">Und ungefährdet blieb das Lamm den Tag.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1508.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1509.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1510.vn5x.0">Wenn seinen Schatten er im Bache sah,</l>
+                                 <l xml:id="tg1010.2.1511.vn5x.0">Umschwammen ihn mit goldnem Schein die Fische;</l>
+                                 <l xml:id="tg1010.2.1512.vn5x.0">So freuten sich die Vögel, war er nah,</l>
+                                 <l xml:id="tg1010.2.1513.vn5x.0">Daß ein'ge sangen, andre gar ihm frische</l>
+                                 <l xml:id="tg1010.2.1514.vn5x.0">Maulbeeren brachten: – wie er sie ging nähren</l>
+                                 <l xml:id="tg1010.2.1515.vn5x.0">Mit seinem Anblick, so sie ihn mit Beeren.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1516.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1517.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1518.vn5x.0">Doch dieser Schnöde mit dem borst'gen Bug,</l>
+                                 <l xml:id="tg1010.2.1519.vn5x.0">Der niederblickend immer sucht ein Grab,</l>
+                                 <l xml:id="tg1010.2.1520.vn5x.0">Sah nie die Tracht der Schönheit, die er trug:</l>
+                                 <l xml:id="tg1010.2.1521.vn5x.0">Zeugnis der Willkomm, den er wild ihm gab!</l>
+                                 <l xml:id="tg1010.2.1522.vn5x.0">Kannt' er sein Antlitz – traun, er hätt' ihn küssen</l>
+                                 <l xml:id="tg1010.2.1523.vn5x.0">Und so allein den Ärmsten töten müssen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1524.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1525.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1526.vn5x.0">'s ist wahr! 's ist wahr! so muß ich ihn betrauern!</l>
+                                 <l xml:id="tg1010.2.1527.vn5x.0">Mit scharfem Speer vorrannt' er auf den Grimmen;</l>
+                                 <l xml:id="tg1010.2.1528.vn5x.0">Der aber gab nicht Antwort mit den Hauern:</l>
+                                 <pb n="708" xml:id="tg1010.2.1529.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.1530.vn5x.0">Durch einen Kuß dacht' er ihn umzustimmen,</l>
+                                 <l xml:id="tg1010.2.1531.vn5x.0">Ach, und begrub, täppisch in Liebeswahn,</l>
+                                 <l xml:id="tg1010.2.1532.vn5x.0">In des Geliebten Weiche seinen Zahn.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1533.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1534.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1535.vn5x.0">Wär' ich gezahnt gewesen gleich dem Schweine:</l>
+                                 <l xml:id="tg1010.2.1536.vn5x.0">Ich selber war's, die küssend ihn erschlug!</l>
+                                 <l xml:id="tg1010.2.1537.vn5x.0">Doch er ist tot, und nie beglückt er meine</l>
+                                 <l xml:id="tg1010.2.1538.vn5x.0">Mit seiner Jugend – so erst recht mein Fluch!«</l>
+                                 <l xml:id="tg1010.2.1539.vn5x.0">Mit dem zu Boden fällt sie, lang gestreckt,</l>
+                                 <l xml:id="tg1010.2.1540.vn5x.0">Daß sein geronnen Blut ihr Antlitz fleckt.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1541.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1542.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1543.vn5x.0">Sie sieht auf seinen Mund, und der ist blaß;</l>
+                                 <l xml:id="tg1010.2.1544.vn5x.0">Sie nimmt ihn bei der Hand, und die ist kalt;</l>
+                                 <l xml:id="tg1010.2.1545.vn5x.0">Sie flüstert in sein Ohr, ich weiß nicht was,</l>
+                                 <l xml:id="tg1010.2.1546.vn5x.0">Als hört' es noch, was ihrer Brust entschallt;</l>
+                                 <l xml:id="tg1010.2.1547.vn5x.0">Hebt seine Augenlider – ach, und sieht,</l>
+                                 <l xml:id="tg1010.2.1548.vn5x.0">In Nacht zwei Lampen, dunkel, ausgeglüht:</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1549.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1550.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1551.vn5x.0">Zwei Spiegel, drin sie selber tausendmal</l>
+                                 <l xml:id="tg1010.2.1552.vn5x.0">Sich selber sah, blind und erloschen jetzt;</l>
+                                 <l xml:id="tg1010.2.1553.vn5x.0">Hin ihre Tugend, hin ihr lichter Strahl,</l>
+                                 <l xml:id="tg1010.2.1554.vn5x.0">All' ihre Schönheit außer Kraft gesetzt.</l>
+                                 <l xml:id="tg1010.2.1555.vn5x.0">»Du Wunder«, spricht sie, »das ist mein Verdruß,</l>
+                                 <l xml:id="tg1010.2.1556.vn5x.0">Daß, nun du tot, der Tag noch hell sein muß.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1557.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1558.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1559.vn5x.0">Seitdem du tot, ist Leid der Liebe Frucht</l>
+                                 <l xml:id="tg1010.2.1560.vn5x.0">Jetzt und für immer – hör' es mich verkünden!</l>
+                                 <l xml:id="tg1010.2.1561.vn5x.0">Begleitet wird sie sein von Eifersucht,</l>
+                                 <l xml:id="tg1010.2.1562.vn5x.0">Wird süßen Anfang, bittres Ende finden;</l>
+                                 <l xml:id="tg1010.2.1563.vn5x.0">Fallend und steigend, nie auf ebner Höh',</l>
+                                 <l xml:id="tg1010.2.1564.vn5x.0">Wird all ihr Glück nicht gleich sein ihrem Weh.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1565.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1566.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1567.vn5x.0">Falsch wird sie sein, voll Unbeständigkeit;</l>
+                                 <l xml:id="tg1010.2.1568.vn5x.0">Wird blühn und welken, wie man Atem zieht;</l>
+                                 <l xml:id="tg1010.2.1569.vn5x.0">Ein Gift, mit Süßigkeiten überstreut,</l>
+                                 <l xml:id="tg1010.2.1570.vn5x.0">Durch die das wahrste, schärfste Aug' nicht sieht;</l>
+                                 <l xml:id="tg1010.2.1571.vn5x.0">Den Stärksten allermeist wird sie zum Schwachen,</l>
+                                 <l xml:id="tg1010.2.1572.vn5x.0">Den Weisen stumm, den Toren redend machen.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1573.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1574.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1575.vn5x.0">Bald zimperlich, bald wieder ausgelassen,</l>
+                                 <l xml:id="tg1010.2.1576.vn5x.0">Wird sie das Alter noch im Takte springen,</l>
+                                 <l xml:id="tg1010.2.1577.vn5x.0">Wird sie den Raufbold fügsam werden lassen,</l>
+                                 <l xml:id="tg1010.2.1578.vn5x.0">Wird Reiche plündern, Armen Schätze bringen;</l>
+                                 <l xml:id="tg1010.2.1579.vn5x.0">Toll wird sie sein, mild dann und albern lind:</l>
+                                 <l xml:id="tg1010.2.1580.vn5x.0">Wer jung, wird alt durch sie; wer alt, ein Kind.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1581.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1582.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1583.vn5x.0">Wo gar kein Grund ist, wird sie Argwohn hegen,</l>
+                                 <l xml:id="tg1010.2.1584.vn5x.0">Und wo der größte, wird sie blind vertrauen;</l>
+                                 <l xml:id="tg1010.2.1585.vn5x.0">Wird huldvoll sein und wird der Strenge pflegen;</l>
+                                 <l xml:id="tg1010.2.1586.vn5x.0">Wird, Wahrheit heuchelnd, Lug und Tücke brauen;</l>
+                                 <l xml:id="tg1010.2.1587.vn5x.0">Wird Arglist einen mit der Neigung Schein,</l>
+                                 <l xml:id="tg1010.2.1588.vn5x.0">Der Kühnheit Furcht, dem Feigen Mut verleihn.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1589.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1590.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1591.vn5x.0">Ursache wird sie sein von grausen Kriegen,</l>
+                                 <l xml:id="tg1010.2.1592.vn5x.0">Von wüster Tat, von Sohn- und Vaterzwist;</l>
+                                 <l xml:id="tg1010.2.1593.vn5x.0">Wird dienstbar sein jedwedem Mißvergnügen,</l>
+                                 <l xml:id="tg1010.2.1594.vn5x.0">Wie trockner Brennstoff es dem Feuer ist;</l>
+                                 <l xml:id="tg1010.2.1595.vn5x.0">Nie, seit der Tod mein Lieb mir weggediebt,</l>
+                                 <l xml:id="tg1010.2.1596.vn5x.0">Sei froh der Liebe, wer am besten liebt.«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1597.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1598.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1599.vn5x.0">Um diese Zeit, gleichwie ein Rauch, zerfloß</l>
+                                 <l xml:id="tg1010.2.1600.vn5x.0">Der tote Knab', und ward nicht mehr entdeckt;</l>
+                                 <l xml:id="tg1010.2.1601.vn5x.0">Und aus dem Blute, das umher stand, schoß</l>
+                                 <l xml:id="tg1010.2.1602.vn5x.0">Auf eine Purpurblume, weiß gefleckt.</l>
+                                 <l xml:id="tg1010.2.1603.vn5x.0">Ganz seinen Wangen glich sie und dem Blute,</l>
+                                 <l xml:id="tg1010.2.1604.vn5x.0">Das rund in Tropfen auf den weißen ruhte.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1605.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1606.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1607.vn5x.0">Sie neigt ihr Haupt der Neugebornen zu,</l>
+                                 <l xml:id="tg1010.2.1608.vn5x.0">Und meint, sein Odem weh' in ihrem Duft;</l>
+                                 <l xml:id="tg1010.2.1609.vn5x.0">Und sagt: »An meinem Busen wohne du,</l>
+                                 <l xml:id="tg1010.2.1610.vn5x.0">Da mir ihn selber nahm der Herr der Gruft.«</l>
+                                 <l xml:id="tg1010.2.1611.vn5x.0">Sie bricht den Stiel, und in dem Bruche zeigt</l>
+                                 <l xml:id="tg1010.2.1612.vn5x.0">Sich grüner Saft, den Tränen sie vergleicht.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1613.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1614.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1615.vn5x.0">»Du Arme«, spricht sie, »ja, das war sein Brauch,</l>
+                                 <l xml:id="tg1010.2.1616.vn5x.0">Du eines süßern Vaters süße Tochter:</l>
+                                 <l xml:id="tg1010.2.1617.vn5x.0">Um jeden kleinen Kummer floß sein Aug';</l>
+                                 <pb n="710" xml:id="tg1010.2.1618.vn5x.0"/> 
+                                 <l xml:id="tg1010.2.1619.vn5x.0">Nur, wie er war, auf's neue werden mocht' er!</l>
+                                 <l xml:id="tg1010.2.1620.vn5x.0">So möchtest du! Doch welkt sich's eben gut</l>
+                                 <l xml:id="tg1010.2.1621.vn5x.0">An meiner Brust, wie dort in seinem Blut.</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1622.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1623.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1624.vn5x.0">Hier war sein Lager! diese Brust! – Du bist</l>
+                                 <l xml:id="tg1010.2.1625.vn5x.0">Der nächste Erbe, du sollst an ihr liegen!</l>
+                                 <l xml:id="tg1010.2.1626.vn5x.0">Es ist dein Recht! ruh' hier zu jeder Frist!</l>
+                                 <l xml:id="tg1010.2.1627.vn5x.0">Mein pochend Herz soll Tag und Nacht dich wiegen;</l>
+                                 <l xml:id="tg1010.2.1628.vn5x.0">Kein Augenblick in einer Stunde müsse</l>
+                                 <l xml:id="tg1010.2.1629.vn5x.0">Vergehen, daß ich seine Blum' nicht küsse.«</l>
+                              </lg>
+                              <lb xml:id="tg1010.2.1630.vn5x.0"/>
+                              <lg>
+                                 <lb xml:id="tg1010.2.1631.vn5x.0"/>
+                                 <l xml:id="tg1010.2.1632.vn5x.0">So, satt der Welt, eilt sie davon, und schirrt</l>
+                                 <l xml:id="tg1010.2.1633.vn5x.0">Die Silbertauben vor den leichten Wagen,</l>
+                                 <l xml:id="tg1010.2.1634.vn5x.0">Durch deren Schnelle sie gezogen wird</l>
+                                 <l xml:id="tg1010.2.1635.vn5x.0">Hin durch den leeren Raum – rasch so getragen</l>
+                                 <l xml:id="tg1010.2.1636.vn5x.0">Nach Paphos' Hain, in dessen Dunkel still</l>
+                                 <l xml:id="tg1010.2.1637.vn5x.0">Und ungesehn sie sich einmauern will.<pb n="711" xml:id="tg1010.2.1637.1.vn5x.0"/> 
+                                    
+                                 </l>
+                              </lg>
+                           </sp>
+                        </div>
+                     </div>
+                  </body>
+            </text>
+         </TEI></teiCorpus>

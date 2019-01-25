@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:vnh4.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Poetische Werke</title><title>Shakespeare, William</title><title>Der Phönix und die Turteltaube</title><author>Shakespeare, William</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-0B32-7</idno><idno type="textgrid">textgrid:vmx3.0</idno><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Die vorliegende Übersetzung stammt von Gottlob Regis. Erstdruck in: Shakespeare-Almanach. Herausgegeben von Gottlob Regis, Berlin (Veit) 1836.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.</title><author key="pnd:118613723">Shakespeare, William</author></titleStmt><extent>859-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Berlin</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg1167.vnh5.0" n="/Literatur/M/Shakespeare, William/Poetische Werke/Der Phönix und die Turteltaube">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Der Phönix und die Turteltaube</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-0D21-E</idno><idno type="TextGridUri">textgrid:vnh5.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                              Die vorliegende Übersetzung stammt von Gottlob Regis. Erstdruck in: Shakespeare-Almanach. Herausgegeben von Gottlob Regis, Berlin (Veit) 1836.
+                           </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.</title>
+                  <author key="pnd:118613723">Shakespeare, William</author>
+               </titleStmt>
+               <extent>859-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Berlin</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1564" notAfter="1616"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+            <text>
+               <body>
+                     
+                        
+                     
+                     
+                     <div type="text" xml:id="tg1167.2.vnh5.0">
+
+
+
+                        <div type="h4">
+                           <head type="h4" xml:id="tg1167.2.1.vnh5.0">William Shakespeare</head>
+
+
+                           <head type="h2" xml:id="tg1167.2.2.vnh5.0">Der Phönix und die Turteltaube</head>
+                           
+
+                           <pb type="start" n="859" xml:id="tg1167.2.4.vnh5.0"/>
+                           <lb xml:id="tg1167.2.5.vnh5.0"/>
+                           <lg>
+                              <l xml:id="tg1167.2.6.vnh5.0">Sei der Vogel hellsten Lautes,</l>
+                              <l xml:id="tg1167.2.7.vnh5.0">Horstend in Arabiens Öde,</l>
+                              <l xml:id="tg1167.2.8.vnh5.0">Banger Herold und Trommete!</l>
+                              <l xml:id="tg1167.2.9.vnh5.0">Fromm Geflügel, auf ihn schaut es.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.10.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.11.vnh5.0"/>
+                              <l xml:id="tg1167.2.12.vnh5.0">Doch du kreischender Gefährte,</l>
+                              <l xml:id="tg1167.2.13.vnh5.0">Bösen Feindes Eingeweihter,</l>
+                              <l xml:id="tg1167.2.14.vnh5.0">Fieber-Endes arger Deuter,</l>
+                              <l xml:id="tg1167.2.15.vnh5.0">Bleibe fern von dieser Herde!</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.16.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.17.vnh5.0"/>
+                              <l xml:id="tg1167.2.18.vnh5.0">Sei aus unserm Rat verwiesen</l>
+                              <l xml:id="tg1167.2.19.vnh5.0">Aller Vogel rauh und arg;</l>
+                              <l xml:id="tg1167.2.20.vnh5.0">Nur der Aar, des Flugs Monarch,</l>
+                              <l xml:id="tg1167.2.21.vnh5.0">Müsse dies Begängnis grüßen.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.22.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.23.vnh5.0"/>
+                              <l xml:id="tg1167.2.24.vnh5.0">Priester sei, weiß infuliert,</l>
+                              <l xml:id="tg1167.2.25.vnh5.0">Der die Sterbelieder kann,</l>
+                              <l xml:id="tg1167.2.26.vnh5.0">Todesprophezeier Schwan,</l>
+                              <l xml:id="tg1167.2.27.vnh5.0">Wie dem Requiem gebührt.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.28.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.29.vnh5.0"/>
+                              <l xml:id="tg1167.2.30.vnh5.0">Und du, Krähe, dreifach alte,</l>
+                              <l xml:id="tg1167.2.31.vnh5.0">Die ihr schwarz Geschlecht erzielt</l>
+                              <l xml:id="tg1167.2.32.vnh5.0">Mit Odem, den sie gibt und stiehlt,</l>
+                              <l xml:id="tg1167.2.33.vnh5.0">Zu dem Trauerzug dich halte!</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.34.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.35.vnh5.0"/>
+                              <l xml:id="tg1167.2.36.vnh5.0">Hier beginnt der Chor. – Zusammen</l>
+                              <l xml:id="tg1167.2.37.vnh5.0">Tönet's: Lieb' und Treu ist hin;</l>
+                              <l xml:id="tg1167.2.38.vnh5.0">Turteltaub' und Phönix fliehn</l>
+                              <l xml:id="tg1167.2.39.vnh5.0">Aus der Welt in Wechselflammen.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.40.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.41.vnh5.0"/>
+                              <l xml:id="tg1167.2.42.vnh5.0">Liebten sich, wie wenn, verdichtet</l>
+                              <l xml:id="tg1167.2.43.vnh5.0">Lieb' in Zwei'n zu einem Wesen,</l>
+                              <l xml:id="tg1167.2.44.vnh5.0">Trennungslos geteilt gewesen.</l>
+                              <l xml:id="tg1167.2.45.vnh5.0">Da hat Liebe Zahl vernichtet.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.46.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.47.vnh5.0"/>
+                              <l xml:id="tg1167.2.48.vnh5.0">Herzen nah im Weiten schienen;</l>
+                              <l xml:id="tg1167.2.49.vnh5.0">Denn nicht Raum war, und doch Ferne</l>
+                              <l xml:id="tg1167.2.50.vnh5.0">Zwischen Taub' und ihrem Sterne.</l>
+                              <l xml:id="tg1167.2.51.vnh5.0">Allen Wunder, außer ihnen.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.52.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.53.vnh5.0"/>
+                              <l xml:id="tg1167.2.54.vnh5.0">Liebesstrahl durchzuckte so sie,</l>
+                              <l xml:id="tg1167.2.55.vnh5.0">Daß der Phönix all sein Glück</l>
+                              <l xml:id="tg1167.2.56.vnh5.0">Flammen sah im Turtelblick;</l>
+                              <l xml:id="tg1167.2.57.vnh5.0">Jedes jedem ein Potosi.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.58.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.59.vnh5.0"/>
+                              <l xml:id="tg1167.2.60.vnh5.0">Eigentum sich so verließ,</l>
+                              <l xml:id="tg1167.2.61.vnh5.0">Daß im Selbst das Selbst verschwand,</l>
+                              <l xml:id="tg1167.2.62.vnh5.0">Einzelwesen, zwiebenannt,</l>
+                              <l xml:id="tg1167.2.63.vnh5.0">Weder zwei noch eines hieß.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.64.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.65.vnh5.0"/>
+                              <l xml:id="tg1167.2.66.vnh5.0">Selbst Vernunft, sie schien bedrängt,</l>
+                              <l xml:id="tg1167.2.67.vnh5.0">Sah Getrenntes sich vereinen,</l>
+                              <l xml:id="tg1167.2.68.vnh5.0">An sich selbst wie nichts erscheinen:</l>
+                              <l xml:id="tg1167.2.69.vnh5.0">Schlichtes war so wohl vermengt,</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.70.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.71.vnh5.0"/>
+                              <l xml:id="tg1167.2.72.vnh5.0">Daß sie rief: wie treugepaart</l>
+                              <l xml:id="tg1167.2.73.vnh5.0">Hier in Eintracht ein Geschlecht!</l>
+                              <l xml:id="tg1167.2.74.vnh5.0">Recht hat Liebe nun, nicht Recht,</l>
+                              <l xml:id="tg1167.2.75.vnh5.0">Wo Entfernung so beharrt.</l>
+                           </lg>
+                           <lb xml:id="tg1167.2.76.vnh5.0"/>
+ 
+                           <lg>
+                              <lb xml:id="tg1167.2.77.vnh5.0"/>
+                              <l xml:id="tg1167.2.78.vnh5.0">Und erhub dann diese Klage</l>
+                              <l xml:id="tg1167.2.79.vnh5.0">Um der Liebe Stern und Helden,</l>
+                              <l xml:id="tg1167.2.80.vnh5.0">Taub' und Phönix die Entseelten,</l>
+                              <l xml:id="tg1167.2.81.vnh5.0">Als Choral am Sarkophage:</l>
+                              <pb n="860" xml:id="tg1167.2.82.vnh5.0"/> 
+                           </lg>
+                           <lb xml:id="tg1167.2.83.vnh5.0"/>
+                        </div>
+                        <div type="h4">
+                           <head type="h4" xml:id="tg1167.2.84.vnh5.0">Klage</head>
+
+
+                           <lb xml:id="tg1167.2.85.vnh5.0"/>
+                           <lg>
+                              <l xml:id="tg1167.2.86.vnh5.0">Schönheit, Treu und Seltenheit,</l>
+                              <l xml:id="tg1167.2.87.vnh5.0">Anmut in Einfältigkeit</l>
+                              <l xml:id="tg1167.2.88.vnh5.0">Schlummern hier dem Staub geweiht.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1167.2.89.vnh5.0"/>
+                              <l xml:id="tg1167.2.90.vnh5.0">Nun versiecht des Phönix Blut;</l>
+                              <l xml:id="tg1167.2.91.vnh5.0">Täubleins Herz, so fromm und gut,</l>
+                              <l xml:id="tg1167.2.92.vnh5.0">Für Ewigkeiten fühllos ruht.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1167.2.93.vnh5.0"/>
+                              <l xml:id="tg1167.2.94.vnh5.0">Ach der kinderlos Verschwund'nen!</l>
+                              <l xml:id="tg1167.2.95.vnh5.0">Nicht ohnmächtig drum Erfundnen:</l>
+                              <l xml:id="tg1167.2.96.vnh5.0">Keuschheit war es der Verbund'nen.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1167.2.97.vnh5.0"/>
+                              <l xml:id="tg1167.2.98.vnh5.0">Wahrheit <hi rend="italic" xml:id="tg1167.2.98.1.vnh5.0">scheint</hi> nun, hat nicht Wesen.</l>
+                              <l xml:id="tg1167.2.99.vnh5.0">Schönheit prahlt nun, ist gewesen.</l>
+                              <l xml:id="tg1167.2.100.vnh5.0">Wahrheit, Schönheit, sie verwesen.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1167.2.101.vnh5.0"/>
+                              <l xml:id="tg1167.2.102.vnh5.0">Alle, die ihr schön und wahr,</l>
+                              <l xml:id="tg1167.2.103.vnh5.0">Kommt zur Urne, bringet dar</l>
+                              <l xml:id="tg1167.2.104.vnh5.0">Ein Gebet dem Totenpaar!<pb n="861" xml:id="tg1167.2.104.1.vnh5.0"/> 
+                                 
+                              </l>
+                           </lg>
+                        </div>
+                     </div>
+                  </body>
+            </text>
+         </TEI></teiCorpus>

@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:vn9v.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Poetische Werke</title><title>Shakespeare, William</title><title>Der verliebte Pilger</title><author>Shakespeare, William</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-0B32-7</idno><idno type="textgrid">textgrid:vmx3.0</idno><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Die vorliegende Übersetzung stammt von Gottlob Regis. Erstdruck in: Shakespeare-Almanach. Herausgegeben von Gottlob Regis, Berlin (Veit) 1836.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.</title><author key="pnd:118613723">Shakespeare, William</author></titleStmt><extent>847-</extent><publicationStmt><date when-iso="1975"/><pubPlace>Berlin</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg1169.vn9w.0" n="/Literatur/M/Shakespeare, William/Poetische Werke/Der verliebte Pilger">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Der verliebte Pilger</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-0C87-0</idno><idno type="TextGridUri">textgrid:vn9w.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                              Die vorliegende Übersetzung stammt von Gottlob Regis. Erstdruck in: Shakespeare-Almanach. Herausgegeben von Gottlob Regis, Berlin (Veit) 1836.
+                           </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.</title>
+                  <author key="pnd:118613723">Shakespeare, William</author>
+               </titleStmt>
+               <extent>847-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Berlin</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1564" notAfter="1616"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+            <text>
+               <body>
+                     
+                        
+                     
+                     
+                     <div type="text" xml:id="tg1169.2.vn9w.0">
+
+
+
+                        <div type="h4">
+                           <head type="h4" xml:id="tg1169.2.1.vn9w.0">William Shakespeare</head>
+
+
+                           <head type="h2" xml:id="tg1169.2.2.vn9w.0">Der verliebte Pilger</head>
+                           
+
+                           <lb xml:id="tg1169.2.4.vn9w.0"/>
+                           <pb type="start" n="847" xml:id="tg1169.2.5.vn9w.0"/>
+                           <lg>
+                              <l xml:id="tg1169.2.6.vn9w.0">Wenn Liebchen spricht, daß nie ihr Herz erkalte,</l>
+                              <l xml:id="tg1169.2.7.vn9w.0">So glaub' ich ihr, wenn sie es schon erfand;</l>
+                              <l xml:id="tg1169.2.8.vn9w.0">Damit sie mich für einen Neuling halte,</l>
+                              <l xml:id="tg1169.2.9.vn9w.0">Mit Listen dieser Welt noch unbekannt.</l>
+                              <l xml:id="tg1169.2.10.vn9w.0">So, irrig wähnend, daß sie jung mich wähne,</l>
+                              <l xml:id="tg1169.2.11.vn9w.0">Wiewohl sie weiß, mein Frühling ist dahin,</l>
+                              <l xml:id="tg1169.2.12.vn9w.0">Leugn' ich's ihr nicht in ihre falschen Zähne,</l>
+                              <l xml:id="tg1169.2.13.vn9w.0">Und beiderseits verbirgt sich wahrer Sinn.</l>
+                              <l xml:id="tg1169.2.14.vn9w.0">Doch warum sagt sie nicht, daß sie nicht treu?</l>
+                              <l xml:id="tg1169.2.15.vn9w.0">Warum nicht ich, daß einst ich jung gewesen?</l>
+                              <l xml:id="tg1169.2.16.vn9w.0">O, Amors Lieblingslust ist Heuchelei,</l>
+                              <l xml:id="tg1169.2.17.vn9w.0">Und Lieb' in Jahren mag nicht Jahreszahlen lesen.</l>
+                              <l xml:id="tg1169.2.18.vn9w.0">Darum belüg' ich sie, belügt sie mich,</l>
+                              <l xml:id="tg1169.2.19.vn9w.0">Und unsre Lügensünden schmeicheln sich.</l>
+                              <pb n="847" xml:id="tg1169.2.20.vn9w.0"/> 
+                           </lg>
+                           <lb xml:id="tg1169.2.21.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.22.vn9w.0"/>
+                              <l xml:id="tg1169.2.23.vn9w.0">Zwei Flammen hab' ich, die im Doppelbann,</l>
+                              <l xml:id="tg1169.2.24.vn9w.0">Wie Geister, zwischen Trost und Qual mich lassen darben:</l>
+                              <l xml:id="tg1169.2.25.vn9w.0">Der bess're Engel ist ein schöner Mann,</l>
+                              <l xml:id="tg1169.2.26.vn9w.0">Der schlimmere Geist ein Weib von bösen Farben.</l>
+                              <l xml:id="tg1169.2.27.vn9w.0">Mein weiblich Unheil, bald dem Pfuhl mich zu gesellen,</l>
+                              <l xml:id="tg1169.2.28.vn9w.0">Lockt meinen guten Engel von mir fort:</l>
+                              <l xml:id="tg1169.2.29.vn9w.0">Zum Teufel möchte sie den Heiligen entstellen;</l>
+                              <l xml:id="tg1169.2.30.vn9w.0">Dem Reinen kost ihr falsches Schmeichelwort.</l>
+                              <l xml:id="tg1169.2.31.vn9w.0">Und, ob mein Engel nun schon eingefeindet,</l>
+                              <l xml:id="tg1169.2.32.vn9w.0">Besorg' ich; – zwar nicht völlig ist's bekannt; –</l>
+                              <l xml:id="tg1169.2.33.vn9w.0">Doch, da mich beide fliehn, und beide sich befreundet,</l>
+                              <l xml:id="tg1169.2.34.vn9w.0">Fürcht' ich, ein Engel ward des andern Höllenbrand.</l>
+                              <l xml:id="tg1169.2.35.vn9w.0">Und wie es steh', ich kann es nicht vermuten,</l>
+                              <l xml:id="tg1169.2.36.vn9w.0">Als bis mein böser Geist verschlingt den guten.</l>
+                              <pb n="850" xml:id="tg1169.2.37.vn9w.0"/> 
+                           </lg>
+                           <lb xml:id="tg1169.2.38.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.39.vn9w.0"/>
+                              <l xml:id="tg1169.2.40.vn9w.0">Hat deiner Augen Himmelsredemacht,</l>
+                              <l xml:id="tg1169.2.41.vn9w.0">Die keine Welt bestreiten wird mit Gründen,</l>
+                              <l xml:id="tg1169.2.42.vn9w.0">Mein Herz zu diesem Meineid nicht gebracht?</l>
+                              <l xml:id="tg1169.2.43.vn9w.0">Um dich gebrochne Schwüre sind nicht Sünden.</l>
+                              <l xml:id="tg1169.2.44.vn9w.0">Ein Weib verschwur ich; aber daß ich nicht</l>
+                              <l xml:id="tg1169.2.45.vn9w.0">Dich <hi rend="italic" xml:id="tg1169.2.45.1.vn9w.0">Göttin</hi> drum verschwur, will ich beschwören.</l>
+                              <l xml:id="tg1169.2.46.vn9w.0">Mein Eid war irdisch, du ein himmlisch Licht.</l>
+                              <l xml:id="tg1169.2.47.vn9w.0">Von aller Schuld befreit mich dein Erhören.</l>
+                              <l xml:id="tg1169.2.48.vn9w.0">Mein Eid war Hauch; Hauch ist ein Dunst: so saugest</l>
+                              <l xml:id="tg1169.2.49.vn9w.0">Du schöne Sonne meiner Erdenbahn</l>
+                              <l xml:id="tg1169.2.50.vn9w.0">Dies dunstige Gelübd' in dich, verhauchest,</l>
+                              <l xml:id="tg1169.2.51.vn9w.0">Zerreißest es; ich hab' nicht Teil daran.</l>
+                              <l xml:id="tg1169.2.52.vn9w.0">Und hätt ich's auch gebrochen, welcher Tor</l>
+                              <l xml:id="tg1169.2.53.vn9w.0">Zög einen Schwur dem Paradiese vor?</l>
+                           </lg>
+                           <lb xml:id="tg1169.2.54.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.55.vn9w.0"/>
+                              <l xml:id="tg1169.2.56.vn9w.0">An einem Bache saß die reizende Cythere,</l>
+                              <l xml:id="tg1169.2.57.vn9w.0">Von ihrem jungen Freund Adonis hoch entzückt.</l>
+                              <l xml:id="tg1169.2.58.vn9w.0">Mit manchem süßen Blick liebäugelt ihm die Hehre,</l>
+                              <l xml:id="tg1169.2.59.vn9w.0">Mit Blicken wie nur sie, der Schönheit Fürstin, blickt.</l>
+                              <l xml:id="tg1169.2.60.vn9w.0">Dem Ohr zur Lust erzählt sie Märlein ihm,</l>
+                              <l xml:id="tg1169.2.61.vn9w.0">Zeigt Liebliches, die Augen zu versuchen;</l>
+                              <l xml:id="tg1169.2.62.vn9w.0">Berührt ihn hie und da, sein Herz an sich zu ziehn:</l>
+                              <l xml:id="tg1169.2.63.vn9w.0">So schmeichelndes Getast wird oft das Grab der Tugend. –</l>
+                              <l xml:id="tg1169.2.64.vn9w.0">Doch, ob den frühen Jahren Sinn gebricht,</l>
+                              <l xml:id="tg1169.2.65.vn9w.0">Ob er verschmähet ihr verblümtes Deuten,</l>
+                              <l xml:id="tg1169.2.66.vn9w.0">Der junge Gründling schluckt den Hamen nicht,</l>
+                              <l xml:id="tg1169.2.67.vn9w.0">Und lacht und spottet aller Artigkeiten.</l>
+                              <pb n="879" xml:id="tg1169.2.68.vn9w.0"/> 
+                              <l xml:id="tg1169.2.69.vn9w.0">Da fiel die gnäd'ge Göttin rücklings hin:</l>
+                              <l xml:id="tg1169.2.70.vn9w.0">Und er sprang auf und lief. – O Eigensinn!</l>
+                           </lg>
+                           <lb xml:id="tg1169.2.71.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.72.vn9w.0"/>
+                              <l xml:id="tg1169.2.73.vn9w.0">Lehrt Liebe Meineid mich, wie soll ich Liebe schwören?</l>
+                              <l xml:id="tg1169.2.74.vn9w.0">O Schönheit, sie allein hält Liebestreu im Flor!</l>
+                              <l xml:id="tg1169.2.75.vn9w.0">Wie auch mir selber falsch, treu will ich dir gehören.</l>
+                              <l xml:id="tg1169.2.76.vn9w.0">Dies Wort, mir eichenfest, scheint dir ein schwankes Rohr.</l>
+                              <l xml:id="tg1169.2.77.vn9w.0">Betrachtung läßt ihr Buch und forscht in deinen Augen,</l>
+                              <l xml:id="tg1169.2.78.vn9w.0">Wo alle Wonne lebt, die nur die Kunst erschleußt.</l>
+                              <l xml:id="tg1169.2.79.vn9w.0">Ist Kenntnis Ziel, du kannst statt aller Kenntnis taugen:</l>
+                              <l xml:id="tg1169.2.80.vn9w.0">Am weisesten der Mund, der dich am besten preist.</l>
+                              <l xml:id="tg1169.2.81.vn9w.0">Wer ungerührt dich säh, die roh'ste Seele hätt' er.</l>
+                              <l xml:id="tg1169.2.82.vn9w.0">Daß du ein Wunder mir, kommt meinem Ruf zu gut.</l>
+                              <l xml:id="tg1169.2.83.vn9w.0">Dein Aug' ist Jovis Blitz, dein Laut sein drohend Wetter;</l>
+                              <l xml:id="tg1169.2.84.vn9w.0">Doch, ohne Zorn, Musik und sanfte Lebensglut.</l>
+                              <l xml:id="tg1169.2.85.vn9w.0">O, himmlisch wie du bist, verleugne dich nicht so,</l>
+                              <l xml:id="tg1169.2.86.vn9w.0">Und singe Himmels Lob so irdisch rauh und roh.</l>
+                           </lg>
+                           <lb xml:id="tg1169.2.87.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.88.vn9w.0"/>
+                              <l xml:id="tg1169.2.89.vn9w.0">Kaum war der Tau vom Frühlicht aufgetrunken,</l>
+                              <l xml:id="tg1169.2.90.vn9w.0">Kaum ruht die Herd' umzäunt im Schattendach,</l>
+                              <l xml:id="tg1169.2.91.vn9w.0">Als Cypria, in Liebe ganz versunken,</l>
+                              <l xml:id="tg1169.2.92.vn9w.0">Voll Sehnsucht des Adonis harrt' am Bach,</l>
+                              <l xml:id="tg1169.2.93.vn9w.0">Bei einem Weidenbaum. Adonis war</l>
+                              <l xml:id="tg1169.2.94.vn9w.0">Im Bach gewohnt sein Feuer abzukühlen.</l>
+                              <l xml:id="tg1169.2.95.vn9w.0">Heiß schien die Sonne, heißer noch fürwahr</l>
+                              <l xml:id="tg1169.2.96.vn9w.0">Die seiner harrt'; oft pflegt' er dort zu spielen.</l>
+                              <l xml:id="tg1169.2.97.vn9w.0">Und sieh! er kommt, und wirft den Mantel ab,</l>
+                              <l xml:id="tg1169.2.98.vn9w.0">Steht mutternackt auf grünem Wiesenplan.</l>
+                              <l xml:id="tg1169.2.99.vn9w.0">Mit Herrscheraugen blickt die Sonn' herab;</l>
+                              <l xml:id="tg1169.2.100.vn9w.0">Noch brünstiger blickt ihn die Göttin an.</l>
+                              <l xml:id="tg1169.2.101.vn9w.0">Kaum sah er sie, sprang er hinab. Sie sprach:</l>
+                              <l xml:id="tg1169.2.102.vn9w.0">»O Jupiter! O wär' ich doch der Bach!«</l>
+                              <pb n="880" xml:id="tg1169.2.103.vn9w.0"/> 
+                           </lg>
+                           <lb xml:id="tg1169.2.104.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.105.vn9w.0"/>
+                              <l xml:id="tg1169.2.106.vn9w.0">Mein Lieb ist schön, doch nicht so schön als schnöde:</l>
+                              <l xml:id="tg1169.2.107.vn9w.0">Wie Tauben sanft, doch schlangenglatt und frostig;</l>
+                              <l xml:id="tg1169.2.108.vn9w.0">Heller als Glas, und doch wie Glas so spröde,</l>
+                              <l xml:id="tg1169.2.109.vn9w.0">Weicher als Wachs, und doch wie Eisen rostig:</l>
+                              <l xml:id="tg1169.2.110.vn9w.0">Ein wenig bleich, mit etwas Rosenröte,</l>
+                              <l xml:id="tg1169.2.111.vn9w.0">So schön wie keine, und so falsch wie jede.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.112.vn9w.0"/>
+                              <l xml:id="tg1169.2.113.vn9w.0">Wie hat sie mich mit Lippen schier verschlungen,</l>
+                              <l xml:id="tg1169.2.114.vn9w.0">Auf jeden Kuß ein Heer von Liebesschwüren.</l>
+                              <l xml:id="tg1169.2.115.vn9w.0">Wie hat sie mich mit Märchen eingesungen,</l>
+                              <l xml:id="tg1169.2.116.vn9w.0">Als bräch' ihr Herz, das meine zu verlieren!</l>
+                              <l xml:id="tg1169.2.117.vn9w.0">Und doch, im Schwung der höchsten Seelenflüge</l>
+                              <l xml:id="tg1169.2.118.vn9w.0">Ward Eid und Treu und Trän' und alles Lüge.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.119.vn9w.0"/>
+                              <l xml:id="tg1169.2.120.vn9w.0">Sie brannt' in Liebe wie das Stroh in Flammen,</l>
+                              <l xml:id="tg1169.2.121.vn9w.0">Verbrannt' in Liebe schnell wie Stroh verbrennet,</l>
+                              <l xml:id="tg1169.2.122.vn9w.0">Erbaute Lieb', und riß sie wild zusammen;</l>
+                              <l xml:id="tg1169.2.123.vn9w.0">Schwur ew'ge Lieb', und hat sie rasch zertrennet.</l>
+                              <l xml:id="tg1169.2.124.vn9w.0">Soll sie als Buhl', als Liebchen mir gefallen,</l>
+                              <l xml:id="tg1169.2.125.vn9w.0">Zu schlecht zum guten, und gering in allem?</l>
+                           </lg>
+                           <lb xml:id="tg1169.2.126.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.127.vn9w.0"/>
+                              <l xml:id="tg1169.2.128.vn9w.0">Der Morgen lächelte: die schöne Venus war</l>
+                              <l xml:id="tg1169.2.129.vn9w.0">– – – – – – – – – – – – – – – – – – – – – – – – – – – –</l>
+                              <l xml:id="tg1169.2.130.vn9w.0">Vor Kummer bleicher als ihr schneeweiß Taubenpaar,</l>
+                              <l xml:id="tg1169.2.131.vn9w.0">Des wilden Springinsfeld Adonis wegen.</l>
+                              <l xml:id="tg1169.2.132.vn9w.0">Sie tritt auf einen jähen Holm. Geschwind</l>
+                              <l xml:id="tg1169.2.133.vn9w.0">Sieht sie den Knaben nahn mit Horn und Hunde.</l>
+                              <l xml:id="tg1169.2.134.vn9w.0">Die Gute warnt ihn, mehr als wohlgesinnt:</l>
+                              <l xml:id="tg1169.2.135.vn9w.0">»O weiche nicht von diesem sichern Grunde.</l>
+                              <l xml:id="tg1169.2.136.vn9w.0">Wohl eher sah ich schon so holden Kleinen</l>
+                              <l xml:id="tg1169.2.137.vn9w.0">Von einem Eber schwer verletzt im Tal,</l>
+                              <l xml:id="tg1169.2.138.vn9w.0">Tief in der Hüft', ein Anblick war's zum Weinen;</l>
+                              <l xml:id="tg1169.2.139.vn9w.0">Sieh meine Hüfte, sieh, hier war das Mal.«</l>
+                              <l xml:id="tg1169.2.140.vn9w.0">Sie zeigt es ihm, und er wird rot und flieht,</l>
+                              <l xml:id="tg1169.2.141.vn9w.0">Weil er mehr Wunden dort als eine sieht.</l>
+                              <pb n="881" xml:id="tg1169.2.142.vn9w.0"/> 
+                           </lg>
+                           <lb xml:id="tg1169.2.143.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.144.vn9w.0"/>
+                              <l xml:id="tg1169.2.145.vn9w.0">Lieb Röslein, vor der Zeit gepflückt, zu bald erblichen,</l>
+                              <l xml:id="tg1169.2.146.vn9w.0">Gepflückt als zarte Knosp', im Lenz erblichen; ach,</l>
+                              <l xml:id="tg1169.2.147.vn9w.0">Des Ostens Perle du, vom Moder früh beschlichen,</l>
+                              <l xml:id="tg1169.2.148.vn9w.0">O Kleinod, das so schnell des Todes Stachel stach,</l>
+                              <l xml:id="tg1169.2.149.vn9w.0">Wie grüne Pflaumen, die in Windes Wallen</l>
+                              <l xml:id="tg1169.2.150.vn9w.0">Eh' sie der Herbst gereift, vom Baume fallen.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.151.vn9w.0"/>
+                              <l xml:id="tg1169.2.152.vn9w.0">Ich wein' um dich, der doch nicht Anlaß hat:</l>
+                              <l xml:id="tg1169.2.153.vn9w.0">Warum? Im Testament hast du mich übergangen;</l>
+                              <l xml:id="tg1169.2.154.vn9w.0">Und mir doch mehr vermacht, als je ich von dir bat:</l>
+                              <l xml:id="tg1169.2.155.vn9w.0">Warum? Nie hab' ich dich um etwas angegangen.</l>
+                              <l xml:id="tg1169.2.156.vn9w.0">Und doch, verzeih mein Herz! ich muß mich fassen:</l>
+                              <l xml:id="tg1169.2.157.vn9w.0">Dein Mißvergnügen hast du mir verlassen.</l>
+                           </lg>
+                           <lb xml:id="tg1169.2.158.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.159.vn9w.0"/>
+                              <l xml:id="tg1169.2.160.vn9w.0">Saures Alter, frohe Jugend</l>
+                              <l xml:id="tg1169.2.161.vn9w.0">Können nicht zusammen dauern:</l>
+                              <l xml:id="tg1169.2.162.vn9w.0">Jugend ist voll muntrer Launen,</l>
+                              <l xml:id="tg1169.2.163.vn9w.0">Alter voller Sorg' und Qual.</l>
+                              <l xml:id="tg1169.2.164.vn9w.0">Jugend wie ein Sommermorgen,</l>
+                              <l xml:id="tg1169.2.165.vn9w.0">Alter gleicht den Winterschauern.</l>
+                              <l xml:id="tg1169.2.166.vn9w.0">Jugend pranget wie der Sommer,</l>
+                              <l xml:id="tg1169.2.167.vn9w.0">Alter winterdürr und kahl.</l>
+                              <l xml:id="tg1169.2.168.vn9w.0">Wenn der Jugend Scherze frommen,</l>
+                              <l xml:id="tg1169.2.169.vn9w.0">Alters Odem bleibt beklommen.</l>
+                              <l xml:id="tg1169.2.170.vn9w.0">Jugend eilet, Alter schleicht.</l>
+                              <l xml:id="tg1169.2.171.vn9w.0">Jugend feurig, kühn, verwegen,</l>
+                              <l xml:id="tg1169.2.172.vn9w.0">Alter lahm, will nur sich pflegen;</l>
+                              <l xml:id="tg1169.2.173.vn9w.0">Jugend schäumet, Alter keucht.</l>
+                              <l xml:id="tg1169.2.174.vn9w.0">Jugend, Jugend, dich umfang' ich:</l>
+                              <l xml:id="tg1169.2.175.vn9w.0">Alter, Alter, vor dir bang' ich.</l>
+                              <l xml:id="tg1169.2.176.vn9w.0">O mein Lieb, mein Lieb ist jung.</l>
+                              <l xml:id="tg1169.2.177.vn9w.0">Alter schlag' ich in die Winde:</l>
+                              <l xml:id="tg1169.2.178.vn9w.0">Süßer Schäfer, komm geschwinde!</l>
+                              <l xml:id="tg1169.2.179.vn9w.0">Eilest lang mir nicht genung.</l>
+                              <pb n="882" xml:id="tg1169.2.180.vn9w.0"/> 
+                           </lg>
+                           <lb xml:id="tg1169.2.181.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.182.vn9w.0"/>
+                              <l xml:id="tg1169.2.183.vn9w.0">Schönheit, o eitles Glück, wie bald verloren!</l>
+                              <l xml:id="tg1169.2.184.vn9w.0">Du bist ein bunter Schmelz, der schnell verfliegt,</l>
+                              <l xml:id="tg1169.2.185.vn9w.0">Ein Blümlein früh dahin, so wie geboren,</l>
+                              <l xml:id="tg1169.2.186.vn9w.0">Ein mürbes Glas, das in der Hand zerbricht.</l>
+                              <l xml:id="tg1169.2.187.vn9w.0">Schmelze, Blume, Glas, hinfällig eitles Glück,</l>
+                              <l xml:id="tg1169.2.188.vn9w.0">Verwelkt, verschwunden, tot im Augenblick.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.189.vn9w.0"/>
+                              <l xml:id="tg1169.2.190.vn9w.0">Und wie verlornes Glück sich selten findet,</l>
+                              <l xml:id="tg1169.2.191.vn9w.0">Verflognen Schmelz kein Reiben wiederbringt,</l>
+                              <l xml:id="tg1169.2.192.vn9w.0">Verwelkte Blume tot zur Erde schwindet,</l>
+                              <l xml:id="tg1169.2.193.vn9w.0">Zerbrochnes Glas kein Kitt zusammenzwingt:</l>
+                              <l xml:id="tg1169.2.194.vn9w.0">So kann befleckte Schönheit nichts erneuen,</l>
+                              <l xml:id="tg1169.2.195.vn9w.0">Nicht Mühen, Sorgen, Schminken, Arzeneien.</l>
+                           </lg>
+                           <lb xml:id="tg1169.2.196.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.197.vn9w.0"/>
+                              <l xml:id="tg1169.2.198.vn9w.0">»Gut' Nacht! Ruh' sanft!« – Ach, beides mir verleidet!</l>
+                              <l xml:id="tg1169.2.199.vn9w.0">Sie beut mir gute Nacht, die meine Ruh verscheucht</l>
+                              <l xml:id="tg1169.2.200.vn9w.0">Und in mein Bett mich treibt mit Qualen überbreitet,</l>
+                              <l xml:id="tg1169.2.201.vn9w.0">Wo meines Unglücks Zweifel mich beschleicht.</l>
+                              <l xml:id="tg1169.2.202.vn9w.0">»Leb' wohl«, sprach sie, »gut' Nacht! Wir sehn uns morgen.« –</l>
+                              <l xml:id="tg1169.2.203.vn9w.0">Wohlleben konnt' ich nicht; ich aß zu Nacht mit Sorgen.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.204.vn9w.0"/>
+                              <l xml:id="tg1169.2.205.vn9w.0">Doch als wir schieden, lächelt' sie so süß:</l>
+                              <l xml:id="tg1169.2.206.vn9w.0">War's Freundschaft oder Hohn? Ich mag's nicht deuten:</l>
+                              <l xml:id="tg1169.2.207.vn9w.0">Vielleicht vor Freuden, daß sie mich verstieß?</l>
+                              <l xml:id="tg1169.2.208.vn9w.0">Vielleicht mich Irren wieder hin zu leiten?</l>
+                              <l xml:id="tg1169.2.209.vn9w.0">Irr! Auf uns luft'ge Schemen paßt das Wort;</l>
+                              <l xml:id="tg1169.2.210.vn9w.0">Wir müh'n uns viel, und heben nie den Hort.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.211.vn9w.0"/>
+                              <l xml:id="tg1169.2.212.vn9w.0">Wie starrt' ich unverwandt nach Osten hin!</l>
+                              <l xml:id="tg1169.2.213.vn9w.0">Mein Herz zürnt mit der Uhr; das frühe Licht</l>
+                              <l xml:id="tg1169.2.214.vn9w.0">Erweckt aus trägem Schlummer jeden Sinn:</l>
+                              <l xml:id="tg1169.2.215.vn9w.0">Der eignen Augen Zeugnis glaub' ich nicht;</l>
+                              <l xml:id="tg1169.2.216.vn9w.0">Ich sitze lauschend, horch' auf Philomelen,</l>
+                              <l xml:id="tg1169.2.217.vn9w.0">Und wollt', es wär ein Lied aus Lerchenkehlen:</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.218.vn9w.0"/>
+                              <pb n="883" xml:id="tg1169.2.219.vn9w.0"/> 
+                              <l xml:id="tg1169.2.220.vn9w.0">Denn <hi rend="italic" xml:id="tg1169.2.220.1.vn9w.0">das</hi> begrüßt den Tag mit muntern Lauten,</l>
+                              <l xml:id="tg1169.2.221.vn9w.0">Und zwingt die lichtlos bange Nacht zur Flucht;</l>
+                              <l xml:id="tg1169.2.222.vn9w.0">Und, flieht die Nacht, eil' ich zu meiner Trauten;</l>
+                              <l xml:id="tg1169.2.223.vn9w.0">Dort findet Herz und Auge, was es sucht.</l>
+                              <l xml:id="tg1169.2.224.vn9w.0">Sorg' ist in Lust verwandelt, Lust hegt Sorgen,</l>
+                              <l xml:id="tg1169.2.225.vn9w.0">Denn seufzend sagte sie zu mir: »Komm morgen!«</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.226.vn9w.0"/>
+                              <l xml:id="tg1169.2.227.vn9w.0">Wär' ich mit ihr, zu schnell wär' Nacht entflohn;</l>
+                              <l xml:id="tg1169.2.228.vn9w.0">Nun aber reih'n Minuten sich an Stunden:</l>
+                              <l xml:id="tg1169.2.229.vn9w.0">Minuten werden Monden mir zum Hohn.</l>
+                              <l xml:id="tg1169.2.230.vn9w.0">Nicht mir, o Tag! den Blumen scheine drunten.</l>
+                              <l xml:id="tg1169.2.231.vn9w.0">Flieh, Nacht! Komm, lieber Tag! Laß Nacht uns borgen;</l>
+                              <l xml:id="tg1169.2.232.vn9w.0">Und, Nacht, sei kurz, erhole dich am Morgen.</l>
+                           </lg>
+                           <lb xml:id="tg1169.2.233.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.234.vn9w.0"/>
+                              <l xml:id="tg1169.2.235.vn9w.0">Liebe (ach wer steht ihr bei!</l>
+                              <l xml:id="tg1169.2.236.vn9w.0">Immer frisch und jung im Mai)</l>
+                              <l xml:id="tg1169.2.237.vn9w.0">Sah umbuhlt von Zephyrs Wehen</l>
+                              <l xml:id="tg1169.2.238.vn9w.0">Wunderschönes Blümlein stehen.</l>
+                              <l xml:id="tg1169.2.239.vn9w.0">Durch die samtnen Blätter schien</l>
+                              <l xml:id="tg1169.2.240.vn9w.0">Unsichtbar der Wind zu ziehn,</l>
+                              <l xml:id="tg1169.2.241.vn9w.0">Daß sich totkrank der Verliebte</l>
+                              <l xml:id="tg1169.2.242.vn9w.0">Nicht wie Luft zu sein betrübte,</l>
+                              <l xml:id="tg1169.2.243.vn9w.0">»Luft«, sprach er, »wie darfst du schlürfen!</l>
+                              <l xml:id="tg1169.2.244.vn9w.0">Möcht' ich, Luft, so jubeln dürfen!</l>
+                              <l xml:id="tg1169.2.245.vn9w.0">Aber ach, dich nie zu brechen</l>
+                              <l xml:id="tg1169.2.246.vn9w.0">Gab die Hand dir das Versprechen!</l>
+                              <l xml:id="tg1169.2.247.vn9w.0">Jugendschwur, wie ich dich büße!</l>
+                              <l xml:id="tg1169.2.248.vn9w.0">Jugend pflückt so gern das Süße.</l>
+                              <l xml:id="tg1169.2.249.vn9w.0">Nenn' es Sünde nicht in mir,</l>
+                              <l xml:id="tg1169.2.250.vn9w.0">Brech' ich mein Gelübde dir.</l>
+                              <l xml:id="tg1169.2.251.vn9w.0">Schwür' doch Zeus, in dich verloren,</l>
+                              <l xml:id="tg1169.2.252.vn9w.0">Seine Juno glich den Mohren;</l>
+                              <l xml:id="tg1169.2.253.vn9w.0">Möchte Zeus nicht länger, nein,</l>
+                              <l xml:id="tg1169.2.254.vn9w.0">Dir zuliebe sterblich sein.«</l>
+                              <pb n="884" xml:id="tg1169.2.255.vn9w.0"/> 
+                           </lg>
+                           <lb xml:id="tg1169.2.256.vn9w.0"/>
+
+                           <lg>
+                              <lb xml:id="tg1169.2.257.vn9w.0"/>
+                              <l xml:id="tg1169.2.258.vn9w.0">Wenn du die Schöne willst erreichen,</l>
+                              <l xml:id="tg1169.2.259.vn9w.0">Das Wild, das schußrecht vor dir sitzt,</l>
+                              <l xml:id="tg1169.2.260.vn9w.0">Dann schütze dich Vernunft vor Streichen,</l>
+                              <l xml:id="tg1169.2.261.vn9w.0">So gut sie blinde Liebe schützt.</l>
+                              <l xml:id="tg1169.2.262.vn9w.0">Ein kluger Rat, er wär' dir nötig;</l>
+                              <l xml:id="tg1169.2.263.vn9w.0">Doch sei er nicht zu jung, noch ledig.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.264.vn9w.0"/>
+                              <l xml:id="tg1169.2.265.vn9w.0">Und bringst du nun dein Sprüchlein an,</l>
+                              <l xml:id="tg1169.2.266.vn9w.0">Laß glatter Zungen Wortgeflinker:</l>
+                              <l xml:id="tg1169.2.267.vn9w.0">Sonst merkt sie Trug, du hast vertan;</l>
+                              <l xml:id="tg1169.2.268.vn9w.0">Der Lahme wittert leicht den Hinker.</l>
+                              <l xml:id="tg1169.2.269.vn9w.0">Sprich nur: Dich lieb' ich, treu und schlicht,</l>
+                              <l xml:id="tg1169.2.270.vn9w.0">Und setz' ihr Schönes hell ins Licht.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.271.vn9w.0"/>
+                              <l xml:id="tg1169.2.272.vn9w.0">Und schmollt sie gleich und senkt den Blick,</l>
+                              <l xml:id="tg1169.2.273.vn9w.0">Vor Abend noch gibt sich dies Toben:</l>
+                              <l xml:id="tg1169.2.274.vn9w.0">Dann wünscht sie dich zu spät zurück,</l>
+                              <l xml:id="tg1169.2.275.vn9w.0">Bereut, daß sie ihr Glück verschoben;</l>
+                              <l xml:id="tg1169.2.276.vn9w.0">Zweimal verlangt sie, eh' es tagt,</l>
+                              <l xml:id="tg1169.2.277.vn9w.0">Nach dem, was sie mit Hohn versagt.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.278.vn9w.0"/>
+                              <l xml:id="tg1169.2.279.vn9w.0">Laß sie nur ringen, keifen, zanken,</l>
+                              <l xml:id="tg1169.2.280.vn9w.0">Sich mit dir messen, schelten, schmähn;</l>
+                              <l xml:id="tg1169.2.281.vn9w.0">Die schwache Kraft wird endlich wanken,</l>
+                              <l xml:id="tg1169.2.282.vn9w.0">Sie wird gewitzigt eingestehn:</l>
+                              <l xml:id="tg1169.2.283.vn9w.0">Wär' Weib so stark als Mann geboren,</l>
+                              <l xml:id="tg1169.2.284.vn9w.0">Du hättest, meiner Treu, verloren!</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.285.vn9w.0"/>
+                              <l xml:id="tg1169.2.286.vn9w.0">Und ihren Wünschen allerweise</l>
+                              <l xml:id="tg1169.2.287.vn9w.0">Mit vollen Händen komm zuvor:</l>
+                              <l xml:id="tg1169.2.288.vn9w.0">Daß dein Verdienst sich hell erweise,</l>
+                              <l xml:id="tg1169.2.289.vn9w.0">Laß aufgehn, klingl' ihr um das Ohr.</l>
+                              <l xml:id="tg1169.2.290.vn9w.0">Die stärkste Festung, Turm und Mau'r</l>
+                              <l xml:id="tg1169.2.291.vn9w.0">Ergibt sich goldnem Regenschau'r.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.292.vn9w.0"/>
+                              <l xml:id="tg1169.2.293.vn9w.0">Sei immerdar ihr treuer Knecht,</l>
+                              <l xml:id="tg1169.2.294.vn9w.0">Dein Werben ehrlich und bescheiden:</l>
+                              <l xml:id="tg1169.2.295.vn9w.0">So lang sie dir nicht ungerecht,</l>
+                              <pb n="885" xml:id="tg1169.2.296.vn9w.0"/> 
+                              <l xml:id="tg1169.2.297.vn9w.0">Laß dich zum Wechsel nicht verleiten.</l>
+                              <l xml:id="tg1169.2.298.vn9w.0">Verdrieße dich kein gutes Wort,</l>
+                              <l xml:id="tg1169.2.299.vn9w.0">Und stieße sie dich zehnmal fort.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.300.vn9w.0"/>
+                              <l xml:id="tg1169.2.301.vn9w.0">Wie Frauenlist sich ränkevoll</l>
+                              <l xml:id="tg1169.2.302.vn9w.0">Mit falschem Außenschein umzieht,</l>
+                              <l xml:id="tg1169.2.303.vn9w.0">All' ihre Schlich' und Launen soll</l>
+                              <l xml:id="tg1169.2.304.vn9w.0">Der Hahn nicht wissen, der sie tritt.</l>
+                              <l xml:id="tg1169.2.305.vn9w.0">Hat man dir nicht schon oft bericht':</l>
+                              <l xml:id="tg1169.2.306.vn9w.0">Ein Weiber-Nein hat leicht Gewicht?</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.307.vn9w.0"/>
+                              <l xml:id="tg1169.2.308.vn9w.0">Bedenk, mit Männern ficht kein Weib</l>
+                              <l xml:id="tg1169.2.309.vn9w.0">Um Märtyrtum, es ficht um Sünden.</l>
+                              <l xml:id="tg1169.2.310.vn9w.0">Wenn Zeit und Alter sie bestäubt,</l>
+                              <l xml:id="tg1169.2.311.vn9w.0">Beim Kreuz! dann liegt ihr Himmel hinten.</l>
+                              <l xml:id="tg1169.2.312.vn9w.0">Gäb's nichts als Küss' im Bett, fürwahr,</l>
+                              <l xml:id="tg1169.2.313.vn9w.0">Weib ging mit Weib zum Traualtar.</l>
+                           </lg>
+                           <lg>
+                              <lb xml:id="tg1169.2.314.vn9w.0"/>
+                              <l xml:id="tg1169.2.315.vn9w.0">Doch still! genug, und schon zuviel,</l>
+                              <l xml:id="tg1169.2.316.vn9w.0">Daß mich mein Mädchen nicht vernimmt,</l>
+                              <l xml:id="tg1169.2.317.vn9w.0">In's Ohr mir raunt: »Nun schweige still!«</l>
+                              <l xml:id="tg1169.2.318.vn9w.0">Und meine Zunge zahmer stimmt. –</l>
+                              <l xml:id="tg1169.2.319.vn9w.0">Doch wird sie rot, (traut meinem Lied),</l>
+                              <l xml:id="tg1169.2.320.vn9w.0">Wenn sie sich so verraten sieht.<pb n="886" xml:id="tg1169.2.320.1.vn9w.0"/> 
+                                 
+                              </l>
+                           </lg>
+                        </div>
+                     </div>
+                  </body>
+            </text>
+         </TEI></teiCorpus>

@@ -1,0 +1,203 @@
+Codices Antiqvi 
+
+Π1 P. Colonensis 251, saec. ii med.: 1–11 
+
+Π2 P. Oxyrhynchus 2093, saec. ii–iii: 51–67, 266–76, 291–307 
+
+Π3 P. Oxyrhynchus 1615 (Wellesley College Library, MA), saec. iv: 694–705, 753–64 
+
+Π4 P. Berolensis 21208, saec. v–vi: 921–926/7, 950–7
+
+Codices Medii Aevi Constanter Citati 
+
+L Laurentianus 32.9, saec. x med. 
+
+Λ Lugdunensis Batav. Bibl. Publ. Graec. 60A, saec. x med. (desunt 1–354; cetera mutilata) 
+
+K Laurentianus 31.10, saec. xii ex.
+
+A Parisinus gr. 2712, saec. xiv in. 
+
+D Neapolitanus II. F. 9, saec. xiv in. 
+
+Xr Vindobonensis phil. gr. 161, ann. 1412 
+
+Xs Vindobonensis suppl. gr. 71, saec. xiv ex. (desunt 1381–1420) 
+
+Zr Marcianus gr. 616, c. ann. 1325 
+
+Interdvm citati 
+
+G Laurentianus conv. soppr. 152, ann.  1282 
+
+Q Parisinus suppl. gr. 109, saec. xvi 
+
+R Vaticanus gr. 2291, saec. xv 
+
+C Parisinus gr. 2735, saec. xiii ex. 
+
+F Laurentianus 28.25, saec. xiv in. 
+
+H Laurentianus 32.40, saec. xiii ex. 
+
+J Jenensis Bos. q. 7, saec. xv ex. 
+
+Ja Parisinus gr. 2598, saec. xv 
+
+Jb Mosquensis gr. 505, saec. xv 
+
+N Matritensis gr. 4677, saec. xiii ex. (desunt 1–33) 
+
+O Lugdunensis Batav. Voss. gr. 
+
+Q. 6, saec. xiii ex. (desunt 287–95) 
+
+P Heidelbergensis Palat. gr. 40, saec. xiv (desunt 67–72) 
+
+S Vaticanus Urbinas gr. 141, saec. xiv
+
+V Marcianus gr. 468, saec. xiv 
+
+Wa Ambrosianus E 103 sup., c. ann. 1275 
+
+Wb Vaticanus gr. 1332, saec. xiii 
+
+Zb Monacensis gr. 500, saec. xv–xvi 
+
+Zc Vaticanus gr. 1333, saec. xiv in. (1–226 aliena manu scripti) 
+
+Zu Pragensis XXV C 26, saec. xiv 
+
+Δ Laurentianus conv. soppr. 41, saec. xiv
+
+(desunt 1–559) 
+
+Ambrosianus L 39 sup., saec. xiv in. 
+
+Dresdensis Da. 22, saec. xv in. 
+
+Monacensis gr. 507, saec. xiv–xv 
+
+Mosquensis gr. 504, saec. xiv 
+
+Parisinus gr. 2820, saec. xv 
+
+Codicvm Familiae 
+
+ω consensus codicum LKADXrXsZr 
+
+l consensus codicum LΛK 
+
+a consensus codicum ADXrXsZr vel quot exstant 
+
+ạ codicum ADXrXsZr pars maior, exceptis qui disertim memorantur 
+
+r consensus codicum GQR 
+
+Fontes Alii 
+
+Ch Choeroboscus 
+
+EM Etymologicum Magnum 
+
+Eu Eustathius 
+
+Fa Favorinus 
+
+Gr Gregorius Corinthus 
+
+He Hesychius
+
+St Stobaeus 
+
+Su Etymologicum quod Suda vocatur 
+
+Sigla Cetera 
+
+Q1 lectio in Q a scriba scripta (sed Π1 significat papyrum primam: vide supra) 
+
+Qr lectio in Q a rubricatore scripta 
+
+Q2 lectio in Q ab alia manu scripta (sed Π2 significat papyrum secundam: vide supra)
+
+Qac, Qpc Q ante / post correctionem 
+
+Qx Q ante vel post correctionem (incertum utrum) 
+
+Qt Q in textu, altera lectione inter lineas vel in margine adscripta 
+
+Qs lectio in Q supra lineam scripta 
+
+Qrs lectio in Q supra lineam a rubricatore scripta 
+
+Qgl glossema in Q, vel lectio quasi glossema adscripta 
+
+glQRS glossema in QRS 
+
+Qγρ varia lectio in Q adscripta 
+
+Qrγρ varia lectio in Q a rubricatore adscripta 
+
+Qm Q in margine 
+
+Q? Q fortasse (vix dispicitur) 
+
+(Q) Q a lectione memorata pusillum discrepat 
+
+[Q] Q legi nequit vel deest 
+
+{Q} lectio in Q quae legi nequit ex indicio colligi potest 
+
+Σ scholiasta, scholia 
+
+ΣQ lectio quam disertim testatur scholiasta codicis Q 
+
+lmΣQ lemma scholiastae codicis Q 
+
+cΣQ lectio interpretando testatur scholiasta codicis Q 
+
+γρΣQ varia lectio adscripta a scholiasta codicis Q
+
+[ ] delendum 
+
+< > inserendum 
+
+† † nondum sanatum 
+
+add. addidit, addiderunt 
+
+Byz nescioquis Byzantinus 
+
+coni. coniecit, coniecerunt 
+
+del. delevit, deleverunt 
+
+fort. fortasse 
+
+gl. glossema
+
+interp. interpunxit, interpunxerunt 
+
+nol. noluit, noluerunt 
+
+om. omittit, omittunt 
+
+permut. permutavit 
+
+pos. posuit, posuerunt 
+
+prob. probavit, probaverunt 
+
+suppl. supplevit, suppleverunt, suppletum 
+
+trib. tribuit, tribuerunt
+
+v.l. varia lectio 
+
+* littera obscura
+
+
+
+
+
+

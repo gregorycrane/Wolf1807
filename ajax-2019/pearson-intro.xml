@@ -1,0 +1,609 @@
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title type="work" n="Aj">Ajax</title>
+                <title type="sub">Machine readable text</title>
+                <author n="Soph.">Sophocles</author>
+                <editor role="editor" n="Lobeck">Christian Lobeck</editor>
+                <sponsor>Perseus Project, Tufts University</sponsor>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <persName>Gregory Crane</persName>
+                    <resp>Editor-in-Chief, Perseus Digital Library</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Bruce Robertson</persName>
+                    <resp>Technical Advisor</resp>
+                </respStmt>
+                <respStmt>
+                    <resp>Prepared by</resp>
+                    <name>Gregory Crane</name>
+                </respStmt>
+                <funder>GRC as volunteer.</funder>
+            </titleStmt>
+            <extent>About 90Kb</extent>
+            <publicationStmt>
+                <publisher>Trustees of Tufts University</publisher>
+                <pubPlace>Medford, MA</pubPlace>
+                <authority>Perseus Project</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Sophocles</author>
+                        <title xml:lang="lat">Sophoclis Fabulae: recognovit brevique adnotatione critica instruxit.</title>
+                        <editor role="editor">A. C. Pearson</editor>
+                        <imprint>
+                            <pubPlace>Oxford</pubPlace>
+                            <publisher>Clarendon Press</publisher>
+                            <date>1924</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="line" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:sp/tei:l[@n='$1'])">
+                    <p>This pointer pattern extracts line</p>
+                </cRefPattern>
+                
+            </refsDecl>
+            
+            <!-- <refsDecl n="CTS">
+                
+                <cRefPattern n="card" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                <p>This pointer pattern extracts cards</p>
+                </cRefPattern>
+                
+                </refsDecl>-->
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="grc">Greek</language>
+                <language ident="lat">Latin</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            
+            <change when="2017-12-30" who="GRC">Created the initial rough version.</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="lat">
+        <body>
+        <pb n="iii"/>
+
+        <head>PRAEFATIO</head>
+
+<div type="edition" subtype="textpart" n="1">
+    <p>Anni sunt fere centum ex quo Petrus Elmsley
+Oedipum Coloneum edendo codicem Laurentianum
+32. 9, quem ipse contulerat, primus ad textum corri-
+gendum adhibuit. Nam quamvis in aliquot locis
+lectiones editionis Iuntinae alterius huc referri videan-
+tur, Turnebus, quem secuti sunt Stephanus et Canter,
+fundamentum recensionis Triclinianum T fecit, Brunck
+ad Aldinam et Parisinum A revertit. Non tamen
+Elmsley ita Laurentianum dilexit ut ceterorum testi-
+monium neglegeret. Sed Dindorf, qui primum in
+editione Oxoniae emissa anno MDCCCXXXII vestigia
+pressit Elmsleii, postea, cum a Duebnero collationem
+codicis L accuratissimam accepisset, ad huius codicis
+patrocinium ita declinavit ut ceteros apographa tan-
+tum appellaret, et, sicubi Laurentianus erravisset,
+verum tradidissent recentiores, Byzantinorum in con-
+jectando felicitati praecipuam laudem impertiret.
+Audi iam Cobetum ex cathedra loquentem <note>Oratio de arte interpretandi, Lugd. Bat. 1847, p. 103.</note>: <quote>satis
+mihi constat Aeschyli et Sophoclis fabulas, quas
+habemus, in unico codice, qui nunc in Laurentiana
+Bibliotheca servatur, ad nos pervenisse: ex quo vetu-
+stissimo libro, decimo fere post Christum saeculo
+pulcherrime in membranis scripto, profluxit quidquid
+
+
+	
+<pb n="iv"/>
+
+codicum MSS. ubique invenitur, unde magno labore
+et diligentia acervos variarum lectionum cumularunt
+utriusque Poetae editores.</quote> Quo motus consilio Din-
+dorf editiones Oxoniensem tertiam et Lipsianam
+Poetarum Scenicorum quintam ita ordinavit ut Lauren-
+tianum numquam nisi necessitate coactus desereret, et,
+quamvis hoc non omnibus persuaserit, tamen cum per
+multos annos, si quis Graecis litteris studebat, Din-
+dorfianae editiones omnium in manibus tererentur,
+facile evenit ut vulgo homines crederent Sophoclis
+textum sine dubio ex uno codice pendere.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Nec tamen deerant qui Dindorfium ultra quam fas
+erat progressum esse existimarent; nam R. Schneider,
+J. H. Lipsius, A. Seyffert L unicum fontem ceterorum
+habendum esse diserte negabant. Sed ita modeste et
+summissa, ut ita dicam, voce loquebantur ut plerosque
+fallerent. Necnon ex his Lipsius et Seyffert confite-
+bantur, ubi L et A inter se discreparent nec alterius
+lectio manifeste esset potior habenda, Parisino Lauren-
+tianum semper esse praeponendum. Nec alia ratione
+egit Segofredus Mekler qui anno 1885 editionem
+Dindorfii denuo vulgavit. Eo maiorem laudem meruit
+L. Campbell, qui et ipse ex codicibus Italicis multa
+excerpserat vel excerpenda curaverat, quod ad plero-
+rumque sententiam accedere noluit: satis enim per-
+spexit non nisi vel omnibus vel plurimis Sophoclis
+codicibus publici iuris factis de unius cuiusque pretio
+decerni posse. Atqui in fabulis edendis se Lauren-
+tiano principem locum concedere monstravit.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Nunc ad Jebbium transeamus, qui ct labore summo
+et ingenio maximo Sophoclis interpretationi diu incu-
+buit. Hic quoque, quamquam fateri coactus est haud
+
+
+<pb n="v"/>
+
+pauca esse quae aliunde quam per L in codices
+recentiores irrepserint, ceteris tamen omnibus longe
+praestare L ob tria maxime contendit; solum enim
+hunc interdum veram lectionem servasse, ut in Ai. 45,
+vel vestigium aliquod veri, ut in Ai. 232, vel corrupte-
+lam propiorem a vero quam aliorum maculas, ut in
+El. 192. Mirum est autem eum non animadvertisse
+leviora haec esse quam quae L prae ceteris eximium
+et praestantissimum locum habere arguerent. Quam-
+quam enim L ceteris antiquior et accurate scriptus
+genuinae lectionis testis plerumque extat, multos<note>Haud scio an plures fuerint, omissis quae socordia utriusque scribae deliquerit.</note>
+tamen restare locos ubi A verum habet et L cor-
+ruptelam nemo infitiari poterit. Haec vero omnia
+libidini Byzantinorum deberi, qui cum in coniecturis
+saepius erraverint interdum fortuna secunda usi sint,
+quis hodie Dindorfio concedet? Nam, ut ceteros
+omittam, qui infra recensebuntur, locos duos tantum
+eligere placet quibus Parisini auctoritatem vindicare
+possim. In Ant. 235 <g>δεδραγμένος</g> habent A, recentio-
+rum aliquot, Suidas, legisse Z (schol. L) videtur, sed
+<g>πεπραγμένος</g> L alii, <g>πεπραγμένος</g> alii. Hic quis non
+videt <g>πεπραγμένος</g> a <g>δεδραμένος</g> ortum esse praesertim
+cum <g>δρᾶν</g> verbo <g>πράσσειν</g> utique explicari meminerit ?
+Dein in EI. 947 glossema ποεῖν, ut alibi demonstravi,<note>C. Q. xiii. 120.</note>
+genuinum <g>τελεῖν</g> de sede sua detrusit. Haec tamen
+obiter monui, ut Jebbii rationem non satis firmo niti
+fundamento monstrarem. Hic enim, ut ceteri, quotiens
+L et A diversas habuerunt lectiones quarum utravis
+eligi potuerit a Laurentiano potius standum esse
+iudicavit nisi res ipsa aliud postulare videretur. Sed
+
+
+
+
+
+
+<pb n="vi"/>
+
+nisi duorum codicum alterum interpolatum esse aliunde
+cognovimus, nihil causae est cur antiquiorem semper
+praeferamus.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Melius me iudice fecerunt Bruhn et Radermacher, qui
+editionem Schneidewinianam cum nuper recenserent,
+utriusque fere semper discrepantias notaverunt, dete-
+riorum qui vocantur notitiam hic illic ut necessarium
+visum est rettulerunt. Denique Wilamowitz a com-
+muni cum nostrorum codicum tum exemplarium quibus
+nititur Suidae et Eustathii testimonium consensu uni-
+tatem stirpis auguratur : tum scripturae varietates quas
+supra notavimus non secundum librorum auctorita-
+tem metiendas censuit, sed magis propter ipsam ver-
+borum concinnitatem qua in re neque Laurentianus
+solus neque idem cum Parisino coniunctus normam
+quam cupimus praebebit: quod attinet ad Byzanti-
+norum errores discutiendos qui inde a saeculo nono
+se in textum insinuaverint nullum testium discrimen
+habendum. Huc usque rem acu tetigit vir doctissimus,
+sed cum Bruhnio obsecutus codicis Γ necessarium esse
+subsidium autumet, necnon codicis Vaticani 40 propter
+aetatem et bonas lectiones, illud quidem in sequentibus
+nos refutaturos speramus, hoc duplici errore laborat,
+primum quod Vaticanus multo recentior est quam
+olim credebatur, deinde quod lectiones <g>ταρβών</g> et
+<g>ἀκούειν</g> (O.Τ. 1011, 1170), quas exempli causa profert,
+apud hunc codicem non extant.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>At hodie tota quaestio qua ambigitur codicum in-
+tegritas aliter se habet quam cum Cobet et Dindorf
+rem absolutam esse dictitabant. Nam papyrorum
+messe melius edocti sumus qualis fuerit textus Graeco-
+rum scriptorum in Alexandrinorum Romanorumque
+
+<pb n="vii"/>
+
+temporibus. Qua materie usi nuperrime F. G. Ken-
+yon, qui eandem rem tractaverat in <title>Transactions of the
+British Academy</title> 1904, et B. P. Grenfell<note>J. H. S. xxxix (1919), pp. 1-15, 16-36.</note> certissime de-
+monstraverunt rationes quas per saeculum XIX p. Chr.
+in scriptoribus classicis edendis viri docti plerum-
+que adhibuissent a veritate procul abhorrere: non
+enim uni cuidam librorum familiae prae ceteris
+confidendum esse, nedum singulis codicibus velut
+Isocratis Urbinati et Demosthenis Parisino. Nec
+aliter de Sophoclis Laurentiano iudicandum cuius
+merita maioris quam aequum fuit aestimabantur, vitia
+quibus laborat, velut θανάτων κατασφαγάς pro Θανόντων κατασκαφάς in Ant. 920, plerumque silebantur.
+Itaque rem propius aggrediamur. Papyracea Sophoclis
+fragmenta, quod ad fabulas superstites attinet, numero
+sex tantum ipsa mutila et exigua sunt. Sed vel intra
+angustos fines sunt quae non sine commodo animad-
+vertas. In O.T. 827 ubi LA ἐξέφυσε κἀξέθρεψε
+habent, P. Oxy. 1369 cum paucis recentioruni ἐξέθρεψε κἀξέφυσε 
+legit. In O.T. 1306 idem papyrus facit
+cum As et recentioribus qui τοίαν (non ποίαν) praebent;
+in O.T. 1335, ut videtur, cum A et multis recentiorum
+qui ἄχος habent contra L alios apud quos ἄχθος in-
+ventum est. In EI. 995 P. Oxy. 693 cum Monacensi
+solo, quod sciam, congruit ποτέ βλέψασα pro ποτ'
+ἐμβλέψασα legendo. Quae quamvis non magni
+momenti esse videantur minime sunt spernenda. Cum
+enim idem apud alios auctores eveniat, fieri non potest
+quin recentiorum auctoritatem non a casu nec ab
+hariolationibus Byzantinorum proficisci credamus sed
+continuo a grammaticis Alexandrinis usque ad nostram
+
+
+<pb n="viii"/>
+
+aetatem fuisse traditam. Sin vero in tantillo fragmen-
+torum numero recentiorum fidem firmari constat,
+nonne in ducentis quadraginta locis ubi recentiores
+secuti editores lectionem codicum LA deseruerunt, et
+hos antiquae doctrinae vestigia servasse credendum
+est? Itaque ἰκλεκτικοί, ut ita dicam, id quod Grenfell
+iussit, fieri debemus, et si vera a falsis secernere
+volumus libero iudicio unum quemque testium adhi-
+bere. Quare, ut unum instar omnium locum exhibeam,
+in Ο. T. 86 quamquam φάτιν Augustanum alterum
+solum habet vindicem, non dubitavi loco movere glos-
+sema φήμην, quod in ceterorum textum nescio quo
+modo se insinuavit.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Quamquam veri simile est Sophoclis textum qualis
+Alexandreae innotuit haud multum a nostro distare,
+mirum foret si in diuturnitate temporis sine labe
+omnino evasisset. Pyzantini quae vel per ignorantiam
+vel per neglegentiam peccaverint maximam partem
+virorum doctorum auxilio iam patefactam et sanatam
+esse speramus. Sunt tamen haud pauca quae adhuc
+latent et ut opinor latebunt nisi novorum papyrorum
+ope in posterum frui licuerit. Varias lectiones vel
+supra lineam vel in margine scriptas maxime damno
+obnoxias fuisse consentaneum est. Hic vero potuit
+fieri ut quod alter in textum adsciverat alter ut
+emblema eicere vellet. Nuper in Ai. 699 veram
+lectionem a papyraceo fragmento cognovimus, qualem
+iam apud Suidam delituisse videmus cum in fonte
+scholiastae Laurentiani unde Suidas hausit aut casu
+aut consilio omissa sit. Constat enim Suidam codice
+Laurentiano simillimo usum esse sed interdum bonas et
+singulares lectiones habente velut in O.T. 88 et El. 686.
+<pb n="ix"/></p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Septem Sophoclis tragoediarum textum quem hodie
+legimus profectum esse ab editione a Sallustio quodam
+quarto vel quinto p. C. sacculo cum scholiis emissa
+coniectura probabili colligitur, et ab hac libros scriptos
+quos novimus pendere omnes. Priorum copias ille ad
+usum legentium disposuit quas Didymi aliorumque
+labor congesserat. Quae cum ita sint, magni aesti-
+manda sunt quaecumque ultra fines quos sibi proposuit
+Sallustius a grammaticis accepimus. Inter illos prae-
+cipuum tenet locum Eustathius qui Sophoclea quaedam
+non a scholiorum corpore sed a fontibus communibus
+grammaticorum et Atticistarum lexicis hausit.<note>Fusius de hac re dixi in Fragments of Sophocles, pp. lxvi sqq.</note> Sic
+cum Ant. 1167 in codicibus nostris desit, Σ vero
+decurtatus imaginem quandam versus omissi retinere
+videatur, Athenaeus et Eustathius integrum servave-
+runt, ille versu ipso citato, hic τὰ ἀκριβῆ ἀντίγραφα
+tamquam fontem et caput memoriae professus. Unde
+Jebb perperam colligit etiam in Eustathii aetate codices
+extitisse qui versum omissum retinerent. Quod si
+rem propius spectes et Eustathii genus scribendi,
+apparebit haec ἀντίγραφα neque ab Eustathio neque
+ab ullo Byzantinorum unquam esse cognita, sed illorum
+potius manibus trita qui plus quam mille antea annis
+Alexandreae studio antiquorum poetarum incubuerant,
+ingravescente barbarie diu ante Eustathium periisse.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Ecloga septem tragoediarum, quam a Sallustio con-
+fectam vidimus, et quam vel ante Sallustium in scho-
+larum umbraculis innotuisse credibile est, ceterarum
+oblivioni favit. Immo trias quae vocatur Byzantina,
+scilicet Aiacis Electrae Oedipi Regis delectus, quae
+fabulae primum in eclogae serie locum occupaverunt,
+
+
+
+<pb n="x"/>
+
+tempore progrediente eo magis discentium studiis
+satisfaciebat, quo indies post clausas a Iustiniano
+philosophorum scholas litterarum Graecarum scientia
+deficiebat. Interim suspicari licet exemplar aliquod
+Sallustianae eclogae a papyraceo volumine in codicem
+translatum et in membrana litteris uncialibus scriptum
+in bibliotheca alicubi latuisse donec impulsoribus
+Photio et Aretha nono demum saeculo antiquos scri-
+ptores recuperandi amor doctissimum quemque invasit.
+Tum archetypi illius exempla litteris minusculis scripta
+prodibant, quorum ab aliquo millesimo fere p. C. anno
+descriptus esse videtur Laurentianus. Sunt qui nullo
+interveniente eum ab archetypo derivatum esse cen-
+seant ; cum tamen multis careat quae vel in A vel in
+recentioribus inveniuntur nec coniectura illata esse
+videntur horum sententiae assentiri nolo. Laurentia-
+num, codicum qui supersunt longe vetustissimum et
+plerumque accurate scriptum, pluribus verbis persecuti
+sunt E. M. Thompson et R. C. Jebb in praefatione
+exemplaris photographici a Societate Hellenica editi
+anno 1885, et T. W. Allen in <title>Journ. Phil.</title> xxii. 157,
+adeo ut satis habuerim eorum solum hic mentionem
+facere quae mihi maxime obvenerunt exemplar istud
+per quattuor annos continuo in manibus versanti.
+Praecipue igitur de correctionibus dicendum quibus
+prima codicis lectio ad vulgatam emendata est: vulga-
+tam autem dicimus quam codicis A familia tuetur.
+Hic vera plerumque est correcta lectio; rarius enim,
+velut in Ai. 1120, El. 1365, O.T. 635, prior est potior.
+Itaque falluntur qui codices L b Γ alios ideo maximi
+aestimandos putant quod per eos primae manus
+lectiones apud L detegi possint. Saepius autem difficile
+
+<pb n="xi"/>
+
+
+est dictu utrum eodem tempore quo scriptus est cor-
+rectus sit codex an post longius intervallum a correctore
+novo: sed ubi sine dubio manus recentior correxit,
+siglo L2 notavi. Dein, ut quae prisca fuerit codicis
+condicio manifesta sit, animadvertas velim correctiones
+quas nominavi rarissime nisi in triadis fabulis fieri:
+nam, ut Antigonam omittamus, quae medium locum
+et hic et alibi obtinet, Trachiniae Philoctetes Oedipus
+Coloneus fere tredecim exempla praebent, triadis fabu-
+lae centum septuaginta. Quare certissimum duximus
+triadem passim correctam esse secundum exemplar
+Parisino A simillimum, quod fortasse ceteras fabulas
+non continuit. Inter omnes Oedipum priorem plurimos
+lectores habuisse constat, cum manus recentissimae
+quae in ceteris vix unquam apparent meras nugas
+chartarum marginibus passim asperserint. Est et
+aliud genus correctionum, vel si magis placet variarum
+lectionum, quae a prima manu superscriptae sunt
+utrimque punctis plerumque notatae, velut in Phil.
+296, 927. Has vetustissimas esse credo et ab ipso
+archetypo derivatas. Cum enim eadem consuetudo
+punctis notandi in papyris inventa sit, fieri potest ut
+aliquando duplex lectio ad Alexandrinos ipsos referri
+debeat. Video nunc Blassium <note>In editione Aeschyli Choephororum (p. 22).</note> eandem rem in Aeschyli
+Mediceo invenisse, et has lectiones praecipuum anti-
+quitatis indicium habendas censuisse. Denique sunt
+aliae correctiones a διορθωτοῦ manu profectae ante-
+cedente siglo γρ, quorum exemplum in Ο. T. 134
+reperias. Haec nescio quis mirum in modum hario-
+lando textum inquinare frustra temptavit.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Codicum Sophocleorum tanta est multitudo ut
+
+
+
+<pb n="xii"/>
+
+paucorum solum notitiam habeamus neque veri simile
+sit multo plurium nos unquam habituros ex quibus
+aliquid lucri expectare liceat. Omnes quoad potuit
+descripsit Campbell,<note>Vol. i, pp. xvii sqq.</note> plurimos sed neglegenter, ut
+solebat, Blaydes. Hodie, vel si possimus, nihil iuvet
+totam seriem enumerare eorum qui saec. XV vel
+serius e codicibus vulgatis Byzantinam triadem vel
+unam et alteram harum fabularum reddebant. Scilicet
+in bibliotheca Vaticana plus quam viginti exempla ser-
+vata sunt quorum textum nemo adhuc examinavit. Sed
+quod ad meliores attinet consentaneum est nos fere
+omnia quae usui esse possint iam diu cognita habere.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Libri in quattuor saltem classes distinguenda esse
+videntur: (1) Laurentianum proxime sequuntur F et
+Ricc b ; (2) vulgatae recensionis signifer A plerumque
+secum conspirantes habet Ven c (unde descriptas typo-
+thetae scidas mandavit Aldus) Ricc a Harl Trin alios;
+(3) medium locum occupare videntur L b Γ Pal Ven
+Μ Δ qui, quamquam haud raro inter se discrepant,
+ideo sunt insignes quod cum Laurentiam' prima manu
+interdum consentiunt. Horum sunt qui codici Tpraeci-
+puum honorem impertiunt et laudibus cumulant varia-
+tiones quasdam (velut praesertim in O.T. 464 et 525).
+Sed codex tot erroribus et foedis interpolationibus
+scatet ut ne minima quidem fide dignus sit: conferas
+licet O.T. 1362, Phil. 422 sqq., 459 et sescentiens;
+(4) cum vulgatis plerumque congruunt sed editoris
+curas experti sunt qui vocantur Tricliniani. Nominandi
+B T Vat Farn Dresd a et b Lc Ven b. Lectiones
+codicis B ab antiquiore grammatico velut Thoma pro-
+fectas credidit Elmsley, sed cum easdem arripuerit
+
+
+<pb n="xiii"/></p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Triclinius res est non magni momenti. Triclinius,
+quem olim propter novandi libidinem rodebant omnes,
+nuper aequiores habuit iudices. Etsi enim, quod ipse
+fatetur, lyricorum responsiones coniectando sanare voluit
+itaque saepius textum inquinavit, non ideo indignus cui
+fidem habeamus quotiens se antiqui cuiusdam libri
+auctoritate niti praedicat. Triclinio sane bonas lectiones
+non ita paucas debemus (cf. Phil. 205, O.C. 229, 775)
+quas minime reor eum sola coniectura repperisse. Sed
+Triclinii auctoritas quam late patuerit ex Vat a mani-
+festum habemus. Hic enim liber, qui olim duodecimi
+saec. credebatur, hodie in Vaticani catalogo saec. XIII
+vel Xiv assignatur. Mirum tamen apud hunc Triclinii
+Ἀχιλλέως locum obtinere quod in Ai. 936 se ipsum in-
+tulisse dicit. Tricliniana plerumque secundum Paris.
+2711 citavimus; ceterorum enim collationes desunt.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Subsidia haec habebam. Codicis L exemplar photo-
+graphicum, cuius usum benevolentiae Gilberti Murray
+debeo, ita adhibui ut Duebneri et Jebbii curas ipse
+quoad liceret confirmarem. Accuratiora hic illic addere
+potui velut in Ai. 1320, Phil. 1433, sed quae maximi
+sunt ponderis iam dudum cognita habemus. Parisini
+A lectiones laboribus Brunckii Elmsleii aliorum vul-
+gatas satis bene novimus: sed trecentis fere locis ubi
+de lectione codicis dubitari potuit postulanti mihi ut
+codicem ipsum adiret amicissime subvenit Walterus
+Heathcote Lock, collegii Corporis Christi in Universi-
+tate Oxoniensi scholaris, qui anno 1919 Parisiis ali-
+quantum temporis commoratus est. Unde fructum
+non ita parvum accepi velut in Ant. 235. ubi δεδγραγμένος
+in A extare supra monui. Praeterea imagines
+photographicas faciendas curavi Ambrosiani (M) et
+
+<pb n="xiv"/></p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Vaticani (Vat a), quorum hic propter aetatem falso
+adscriptam collatione dignus esse videretur, ab illo qui
+in Ο. T. 685, 1031 lectiones memorabiles praeberet
+haud absurdum erat etiam plura expectare. Sed
+uterque spem fefellit ; neque codicum usum qui
+deteriores vocantur meliora nos docturum sperare licet.
+Denique Tricliniani (T) textus imaginem vel ob hoc
+ipsum mihi patere volui ut quae Blaydes alii rettulis-
+sent satis accurate explorarem. Alia mihi praesto erant
+quae L. Campbell congesserat, vir vel ob hoc optime
+de Sophocle meritus quod codicum Italianorum
+lectiones non ita paucas patefecerit. Hic igitur Mar-
+cianorum 467 et 468 (Ven c et Ven) collationes accurate
+factas a C. Castellani impetraverat; Ambrosianorum
+G 56 E 103 N 166 in Oedipo Rege selectas quasdam
+lectiones describi curaverat et in Aiace Ambrosiano-
+rum G 56 et L 39, Vaticani 40 et Urbinatis 140.
+Codicis Laurentiani 31. 10 collationem absolutissi-
+mam publici iuris fecit A. Metlikovitz in Diss. phil.
+Vindob. II 4. 1890. In Electrae editione<note>Ed. 3 Bonnae 1882.</note> quam post
+Jahnium A. Michaelis suscepit, collationes ediderunt
+H. Hinck librorum L b et Γ, R. Prinz Parisinorum A
+et E, Ed. Hiller Vindobonensis 281. Trachiniarum
+editionem quae Mosquae a. 1879 prodiit variis lectio-
+nibus decem librorum instruxit V. Subkoff; sed caven-
+dum est ne omnia eum accurate contulisse credas.
+Ipse denique Harleianos et Cantabrigiensem (Coli.
+Trin. R 3. 31) sine ullo fere fructu excussi. Ceterorum
+lectiones ab editionibus Brunckii Elmsleii Dindorfii
+(a. 1836) Hermanni Blaydesii mutuatus sum. Codicum
+varietates in apparatu ita disposui ut Laurentiani fere
+
+
+
+<pb n="xv"/>
+
+omnes notarem Parisini plerosque (omissis vulgaribus et
+manifestis vitiis quibus A neglegenter quippe scriptus
+scatet et L interdum inquinatur), ita tamen ut discre-
+pantiam minutiarum velut accentuum et spirituum,
+elisionum, iotae sive subscriptae sive adscriptae sive
+omissae, ν ἐφελκυστικοῦ omissionis vel additionis,
+orthographiae (velut inter νῦν et νυν, ἀεί et αἰεί, ἐς et
+εἰς, ξύν et σύν, ποεῖν et ποιεῖν. ηὑρ- et εὑρ-, et similia)
+omnino neglegerem nisi forte aut ad veram scripturam
+indagandam aut ad indolem ipsam codicum patefa-
+ciendam utile aliquid conferrent. Ceteros ubicumque
+duo vel plures consentiunt siglo rec indicavi: nomina-
+tim citare satis habui quotiens aut veritatis vestigium
+soli praebent aut lectiones memoratu dignas ample-
+ctuntur. Scholia quoad edita sunt summa cum cura
+perlustravi.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Quotiens librorum textus suspicione laborat obelo
+rarius notavi, pluriens in apparatu quod opus fuerit
+insignivi. In eligendis coniecturis virorum doctorum
+quae aut medelam ferre posse aut alioqui mentione
+digna esse videantur saepe lubrica fit quaestio. Hoc
+quoad potui administravi. Sed cave ne existimes me
+omnia quae nominavi ceteris praeponere vel aliquatenus
+probare. Nam aliorum iudicium qui integritatem textus
+impugnaverunt interdum utile fit adhibere quamvis
+ipse dissentias. Pauca ego novavi praesertim cum
+labe manifesta poetae verba corrupta sint. Malui
+tamen vel eiusmodi rem in adnotatione proferre, nisi
+forte, cum codicum consensus omnino intellegi nequit,
+legentibus opitulari utilius esse existimabam.
+
+<note>Si quid obscurum videtur consulenda sunt quae scripsi in Class.
+Quart., xi. 57, xiii. 118, xvi. 124, xxii. 179, xxiii. 87, 164, xxiv. 154,
+Class. Rev., xxxiv. 56, xxxviii. 10, 175. xxxix. 3, Proc Camb. Phil. Soc.,
+1922, 14-28. Alia quoque occasionem nacto expedire fortasse licebit.</note>
+<pb n="xvii"/></p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>In orthographia haud pauca sunt quae ambigi
+possunt, velut utrum δύνᾳ an δύνῃ) scribas, διφυᾶ an
+διφυῆ, εὐνάτρια an εὐνήτρια, ῥιπτεῖν an ῥίπτει, κέλευμα
+an κέλευσμα, -κλαυτος an -κλαυστος, ἀνοιμωκτί an
+ἀνοιμωκτεί, ἑταιρία an ἑταιρεία. Nec sufficit Atticas
+formas exquirere ut in Sophocle deprehendas ; nam id
+ipsum ambigitur quatenus Attica adhibuerit. Hucus-
+que, ut exemplo utar, αὖθις non αὖτις apud tragoedos
+comprobaverunt editores, quamvis in codicibus haud
+raro αυτις repertum sit. Hodie vero non modo in
+Ichneutarum volumine (227, 229) αυτις deprendimus,
+sed etiam αὖτις ter apud Menandrum, αὖθις semel.
+Utrum igitur αὖθις a Sophocle exulare iubeamus an
+utrumque verbum libero arbitrio eum in suum usum
+accommodavisse credamus dispicere vix queo. Nec
+aliter se habeat res si ἱερός et ἱρός certis limitibus
+diiudicare velis.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Venio nunc ad canticorum descriptiones et singu-
+lorum membrorum divisiones quae cola vocantur. Res
+est admodum difficilis et in qua virorum doctorum
+sententiae saepius discrepant rarius consentiunt. Licet
+autem editoris non sit dissidentium in hac re lites com-
+ponere, legentium tamen decet eum commodo inservire
+et rhythmorum ambages intellectu faciliores reddere.
+Itaque εἰσθέσει, id quod in Aristophane Heliodorum
+fecisse accepimus, secundum χρόνων numeros, quoad
+fieri licuit, dimetros plerumque a trimetris secernendos
+curavi (Glyconeum ex. gr. a Phalaeceo), hexametros
+autem et anapaestos qui κατὰ μέτρον numerantur a
+trochaeis vel iambis. Cave tamen ne omnia ἰσομέτρως
+
+
+<pb n="xviii"/>
+
+divisa esse credas ut εἴσθεσιν eandem idem membrum
+semper habeat. Fieri enim potest ut interdum acephali
+et catalectici pleno vel acatalecto versui aequiparentur,
+alias alter ab altero secernendus sit.</p></div>
+
+<div type="edition" subtype="textpart" n="ZZZ"><p>Restat ut amicis gratias agam qui sciscitanti mihi
+totiens doctrinam suam impertiverunt. Quorum in
+primis nominandus est J. P. Postgate, qui plagulas
+summa cum cura relegit, multos errores sustulit, con-
+iecturarum et interpretationum suarum humanissime
+copiam fecit; necnon G. C. Richards, quocum nodos,
+ut ita dicam, Sophoclei textus non sine multo fructu
+saepius exploravi.
+</p></div>
+    <div type="edition" subtype="textpart" n="ZZZ"><p>
+    <persName>
+        A. C. P.</persName>
+
+<lb/><placeName>
+    Scribebam Cantabrigiae</placeName>
+        <lb/><date>Mense Octobri mcmxxiii</date></p>
+
+</div></body>
+    </text>
+</TEI>
+
+

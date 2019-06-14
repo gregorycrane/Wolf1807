@@ -47,6 +47,16 @@ A reader working with a Classical Chinese smart text translated into Mandarin sh
 
 A number of materials are available as a starting point for work.
 
-* [The 1924 Pearson edition with variants](https://github.com/gregorycrane/Wolf1807/blob/master/ajax-2019/tlg0011.tlg003.opp-grc1.xml):
+## [The 1924 Pearson edition of the Ajax with variants](https://github.com/gregorycrane/Wolf1807/blob/master/ajax-2019/tlg0011.tlg003.opp-grc1.xml):
+
+This should probably be the starting point. 
+
+* It contains the app crit. Lemmas into the actual text have been added (i.e., we have a chunk of text that we can match to link the textual note to what it refers to. Federico Boschetti documented how much harder this turned out to be thanwe might expect).
+
+* The witnesses have been matched against the variants. At present, there are 39 witnesses (out of 155) cited in the textual notes that could not be matched against the sigla.
+
+* The introduction to the Pearson edition of Sophocles is available as [a separate XML file](https://github.com/gregorycrane/Wolf1807/blob/master/ajax-2019/pearson-intro.xml).
+
+* [The 1866 edtion of Lobeck's Ajax](https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0011/tlg003/tlg0011.tlg003.1st1K-grc1.xml)
 
 * [The 1994 Lloyd-Jones Greek text (with a selection of variants) from the Loeb](https://github.com/gregorycrane/Wolf1807/blob/master/ajax-2019/ajax-lj.xml)

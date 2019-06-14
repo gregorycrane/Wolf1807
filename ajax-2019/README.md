@@ -1,4 +1,4 @@
-# Working materials for a Smart Ajax
+# Towards a Smart Appcrit: Sophocles' Ajax
 
 This folder contains a number of files for a "smart text" of Sophocles Ajax, to be developed in conjunction with a "Smart Homer." Our particular focus is on a "smart apparatus" -- developing an apparatus criticus (a list of variant readings) that distinguishes between different classes of variation. 
 
@@ -42,3 +42,11 @@ A reader working with a Classical Chinese smart text translated into Mandarin sh
  but also because a modern language translation aligned to a source text that is, in turn, aligned to a network of rich linguistic and cultural annotation can spawn a range of additional translations. 
 
 * New systems to analyze texts at scale and to support new forms of close, philological reading.
+
+# Materials available in June 2019
+
+A number of materials are available as a starting point for work.
+
+* [The 1924 Pearson edition with variants](https://github.com/gregorycrane/Wolf1807/blob/master/ajax-2019/tlg0011.tlg003.opp-grc1.xml):
+
+* [The 1994 Lloyd-Jones Greek text (with a selection of variants) from the Loeb](https://github.com/gregorycrane/Wolf1807/blob/master/ajax-2019/ajax-lj.xml)

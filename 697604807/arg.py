@@ -12,7 +12,7 @@ position = 1
 lastthilo = 3
 lasttischendorf = 190
 lastwright = 146
-def dofile (fn):
+def dofile (fn,cpage):
   global lastthilo
   global lasttischendorf
   global lastwright
@@ -100,9 +100,29 @@ def dofile (fn):
  # assume that patterns of the form [0-9]+,[ ]+[0-9]+ point to "PAGE,LINE" and should be aggregated.
        l = re.sub("([0-9]+),\s+([0-9]+)","\g<1>,\g<2>",l)
 # assume for now that any floating number, number-number or number,number starts a new note
-       l = re.sub("([ >])([0-9][0-9,\-]*) ","\g<1></note> <note n='float\g<2>'>",l)
+       l = re.sub("([ >])([0-9][0-9,\-]*) ","\g<1></note> <note n='\g<2>'>",l)
        l = re.sub("\\b([ABCDEPQRS]+)\\b","<ref>\g<1></ref>",l)
-    print(l)
+    else:
+      l = re.sub("(^| ),(.+)᾽( |$)","\g<1><q>\g<2></q>\g<3>",l)
+      l = re.sub("(^| |>)[',]","\g<1><q>",l)
+      l = re.sub("[῾']\. ",".' ",l)
+      l = re.sub("\.[ ]+῾",".' ",l)
+      l = re.sub("([;\.,·])['’῾᾽]( |$)","\g<1></q>\g<2>",l)
+      l = re.sub("(<lb[^>]+>)([0-9]+)\-([0-9]+)[ ]+",'\g<1></p></div><div type="textpart" n="\g<2>"><p><milestone unit="bonnet1883section" n="\g<3>"/>',l)
+      m = re.search("(<lb[^>]+>| )([0-9]+)[ ]+",l)
+      if(m):
+       cnum = int(m.group(2))
+       if( cnum > 38 and cnum < 62):
+        newnum = cnum + 3
+        l = re.sub("(<lb[^>]+>| )([0-9]+)[ ]+",'\g<1></p></div><div type="textpart" n="' + str(newnum) + '"><p><milestone unit="Bonnet-1883" n="\g<2>"/>',l)
+       else:
+        l = re.sub("(<lb[^>]+>| )([0-9]+)[ ]+",'\g<1></p></div><div type="textpart" n="\g<2>"><p>',l)
+    l = re.sub("</p>[ ]*<p>","",l)
+    if( innotes is 0):
+      print(l)
+    else:
+      l = re.sub("[ ]*<note","\n<note",l)
+      print(l,end="")
   if( innotes is 0 ):
         sys.stderr.write("nonotes " + fname + ' '  + l + "\n")
    
@@ -113,6 +133,7 @@ f = open("basehead.txt","r")
 for l in f:
   print(l,end="")
 
+pagenum = 1
 while (arguments >= position):
     fname = sys.argv[position]
     flabel = re.sub("\.txt","",fname)
@@ -123,10 +144,11 @@ while (arguments >= position):
 
      if( curpage > 35 and curpage < 131):
       #print ("parameter %i: %s" % (position, fname))
-      print("<pb n=\"",flabel,"\"/>",sep="")
-      dofile(fname)
+      print("<pb n=\"",pagenum,"-",flabel,"\"/>",sep="")
+      dofile(fname,pagenum)
+      pagenum = pagenum + 1
     position = position + 1
 
 
 print(" ")
-print("</p></body></text></TEI>")
+print("</p></div></body></text></TEI>")

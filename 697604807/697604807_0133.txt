@@ -10,7 +10,7 @@ rum  spatio  expediebatur  nunc  in  tribus  mensibus  est  impletum.
 2  N.  exeuntes  autem  de  naui  ibgressi  sunt  primam  Indiae  ciuitatem,  
 et  audiebant  sonos  musicos  et  urbem  totam  laetitia  magna  plaudere.  
 10  interrogantesque  unum  de  populo  quid  hoc  esset  dictum  est  eis:  
-692  rex  inquit  ,noster  unicam  filiam  hodie  copulat  matrimonio.  ideo  
+692 F.  rex  inquit  ,noster  unicam  filiam  hodie  copulat  matrimonio.  ideo  
 gaudium  est  omni  ciuitati,  et  te  ut  credo  dii  eahibuerunt  ut  his  
 epulis  interesses.  haec  illis  colloq  uentibus  subito  totam  ciuitatem  
 uox  praeconaria  replet  dicens  :  ,audite,  habitatores  urbis  omnes,  

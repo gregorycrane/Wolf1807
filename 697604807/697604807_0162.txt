@@ -19,7 +19,7 @@ non  potes,  sed  quod  datum  est  nomen  ei  in  hoc  saeculo  est  Iesus
 Christus'.  minante  etiam  rege  quod  ei  non  parceret,  cum  maleficium  
 eius  aboleretur  ut  omnis  Indiae  regio  mundaretur,  respondit  Thomas:    
 ,haec  maleficia  mecum  abibunt,  sed  hoc  cognosce    quia  nec  hic  de-  
-erunt'.  
+erunt'.  20
 cogitabat  igitur  rex    quemadmodum  Thoman  occidi  iuberet.  
 uerebatur  enim  populum,  quia  plurimi  etiam  de  eminentioribus  uiris  
 eius  opera  mirabantur  et  credebant  in  dominum  Iesum.  cum  ipso  
@@ -39,4 +39,4 @@ cf  Venant  7,  8,  36  ed  Leo)  W  abholeret  P  aboliretur  Q  scr  aboleret?
 omnes  sed  i  ex  e  W |  india  P  se  ex  a  p  |  regi///  P  o  in  ras  p ||  21  tho-  
 mam  PQR ||  22  uer.  en.]  sed  uer.  P  |  plurima P  i  ex  a p |  etiam  om  P  
 de///  P ||  23  domino  iesu  P ||    23-128,1  ipso  igitur]  ergo  necem  eius  secum  
-disposuisset  rex  in  animo  P  
+disposuisset  rex  in  animo  P  40

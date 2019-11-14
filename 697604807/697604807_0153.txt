@@ -22,8 +22,7 @@ medicinam,  erat  enim  debilis  mulier,  soluta membris,  petiuit  ut  per-
 719 F.  20  mitteret  ei  ire  et  persuaso  custode  aperire  fores  carceris,  ut  pariter  
 cum  apostolo  domum  pergerent  atque  uxorem  suam  uideret,  simul  ut  
 diaconatus  ei  ministerium  crederetur  et  benedictionem  acciperet  
-1  et  om  Q  est  om  P  add  in  ras  post  sedicio  p  quo  m.]  commo-  
-tus  autem  P  cf  120,  27  (aliter  127,  3)  thomam  WPR  cf  127,21. 128,8  
+1  et  om  Q  est  om  P  add  in  ras  post  sedicio  p  quo  m.]  commotus  autem  P  cf  120,  27  (aliter  127,  3)  thomam  WPR  cf  127,21. 128,8  
 suum]  eius  R  zazani  P  zuzanem  QR  et  pl.]  pluresque  PQ  (et  pl.  W)  utrum-  
 25  que  e  coniectura?  trusi  t  add  misit P  carcerea (eras  m  comp)  P I deuistebat  
 P  cf  Greg  T  ep  in  IV  lib  s  Mart  ρ  995.  996  ,haec  agere  non  desistas  
@@ -35,7 +34,7 @@ est  om  P  9  et]  quia P  10  uidere  om  P  dica///  (eras  t)  P  m  comp  a
 11  sens.]  sens.  meum  P  sensus  R  int.]  et  int.  P  13  possum  WR  i  
 ex  u  ras  eu  r  consuisti  P  II  14  quae]  ea quae  WR  mihi  om  P  4  sunt  
 P I  ate  P  d  add  ρ  16  zuzanius  P  17  impl.]  esse  add  ρ  18  manaserem  
-35  19  erat////  R  19-20  petiuit//////  (eras  ut  a)  custode  (s  ut  add  ρ)  permit-  
+35  P || 19  erat////  R  19-20  petiuit//////  (eras  ut  a)  custode  (s  ut  add  ρ)  permit-  
 teret  (n  sup  scr  p)  ei  P II  20  aperi///  P  aperuit  eff p  apperire  21  per-  
 geret  Q  at  uxorem  uidere  iubetur  apostolus  ut]  et  P  ad  add  ρ  22  ei]  ras  
 in  P  crederetur]  del  sup  scr  accederet  ρ  

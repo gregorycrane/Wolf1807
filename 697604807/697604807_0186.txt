@@ -4,7 +4,7 @@ oculos,  ut  uideam  uiam  rectam  et  non  incurram  in  foueam'.  dicit  ei
 apostolus:  ,septem  diebus  ieiunium  imple,  octaua  uero  die  ueniam  
 at  te  et  baptismatis  unda  consecrabo  te  et  omnes  qui  crediderint  
 per  te.'  
-Caritius  autem  cognatus  regis,  cuius  rex  Misdeus  sororem  habe-5  
+Caritius  autem  cognatus  regis,  cuius  rex  Misdeus  sororem  habe- 5  
 bat  uxorem,    petiit  regem  dicens:  ,obsecro  te,  rex  bone,  ut  facias  
 dominam  meam  reginam  uisitare  Migdoniam,  si  forte  possit  eam  reuo-  
 care  ad  mentes  suas.  ego  enim  precibus,  ego  minis,  ego  blandimentis,  
@@ -17,27 +17,51 @@ doniam  et  dicit  ei:  ,Migdonia  carissima  amica  et  soror  dulcissima
 et  confabulatrix  mea,  peto  te  ut  dimittas  hanc  amentiam  nec  conubii  15  
 tui  legitima  iura  contemnas  contra  deos  agens  et  contra  natales  
 tuos  et  contra  animum  uiri  tui.  nam  et  rex  contristatur  et  omnes  
-domestici  eius;  omnes  pariter  de  te    loquuntur,  te  gemunt,  te  quad-    
-rnnt  et  plorant  sabito  amentem  electam.  cui  igdonia  respondit:  
-,0  soror  reptia,  si  scires  q  uae  ego  didici  hominem  quidem  attendis,30  
-sed  dens  est.  nam  et  amica  nostra  δinthice,  qa0  per  maltos  sanos  
-caeca  fnit,  nisum  a0  eo  recepi.  quid  antem  memorem2  sardis  red-  
-dit  anditum,  salutem  omnibus  aegritudinibus  restitnit,  aliquando  eiam  
-mortuos  reuocat  ad  mitam.  hic  ostendit  esse  aiteram  mitam  inmortaem,  
-1  et]  αἱ  ῆ’  in  om  76f2  c’  t2,27  dixit  ῷ  8  scr  dieram  us  
-37,.  fVi,2  octeno  6  uf  3  crederint  22  di  sp  sσr  p  4  per  2e  om  
-6ffώrg  ef  5  ritins  ⟨add  asup  ὲ)  caricins  f2  miςdoness  7  miεβonins  
-6ωiςdens  f24  resi  ψ  t7.θ  7  posset  7210torm  6ἰ2  potest]  sσr  
-persuaderi  potest7  π’6re0  ἴ’qd  com’  5  p  VV  ,qus.  ..  saeσulum  peσσare  
-ersuadet  ἔbmmod  apolon  2VV  ,suademur  credere  11  re  ait  6  18  qni5  
-36  ἢ  ior.]  am  eπ  αἴ2  infrnctnosαm  2  recte  αἱ  aid  audierit  72  13  tripῖ-  
-2ia  ἢ  2τepici  6  comstaater  14  dizit  76  micdinia  (ep  i  sup  scr  o)  
-22  sam.]  am.  mea  76  15  te]  a  te  2  ’  t27, 2V  ne  62  16  coα-  
-3empnas  62  e.  d.]  et  c.  d.  6  afςens  22  17  animi  22  aω  su  
-sσr  p  (22ῶ  nm  eπ  am  7  animam  6  t  f66, 7f  18  doωesci  2  ti  sua  scr  35  
-2e  ame  γem.  om  6  scr  qnernntnr  f  (qnernnt  ξ2)  eid  2e  et  26  
-19  es  aut  e  eras  aare  efsctam  ἴ2  20  trepciaἰ  et  sic  saepe  δὶ  nam  om  
-21  et  om  6t  sintiche  sentice  6  28  morer’  7  and.  τreddit  Vra  
-aad.  τedditnm  6  reddit  om  v2  2-24  aegv.  -  morinos  om  2  23  egrait-  
-dinibns  (αἱ  2  ap  u  aid  ἴ2  ecrimoniis  9vl  restitntnm  τestitntam  o  
-quando  24  renocaait  ἑ  resnscitanit  9tf  hic]  oratio  hiare  uid  
+domestici  eius;  omnes  pariter  de  te  loquuntur,  te  gemunt,  te  quae-  
+     
+runt  et  plorant  subito  amentem  effectam.‘  cui  Migdonia  respondit:  
+     
+,o  soror  Treptis,  si  scires  quae  ego  didici!  hominem  quidem  attendis,  20  
+     
+sed  deus  est.  nam  et  amica  nostra  Sinthice,  quae  per  multos  annos  
+     
+caeca  fuit,  uisum  ab  eo  recepit.  quid  autem  memorem?  surdis  red-  
+     
+dit  auditum,  salutem  omnibus  aegritudinibus  restituit,  aliquando  etiam  
+     
+mortuos  reuocat  ad  uitam.  hic  ostendit  esse  alteram  uitam  inmortalem,  
+     
+1  et]  ut  QG  |  in  om  QGR  cf  142,31  |  dixit  QG  ||  2  scr  dierum?  cf 25  
+     
+150,6.  101,20  |  octauo  QG  Ord  ||  3  crederint  P  di  sup  scr  p  ||  4  per  te  om  
+     
+QGR  fort  del  ||  5  kritius  (add  a  sup  k)  Q  caricius  R  |  migdoneus  Q  migdonius  
+     
+G  migdeus  R  ||  6  regi  0  cf  103,20  ||  7  posset  PR  ||  10  thorum  QGR  |  potest]  ser  
+     
+persuaderi  potest?  cf  Greg  T  gl  conf  5  p  897  ,quos ...  saeculum  peccare  
+     
+persuadet'  Commod  c  apolog  297  ,suademur  credere'  ||  11  rex  ait  QG  ||  12  quia  30  
+     
+QG  |  infr.]  um  ex  a  P  infructuosum  R  recte  ut  uid  |  audierit  R  ||  13  tripli-  
+     
+tia  Q  trepicia  G  constanter  ||  14  dixit  QG  |  migdinia  (exp  i  sup  scr  ο)  
+     
+P |am.]  am.  mea  QG  ||  15  te]  a  te  P  cf  143,27  |  ne  QGR  ||  16  con-  
+     
+tempnas  QGR  |  c. d.]  etc.  d.  QG  |  a///gens  P  ||  17  animi  P  um  sup  
+     
+scr  p (P?)  um ex  am  Q  animam  G  cf  155,31  ||  18  domesci  P  ti  sup  scr  p  |  35  
+     
+te  ante  gem.  om  QG  |  scr  queruntur?  (querant  P)  |  et]  te  et  QG  ||  
+     
+19  es  aut  cf  eras  ante  effectam  P||  20  trepcia  R  et  sic  saepe  ||  21  nam  om  
+     
+Q  |  et  om  QGR  |  sintiche  Q  sentice  G  ||  22  morer//  Q  |  aud.  reddit  Q  Ord  
+     
+aud.  redditum  G  |  reddit  om  R  ||  23-24  aegr.  —  mortuos  om  R  ||  23  egraita-  
+     
+dinibus  (ai?  a  p ut  uid)  P  egrimoniis  Q  Ord  |  restitutum  Q  restitutam  G  |  40  
+     
+quando  Q  ||  24  reuocauit  R  resuscitauit  Ord  |  hic]  oratio  hiare  uid  
+     

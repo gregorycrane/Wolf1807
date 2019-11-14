@@ -1,24 +1,25 @@
 
-DE  MIRACULIS  BEATI  THOMAE  APOSTOLI  
-VEL  QUALITER  AD  MARTYRII  GLORIAM  
-DOMINO  TRIBUENTE  PERVENIT  
-p. 687  Fabricius  Beatum  Thomam  cum  reliquis  discipulis  ad  officium  apostola-  
+<div type="textpart">
+<head>De  Miraculis  Beati  Thomae  Apostoli  
+vel  qualiter  ad  martyrii  gloriam  
+Domino  tribuente  pervenit</head>
+<p>687  F.  Beatum  Thomam  cum  reliquis  discipulis  ad  officium  apostola-  
 5  tus  electum  ipsumque  a  domino  Didimum,  quod  interpretatur  
 688  F.  geminus,  uocitatum  fides  euangelica  narrat.  qui  post  dominicae  
 gloriam  ascensionis  Thaddaeum,  unam  ex  septuaginta  discipulis,  
 ad  Abgarum  regem  Edissenae  ciuitatis  transmisit,  ut  eum  ab  
-infirmitate  euraret  iuxta  uerbum  quod  ei  a  domino  scriptum  est.  
+infirmitate  curaret  iuxta  uerbum  quod  ei  a  domino  scriptum  est.  
 10  quod  Thaaddaeus  ambienter  impleuit,  ita  ut  ueniens  imposito  regi  
 crucis  signaculo  ab  omni  eum  languore  sanaret.  Thomas  autem  
 apostolus  Christi  morabatur  in  Hierusalem.  tunc  diuina  commoni-  
-689  F.  tione  iussus  est  Indiam  ingredi,  ut  scilicet  populo  qui  lacebat  in  
+689  F.  tione  iussus  est  Indiam  ingredi,  ut  scilicet  populo  qui  iacebat  in  
 tenebris  lumen  ostenderet  ueritatis.  nam  legisse  me  memini  quen-  
 15  dam  libellum  in  quo  iter  eius  uel  miracula  quae  in  India  gessit  
 690  F.  explanabantur.  de  quo  libello,  quia  a  quibusdam  non  recipitur,  
 W  cod  Guelferbyt  inter  Wizanburgenses  48  saec  VIIII  aut X  
 P  Paris  lat  5301  saec X  
 Paris  lat  11624  saec  XI  
-30  R  Paris  lat  12604  saec  XII  
+20  R  Paris  lat  12604  saec  XII  
 nu  p  q  r correctores  
 N  editio  Nauseae  
 1-3  de-  peruenit]  passio  sancti  thome  apostoli  quod  est  XII.  κ.  ian.  in  

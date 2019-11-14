@@ -1,6 +1,7 @@
 
-PASSIO  SANCTI  THOMAE  APOSTOLI  
-Cum  apostolus  Thomas  qui  et  Didimus  esset  apud  Caesaream,  
+</p></div> <div type="textpart">
+<head>Passio  Sancti  Thomae  Apostoli  </head>
+<p>Cum  apostolus  Thomas  qui  et  Didimus  esset  apud  Caesaream,  
 apparuit  ei  dominus  Iesue  Christus  et  ait  ad  eum:  ,rex  Indorum  
 Gundaforus  nomine  misit  praepositum  suum  ad  Syriam  quaerere  
 hominem  arte  tectonica  eruditum'.  ubi  cum  uenisset,  dixit  dominus  5  
@@ -13,12 +14,12 @@ tas  tua'.
 haec  eo  dicente,  ecce  praepositus  familiae  regis  Indorum  no-  
 mine  Abbanes  descendens  de  naue  deambulabat  iuxta  mare  in  foro  
 P  cod  Paris  lat  18298  saec  VIIII  aut  X  
-Q  Paris  lat  17002  saec  X  
+Q  Paris  lat  17002  saec  X  15
 R  Paris  lat  9737  saec  XII  
 G  cod  s  Genoufae  Paris  H19  saec  X aut  XI  
 M cod  Montepessulan  55 saec  VIII  aut  VIIII  inde  a  154,20  
 p q  r  g  m  correctores  
-Ord  Ordericus  Vitalis  
+Ord  Ordericus  Vitalis   20
 Mombr  Mombritius  
 1  Incipit  passio  PRG  | tome  Q  |  post  apostoli  add  mense  decembri  (o  
 add  p)  die  XXI  P  qui  passus  est  in  india  XII  kal  ian  Q  que  est  XII.  kl.  

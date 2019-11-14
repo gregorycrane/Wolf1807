@@ -11,7 +11,7 @@ es  artifex,  in  huius  loci  planitie  mihi  palatium  construe,  et  tunc  pr
 babo  quod  perfectus  sis  in  operibus  istis῾.  cui  apostolus  ait:  ,oportu-  
 10  nus  est  hic  locus  in  quo  palatium  aedificetur    quod  in  perpetuo  rex,  
 debeat  habitare,  quia  planitie  extensus,  aqua iocundus,  et  aere  salubris  
-habetur῾.  tunc  data  mensura aeificii,  relicto  multo  pondere  auri,  pro-  
+habetur῾.  tunc  data  mensura aedificii,  relicto  multo  pondere  auri,  pro-  
 fectus  est  in  aliam  ciuitatem deprecans  apostolum  ut  uelociter aedificaret  
 domum  illam.  beatus  nero  Thomas  accepta  pecunia pergebat  in  circuitu  
 15  ciuitatum  euangelizans  uerbum  dei  et  distribuens  aurum  regium  
@@ -26,18 +26,33 @@ sancto,  deprecans  ut  uelocius  cooperiretur.  deniqe  post  multum
 699  F.  tempus  aestimans  rex  opus  esse  completum  uenit  ad  ciuitatem  illam  
 25  se  om  P  add  post  ei  p  2  qualem]  talem  qualem  R  I iussit]  
 magno  iu///  P  bens  in  ras  p  in]  ante  Q  conspectu  suo  P  II  et  om  P  
-5  cemento  W  8  et  tunc]  et  sic  in  ras  p  9  op.  istis]  omnibns  
-iu  ἔ2  opportαans  2  c7  Vαρ  e  ed  αfm  ρ  ff,  t7  10  ῖc  om  
-qαo’(eram  d  e2  perpetnnm  ἰ2  c  f7,δ.  2V,  11  aebeat  fmesio  am  rmσtee  
-a  6τε  f’v  ar  f,7  ρ  ftVe  femamted  aec  iadeπς  uitae  ὅhρrmae  ed  
-oucherie  p  7ς  f2oemscὲ  d2la  4gV  inhabitat  32  (nabitare  Vῶ  
-eπxt.  a,  inc.]  iocnndns  atqne  extensas  ecit  2  iσcnndnu  lif  o  eπ  σ  π  (iocnn-  
-dnm  Vῖ  aere  om  2  12  bi  sup  habetαr  scr  (ut  eit  habebitur)  p  ἢ  data  
-om  2  perspecta  add  post  edilciἱ  ρ  aedelcii  Ft  15  eaaanceliεans  ἔ2  
-μ,  5ram  omἴ2  17  mnltοs  dies  22  ostende’  (ems  mῶ  ’  18  opere  
-om  if  sap  sσr  π1  4  et  om  2  mid  ρ  indigeὐs  (eras  a  ’  19  qnae  eisd  ei  
-omnia  qnae  ei  2  20  re  iam  om  2  t  7,  2  22  nnntianernnt  φῇ22  
-nnntiantibns  ἢ  cλV,  paeri]  paeri  et  4f2  pneτris  7  haec  pαei  f  2B  nelo-  
-citeer  7  (aelociαm  Vῶ  ’  ὑvᾶim  fat  u  rom  ospar  p  δ’  iυaάp  s  eu  
-aoέ,  perne  uelociu’  6τε0  f  d  mσrt  :  ῳ  Vv  ,eloσius  prσeparm  2  
-ρ  V62  ,eπple  celerias  d  24  temporis  2  
+5  cemento  W  ||  8  et  tunc]  et  sic  in  ras  p  ||  9  op.  istis]  omnibus  
+     
+his  P  |  opportunus  R  cf  Sulp  Seu  ed  Halm  p  114,  10|| 10  hic  om  WR|  
+     
+quo///  (eras  d)  P  |  perpetuum  P  cf  103,6.  107,1|| 11 habeat  W  nescio  an  recte:  
+     
+30  cf  Greg  T's  Mart  1,16  p  1018  ;  Venant  ed  Leo  index  ;  uita  s  Euphrosynae  ed  
+     
+Boucherie  p  40;  Roensch  Itala  447  |  inhabitare  WR  (habitare  N)  |  
+     
+ext.  a,  iuc.]  iocundus  atque  extensus  erit  P  |  iucundus  W  o  ex  u  m  (iocun-  
+     
+dus  QR)  |  aere  om  P  ||  12  bi  sup  habetur  scr  (ut  sit  habebitur)  p  |  data  
+     
+om  P  perspecta  add  post  edificii  p  |  aedeficii  R  ||  15  euuangelizans  PQ  |  
+     
+35  aurum  om  P  ||  17  multos  dies  P  |  ostende///  (eras  m?)  W  ||  18  opera  
+     
+om  W  sup  scr  w || et  om  P  add  p  |  indige///s  (eras  a)  W ||  19  quae  eis]  ei  
+     
+omnia  quae  ei  P  ||  20  rex  iam  om  P  cf  103,  11  ||  22  nuntiauerant  WR  
+     
+nuntiantibus  Q  cf  98,39  |  pueri]  pueri et  WR  pueris  M  haec  pueri  P||  23  uelo-  
+     
+citer  WR  (uelocius  V)  cf  Woelfflin  lat  u  rom  compar  p  64  Eugipp  s  Seu  
+     
+40 24,  2  ,perge  uelocius’  Greg  T  gl  mart  51  p  781  ,uelocius  praepara‘  29  
+     
+p  752  ,exple  celerius‘  al  ||  24  temporis  P  
+     

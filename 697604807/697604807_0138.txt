@@ -14,7 +14,7 @@ uanissimas  exercere'.  iratus  autem  rex  iussit  eum  adduci  et  ait:
 sed  nunc  non  uidebis  illud,  uidebis  autem  in  saeculo  futuro  et  
 habitabis  in  eo  feliciter'.  igitur  furore  succensus  rex  ait:  ,ad  illu-  
 dendum  nos  ut  audio  huc  uenisti'.  et  statim  iussit  eum  mitti  in  
-carcerem  cum  Abban  negotiatore.  
+carcerem  cum  Abban  negotiatore.  15
 audiens  haec  frater  regis,  quod  scilicet  uastata  fuisset  pecunia  
 publica  et  nihil  appareret  ex  ea,  indignans  et  dampni  condolens  
 fraterni,  febre  accensus  conuertit  caput  in  lectulum  et  uocans  regem  
@@ -34,11 +34,11 @@ exp  r  | eum  P |  sedicionis  P  seditiones  R  i  prius  exp  u  sup  scr  r 
 quim    R ||  11  fieri  om  P ||  12  non  uidibis  R |  autem]  autem  eum  Q |  futuro  
 saeculo  W ||  14  nobis  WR  (nos  N) |  huc  om  P  || 15  carcere  P |  nego-  
 ciare  P  to  sup  scr p  || 16  haec]  autem  P ||  17  damno  (amn  in  ras)  W dampno  
-R (dampni  PQ  o  ex i  p)  cf 97, 32    Schuchardt  Vokal  1  149 III 76  ||  17 -  18  cond.  
-frat.  om  Q ||  18  fraterno  WR  o  ex  i  p |  lectulo  P  cf  Greg  T  gl  conf  75  p  35  
+R (dampni  PQ  o  ex i  p)  cf 97, 32    Schuchardt  Vokal  1  149 III 76  ||  17 -  18  cond.  35
+frat.  om  Q ||  18  fraterno  WR  o  ex  i  p |  lectulo  P  cf  Greg  T  gl  conf  75  p  
 955  ,declinans  caput  ad  lectulum'  s  Iul  14  p  859  ,declinauit  caput  ad  
 ectulum'  s  Mart  3,33  p 1093  ,capu’  conuertit  ad  lectulum'  et  om  P ||  19  ad-  
 ueninunt  P |  nunc]  nunc  autem  Q ||  21  cuius]  pro  cuius  P  || 22  obmutuit  PQR  
-cf  Loerve  prodr  369  |  cybum  PQ ||  23  die  om  P  add  p ||  24  ut]  ita  tamen  ut  
-P |  tibi]  te  WRN  cf  151,6.  28  Greg  T  gl  mart  80  p 811  ,peto  caritati  40  
+cf  Loerve  prodr  369  |  cybum  PQ ||  23  die  om  P  add  p ||  24  ut]  ita  tamen  ut  40
+P |  tibi]  te  WRN  cf  151,6.  28  Greg  T  gl  mart  80  p 811  ,peto  caritati  
 tuae' ||  25  tranferas  Q  

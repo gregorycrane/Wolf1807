@@ -1,0 +1,1982 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="../src/rng/tei-xl.rng"
+                        type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="eur.cycl_murray_gk.xml">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="work" n="Cyc.">Cyclops</title>
+            <title type="sub">Machine readable text</title>
+            <author n="Eur.">Euripides</author>
+            <editor role="editor" n="Murray">Gilbert Murray</editor>
+            <sponsor>Perseus Project, Tufts University</sponsor>
+            <principal>Gregory Crane</principal>
+            <respStmt>
+               <resp>Prepared under the supervision of</resp>
+               <name>Lisa Cerrato</name>
+               <name>William Merrill</name>
+               <name>Elli Mylonas</name>
+               <name>David Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>About 100Kb</extent>
+         <publicationStmt>
+            <publisher>Trustees of Tufts University</publisher>
+            <pubPlace>Medford, MA</pubPlace>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <bibl default="false">
+               <author>Euripides</author>
+               <title>Euripidis Fabulae, Vol 1</title>
+               <editor role="editor">Gilbert Murray</editor>
+               <pubPlace>Oxford</pubPlace>
+               <publisher>Clarendon Press, Oxford</publisher>
+               <date>1902</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <refsDecl>
+            <refState unit="line"/>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="greek">
+      <body>
+         <head>ξψξλοπς</head>
+         <note type="title" place="inline" anchored="true">Κύκλωψ</note>
+         <milestone n="1" unit="card"/>
+         <div type="episode" org="uniform" sample="complete" part="N">
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="1"/> 
+Ὦ Βρόμιε, διὰ σὲ μυρίους ἔχω πόνους 
+<lb rend="displayNum" n="2"/>νῦν χὤτ᾽ ἐν ἥβηι τοὐμὸν εὐσθένει δέμας: 
+<lb rend="displayNum" n="3"/>πρῶτον μὲν ἡνίκ᾽ ἐμμανὴς Ἥρας ὕπο 
+<lb rend="displayNum" n="4"/>Νύμφας ὀρείας ἐκλιπὼν ὤιχου τροφούς: 
+<lb rend="displayNum" n="5"/>ἔπειτά γ᾽ ἀμφὶ γηγενῆ μάχην δορὸς 
+<lb rend="displayNum" n="6"/>ἐνδέξιος σῶι ποδὶ παρασπιστὴς βεβὼς 
+<lb rend="displayNum" n="7"/>Ἐγκέλαδον ἰτέαν ἐς μέσην θενὼν δορὶ 
+<lb rend="displayNum" n="8"/>ἔκτεινα—φέρ᾽ ἴδω, τοῦτ᾽ ἰδὼν ὄναρ λέγω; 
+<lb rend="displayNum" n="9"/>οὐ μὰ Δί᾽, ἐπεὶ καὶ σκῦλ᾽ ἔδειξα Βακχίωι. 
+<lb rend="displayNum" n="10"/>καὶ νῦν ἐκείνων μείζον᾽ ἐξαντλῶ πόνον. 
+<lb rend="displayNum" n="11"/>ἐπεὶ γὰρ Ἥρα σοι γένος Τυρσηνικὸν 
+<lb rend="displayNum" n="12"/>ληιστῶν ἐπῶρσεν, ὡς ὁδηθείης μακράν, 
+<lb rend="displayNum" n="13"/>
+                  <add>ἐγὼ</add> πυθόμενος σὺν τέκνοισι ναυστολῶ 
+<lb rend="displayNum" n="14"/>σέθεν κατὰ ζήτησιν. ἐν πρύμνηι δ᾽ ἄκραι 
+<lb rend="displayNum" n="15"/>αὐτὸς λαβὼν ηὔθυνον ἀμφῆρες δόρυ, 
+<lb rend="displayNum" n="16"/>παῖδες δ᾽ <add>ἐπ᾽</add> ἐρετμοῖς ἥμενοι γλαυκὴν ἅλα 
+<lb rend="displayNum" n="17"/>ῥοθίοισι λευκαίνοντες ἐζήτουν σ᾽, ἄναξ. 
+<lb rend="displayNum" n="18"/>ἤδη δὲ Μαλέας πλησίον πεπλευκότας 
+<lb rend="displayNum" n="19"/>ἀπηλιώτης ἄνεμος ἐμπνεύσας δορὶ 
+<lb rend="displayNum" n="20"/>ἐξέβαλεν ἡμᾶς τήνδ᾽ ἐς Αἰτναίαν πέτραν, 
+<lb rend="displayNum" n="21"/>ἵν᾽ οἱ μονῶπες ποντίου παῖδες θεοῦ 
+<lb rend="displayNum" n="22"/>Κύκλωπες οἰκοῦσ᾽ ἄντρ᾽ ἔρημ᾽ ἀνδροκτόνοι. 
+<lb rend="displayNum" n="23"/>τούτων ἑνὸς ληφθέντες ἐσμὲν ἐν δόμοις 
+<lb rend="displayNum" n="24"/>δοῦλοι: καλοῦσι δ᾽ αὐτὸν ὧι λατρεύομεν 
+<lb rend="displayNum" n="25"/>Πολύφημον: ἀντὶ δ᾽ εὐίων βακχευμάτων 
+<lb rend="displayNum" n="26"/>ποίμνας Κύκλωπος ἀνοσίου ποιμαίνομεν. <pb/>
+                  <lb rend="displayNum" n="27"/>παῖδες μὲν οὖν μοι κλειτύων ἐν ἐσχάτοις 
+<lb rend="displayNum" n="28"/>νέμουσι μῆλα νέα νέοι πεφυκότες, 
+<lb rend="displayNum" n="29"/>ἐγὼ δὲ πληροῦν πίστρα καὶ σαίρειν στέγας 
+<lb rend="displayNum" n="30"/>μένων τέταγμαι τάσδε, τῶιδε δυσσεβεῖ 
+<lb rend="displayNum" n="31"/>Κύκλωπι δείπνων ἀνοσίων διάκονος. 
+<lb rend="displayNum" n="32"/>καὶ νῦν, τὰ προσταχθέντ᾽, ἀναγκαίως ἔχει 
+<lb rend="displayNum" n="33"/>σαίρειν σιδηρᾶι τῆιδέ μ᾽ ἁρπάγηι δόμους, 
+<lb rend="displayNum" n="34"/>ὡς τόν τ᾽ ἀπόντα δεσπότην Κύκλωπ᾽ ἐμὸν 
+<lb rend="displayNum" n="35"/>καθαροῖσιν ἄντροις μῆλά τ᾽ ἐσδεχώμεθα. 
+<lb rend="displayNum" n="36"/>ἤδη δὲ παῖδας προσνέμοντας εἰσορῶ 
+<lb rend="displayNum" n="37"/>ποίμνας. τί ταῦτα; μῶν κρότος σικινίδων 
+<lb rend="displayNum" n="38"/>ὁμοῖος ὑμῖν νῦν τε χὤτε Βακχίωι 
+<lb rend="displayNum" n="39"/>κῶμος συνασπίζοντες Ἀλθαίας δόμους 
+<lb rend="displayNum" n="40"/>προσῆιτ᾽ ἀοιδαῖς βαρβίτων σαυλούμενοι; 
+</p>
+            </sp>
+            <milestone n="41" unit="card"/>
+         </div>
+         <div type="choral" org="uniform" sample="complete" part="N">
+            <div type="strophe" org="uniform" sample="complete" part="N">
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="41"/> 
+παῖ γενναίων μὲν πατέρων 
+<lb rend="displayNum" n="42"/>γενναίων δ᾽ ἐκ τοκάδων, 
+<lb rend="displayNum" n="43"/>πᾶι δή μοι νίσηι σκοπέλους; 
+<lb rend="displayNum" n="44"/>οὐ τᾶιδ᾽ ὑπήνεμος αὔ-
+<lb rend="displayNum" n="45"/>ρα καὶ ποιηρὰ βοτάνα, 
+<lb rend="displayNum" n="46"/>δινᾶέν θ᾽ ὕδωρ ποταμῶν 
+<lb rend="displayNum" n="47"/>ἐν πίστραις κεῖται πέλας ἄν-
+<lb rend="displayNum" n="48"/>τρων, οὗ σοι βλαχαὶ τεκέων; 
+<milestone n="49" unit="card"/>
+                  </p>
+               </sp>
+            </div>
+            <div type="mesode" org="uniform" sample="complete" part="N">
+               <sp>
+                  <p>
+                     <lb rend="displayNum" n="49"/>ψύττ᾽: οὐ τᾶιδ᾽, οὔ; 
+<lb rend="displayNum" n="50"/>οὐ τᾶιδε νεμῆι κλειτὺν δροσεράν; 
+<lb rend="displayNum" n="51"/>ὠή, ῥίψω πέτρον τάχα σου: <pb/>
+                     <lb rend="displayNum" n="52"/>ὕπαγ᾽ ὦ ὕπαγ᾽ ὦ κεράστα 
+<lb rend="displayNum" n="53"/>
+                     <add>πρὸς</add> μηλοβότα στασιωρὸν 
+<lb rend="displayNum" n="54"/>Κύκλωπος ἀγροβάτα. 
+<milestone n="55" unit="card"/>
+                  </p>
+               </sp>
+            </div>
+            <div type="antistrophe" org="uniform" sample="complete" part="N">
+               <sp>
+                  <p>
+                     <lb rend="displayNum" n="55"/>σπαργῶντας μαστοὺς χάλασον: 
+<lb rend="displayNum" n="56"/>δέξαι θηλὰς πορίσασ᾽ 
+<lb rend="displayNum" n="57"/>οὓς λείπεις ἀρνῶν θαλάμοις. 
+<lb rend="displayNum" n="58"/>ποθοῦσί σ᾽ ἁμερόκοι-
+<lb rend="displayNum" n="59"/>τοι βλαχαὶ σμικρῶν τεκέων. 
+<lb rend="displayNum" n="60"/>εἰς αὐλὰν πότ᾽ †ἀμφιβαίνεισ† 
+<lb rend="displayNum" n="61"/>ποιηροὺς λιποῦσα νομοὺς 
+<lb rend="displayNum" n="62"/>Αἰτναίων εἴσω σκοπελῶν; 
+<milestone n="63" unit="card"/>
+                  </p>
+               </sp>
+            </div>
+            <div type="epode" org="uniform" sample="complete" part="N">
+               <sp>
+                  <p>
+                     <lb rend="displayNum" n="63"/>οὐ τάδε Βρόμιος, οὐ τάδε χοροὶ 
+<lb rend="displayNum" n="64"/>Βάκχαι τε θυρσοφόροι, 
+<lb rend="displayNum" n="65"/>οὐ τυμπάνων ἀλαλαγμοί, 
+<lb rend="displayNum" n="67"/>οὐκ οἴνου χλωραὶ σταγόνες 
+<lb rend="displayNum" n="66"/>κρήναις παρ᾽ ὑδροχύτοις: 
+<lb rend="displayNum" n="68"/>οὐδ᾽ ἐν Νύσαι μετὰ Νυμ-
+<lb rend="displayNum" n="69"/>φᾶν ἴακχον ἴακχον ὠι-
+<lb rend="displayNum" n="70"/>δὰν μέλπω πρὸς τὰν Ἀφροδί-
+<lb rend="displayNum" n="71"/>ταν, ἃν θηρεύων πετόμαν 
+<lb rend="displayNum" n="72"/>Βάκχαις σὺν λευκόποσιν. 
+<lb rend="displayNum" n="73"/>†ὦ φίλος ὦ φίλε Βακχεῖε 
+<lb rend="displayNum" n="74"/>ποῖ οἰοπολεῖς 
+<lb rend="displayNum" n="75"/>ξανθὰν χαίταν σείεις;† <pb/>
+                     <lb rend="displayNum" n="76"/>ἐγὼ δ᾽ ὁ σὸς πρόπολος 
+<lb rend="displayNum" n="77"/>Κύκλωπι θητεύω 
+<lb rend="displayNum" n="78"/>τῶι μονοδέρκται δοῦλος ἀλαίνων 
+<lb rend="displayNum" n="80"/>σὺν τᾶιδε τράγου χλαίναι μελέαι 
+<lb rend="displayNum" n="81"/>σᾶς χωρὶς φιλίας. 
+</p>
+               </sp>
+               <milestone n="82" unit="card"/>
+            </div>
+         </div>
+         <div type="episode" org="uniform" sample="complete" part="N">
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="82"/> σιγήσατ᾽, ὦ τέκν᾽, ἄντρα δ᾽ ἐς πετρηρεφῆ 
+<lb rend="displayNum" n="83"/>ποίμνας ἀθροῖσαι προσπόλους κελεύσατε. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="84"/> χωρεῖτ᾽: ἀτὰρ δὴ τίνα, πάτερ, σπουδὴν ἔχεις; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="85"/>ὁρῶ πρὸς ἀκταῖς ναὸς Ἑλλάδος σκάφος 
+<lb rend="displayNum" n="86"/>κώπης τ᾽ ἄνακτας σὺν στρατηλάτηι τινὶ 
+<lb rend="displayNum" n="87"/>στείχοντας ἐς τόδ᾽ ἄντρον: ἀμφὶ δ᾽ αὐχέσιν 
+<lb rend="displayNum" n="88"/>τεύχη φέρονται κενά, βορᾶς κεχρημένοι, 
+<lb rend="displayNum" n="89"/>κρωσσούς θ᾽ ὑδρηλούς. ὦ ταλαίπωροι ξένοι: 
+<lb rend="displayNum" n="90"/>τίνες ποτ᾽ εἰσίν; οὐκ ἴσασι δεσπότην 
+<lb rend="displayNum" n="91"/>Πολύφημον οἷός ἐστιν ἄξενόν τε γῆν 
+<lb rend="displayNum" n="92"/>τήνδ᾽ ἐμβεβῶτες καὶ Κυκλωπίαν γνάθον 
+<lb rend="displayNum" n="93"/>τὴν ἀνδροβρῶτα δυστυχῶς ἀφιγμένοι. 
+<lb rend="displayNum" n="94"/>ἀλλ᾽ ἥσυχοι γίγνεσθ᾽, ἵν᾽ ἐκπυθώμεθα 
+<lb rend="displayNum" n="95"/>πόθεν πάρεισι Σικελὸν Αἰτναῖον πάγον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="96"/> 
+ξένοι, φράσαιτ᾽ ἂν νᾶμα ποτάμιον πόθεν 
+<lb rend="displayNum" n="97"/>δίψης ἄκος λάβοιμεν εἴ τέ τις θέλει 
+<lb rend="displayNum" n="98"/>βορὰν ὁδῆσαι ναυτίλοις κεχρημένοις; 
+<lb rend="displayNum" n="99"/>
+                  <add>ἔα:</add> 
+τί χρῆμα; Βρομίου πόλιν ἔοιγμεν ἐσβαλεῖν: 
+<lb rend="displayNum" n="100"/>Σατύρων πρὸς ἄντροις τόνδ᾽ ὅμιλον εἰσορῶ. 
+<lb rend="displayNum" n="101"/>χαίρειν προσεῖπα πρῶτα τὸν γεραίτατον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="102"/> χαῖρ᾽, ὦ ξέν᾽, ὅστις δ᾽ εἶ φράσον πάτραν τε σήν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="103"/> Ἴθακος Ὀδυσσεύς, γῆς Κεφαλλήνων ἄναξ. <pb/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="104"/> οἶδ᾽ ἄνδρα, κρόταλον δριμύ, Σισύφου γένος. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="105"/> ἐκεῖνος αὐτός εἰμι: λοιδόρει δὲ μή. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="106"/> πόθεν Σικελίαν τήνδε ναυστολῶν πάρει; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="107"/> ἐξ Ἰλίου γε κἀπὸ Τρωϊκῶν πόνων. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="108"/> πῶς; πορθμὸν οὐκ ἤιδησθα πατρώιας χθονός; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="109"/> ἀνέμων θύελλαι δεῦρό μ᾽ ἥρπασαν βίαι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="110"/> παπαῖ: τὸν αὐτὸν δαίμον᾽ ἐξαντλεῖς ἐμοί. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="111"/> ἦ καὶ σὺ δεῦρο πρὸς βίαν ἀπεστάλης; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="112"/> ληιστὰς διώκων οἳ Βρόμιον ἀνήρπασαν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="113"/> τίς δ᾽ ἥδε χώρα καὶ τίνες ναίουσί νιν; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="114"/> Αἰτναῖος ὄχθος Σικελίας ὑπέρτατος. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="115"/> τείχη δὲ ποῦ ᾽στι καὶ πόλεως πυργώματα; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="116"/> οὐκ ἔστ᾽: ἔρημοι πρῶνες ἀνθρώπων, ξένε. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="117"/> τίνες δ᾽ ἔχουσι γαῖαν; ἦ θηρῶν γένος; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="118"/> Κύκλωπες, ἄντρ᾽ ἔχοντες, οὐ στέγας δόμων. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="119"/> τίνος κλύοντες; ἢ δεδήμευται κράτος; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="120"/> μονάδες: ἀκούει δ᾽ οὐδὲν οὐδεὶς οὐδενός. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="121"/> σπείρουσι δ᾽—ἢ τῶι ζῶσι; —Δήμητρος στάχυν; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="122"/> γάλακτι καὶ τυροῖσι καὶ μήλων βορᾶι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="123"/> Βρομίου δὲ πῶμ᾽ ἔχουσιν, ἀμπέλου ῥοάς; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="124"/> ἥκιστα: τοιγὰρ ἄχορον οἰκοῦσι χθόνα. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="125"/> φιλόξενοι δὲ χὤσιοι περὶ ξένους; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="126"/> γλυκύτατά φασι τὰ κρέα τοὺς ξένους φορεῖν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="127"/> τί φήις; βορᾶι χαίρουσιν ἀνθρωποκτόνωι; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="128"/> οὐδεὶς μολὼν δεῦρ᾽ ὅστις οὐ κατεσφάγη. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="129"/> αὐτὸς δὲ Κύκλωψ ποῦ ᾽στιν; ἦ δόμων ἔσω; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="130"/> φροῦδος, πρὸς Αἴτνηι θῆρας ἰχνεύων κυσίν. 
+</p>
+            </sp>
+            <milestone n="131" unit="card"/>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="131"/> οἶσθ᾽ οὖν ὃ δρᾶσον, ὡς ἀπαίρωμεν χθονός. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="132"/> οὐκ οἶδ᾽, Ὀδυσσεῦ: πᾶν δέ σοι δρώιημεν ἄν. <pb/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="133"/> ὅδησον ἡμῖν σῖτον, οὖ σπανίζομεν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="134"/> οὐκ ἔστιν, ὥσπερ εἶπον, ἄλλο πλὴν κρέας. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="135"/> ἀλλ᾽ ἡδὺ λιμοῦ καὶ τόδε σχετήριον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="136"/> καὶ τυρὸς ὀπίας ἔστι καὶ βοὸς γάλα. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="137"/> ἐκφέρετε: φῶς γὰρ ἐμπολήμασιν πρέπει. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="138"/> σὺ δ᾽ ἀντιδώσεις, εἰπέ μοι, χρυσὸν πόσον; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="139"/> οὐ χρυσὸν ἀλλὰ πῶμα Διονύσου φέρω. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="140"/> ὦ φίλτατ᾽ εἰπών, οὖ σπανίζομεν πάλαι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="141"/> καὶ μὴν Μάρων μοι πῶμ᾽ ἔδωκε, παῖς θεοῦ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="142"/> ὃν ἐξέθρεψα ταῖσδ᾽ ἐγώ ποτ᾽ ἀγκάλαις; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="143"/> ὁ Βακχίου παῖς, ὡς σαφέστερον μάθηις. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="144"/> ἐν σέλμασιν νεώς ἐστιν ἢ φέρεις σύ νιν; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="145"/> ὅδ᾽ ἁσκὸς ὃς κεύθει νιν, ὡς ὁρᾶις, γέρον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="146"/> οὗτος μὲν οὐδ᾽ ἂν τὴν γνάθον πλήσειέ μου. 
+<lb rend="displayNum" n="post146"/>
+                  <add>
+                     <note type="sp" place="inline" anchored="true">Οδ.</note>
+                  </add>
+                  <add>
+                     <note type="sp" place="inline" anchored="true">Σι.</note>
+                  </add>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="147"/> ναί: δὶς τόσον πῶμ᾽ ὅσον ἂν ἐξ ἀσκοῦ ῥυῆι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="148"/> καλήν γε κρήνην εἶπας ἡδεῖάν τ᾽ ἐμοί. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="149"/> βούληι σε γεύσω πρῶτον ἄκρατον μέθυ; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="150"/> δίκαιον: ἦ γὰρ γεῦμα τὴν ὠνὴν καλεῖ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="151"/> καὶ μὴν ἐφέλκω καὶ ποτῆρ᾽ ἀσκοῦ μέτα. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="152"/> φέρ᾽ ἐγκάναξον, ὡς ἀναμνησθῶ πιών. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="153"/> ἰδού. <note type="sp" place="inline" anchored="true">Σι.</note> παπαιάξ, ὡς καλὴν ὀσμὴν ἔχει. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="154"/> εἶδες γὰρ αὐτήν; <note type="sp" place="inline" anchored="true">Σι.</note> οὐ μὰ Δί᾽, ἀλλ᾽ ὀσφραίνομαι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="155"/> γεῦσαί νυν, ὡς ἂν μὴ λόγωι ᾽παινῆις μόνον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="156"/> βαβαί: χορεῦσαι παρακαλεῖ μ᾽ ὁ Βάκχιος. 
+<lb rend="displayNum" n="157"/>ἆ ἆ ἆ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="158"/> μῶν τὸν λάρυγγα διεκάναξέ σου καλῶς; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="159"/> ὥστ᾽ εἰς ἄκρους γε τοὺς ὄνυχας ἀφίκετο. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="160"/> πρὸς τῶιδε μέντοι καὶ νόμισμα δώσομεν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="161"/> χάλα τὸν ἀσκὸν μόνον: ἔα τὸ χρυσίον. <pb/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="162"/> ἐκφέρετέ νυν τυρεύματ᾽ ἢ μήλων τόκον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="163"/> δράσω τάδ᾽, ὀλίγον φροντίσας γε δεσποτῶν. 
+<lb rend="displayNum" n="164"/>ὡς ἐκπιών γ᾽ ἂν κύλικα μαινοίμην μίαν, 
+<lb rend="displayNum" n="165"/>πάντων Κυκλώπων ἀντιδοὺς βοσκήματα 
+<lb rend="displayNum" n="166"/>ῥίψας τ᾽ ἐς ἅλμην Λευκάδος πέτρας ἄπο 
+<lb rend="displayNum" n="167"/>ἅπαξ μεθυσθεὶς καταβαλών τε τὰς ὀφρῦς. 
+<lb rend="displayNum" n="168"/>ὡς ὅς γε πίνων μὴ γέγηθε μαίνεται: 
+<lb rend="displayNum" n="169"/>ἵν᾽ ἔστι τουτί τ᾽ ὀρθὸν ἐξανιστάναι 
+<lb rend="displayNum" n="170"/>μαστοῦ τε δραγμὸς καὶ †παρεσκευασμένου† 
+<lb rend="displayNum" n="171"/>ψαῦσαι χεροῖν λειμῶνος ὀρχηστύς θ᾽ ἅμα 
+<lb rend="displayNum" n="172"/>κακῶν τε λῆστις. εἶτ᾽ ἐγὼ <add>οὐ</add> κυνήσομαι 
+<lb rend="displayNum" n="173"/>τοιόνδε πῶμα, τὴν Κύκλωπος ἀμαθίαν 
+<lb rend="displayNum" n="174"/>κλαίειν κελεύων καὶ τὸν ὀφθαλμὸν μέσον; 
+</p>
+            </sp>
+            <milestone n="175" unit="card"/>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="175"/> ἄκου᾽, Ὀδυσσεῦ: διαλαλήσωμέν τί σοι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="176"/> καὶ μὴν φίλοι γε προσφέρεσθε πρὸς φίλον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="177"/> ἐλάβετε Τροίαν τὴν Ἑλένην τε χειρίαν; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="178"/> καὶ πάντα γ᾽ οἶκον Πριαμιδῶν ἐπέρσαμεν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="179"/> οὔκουν, ἐπειδὴ τὴν νεᾶνιν εἵλετε, 
+<lb rend="displayNum" n="180"/>ἅπαντες αὐτὴν διεκροτήσατ᾽ ἐν μέρει, 
+<lb rend="displayNum" n="181"/>ἐπεί γε πολλοῖς ἥδεται γαμουμένη, 
+<lb rend="displayNum" n="182"/>τὴν προδότιν, ἣ τοὺς θυλάκους τοὺς ποικίλους 
+<lb rend="displayNum" n="183"/>περὶ τοῖν σκελοῖν ἰδοῦσα καὶ τὸν χρύσεον 
+<lb rend="displayNum" n="184"/>κλωιὸν φοροῦντα περὶ μέσον τὸν αὐχένα 
+<lb rend="displayNum" n="185"/>ἐξεπτοήθη, Μενέλεων ἀνθρώπιον 
+<lb rend="displayNum" n="186"/>λῶιστον λιποῦσα; μηδαμοῦ γένος ποτὲ 
+<lb rend="displayNum" n="187"/>φῦναι γυναικῶν ὤφελ᾽, εἰ μὴ ᾽μοὶ μόνωι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="188"/> ἰδού: τάδ᾽ ὑμῖν ποιμνίων βοσκήματα, 
+<lb rend="displayNum" n="189"/>ἄναξ Ὀδυσσεῦ, μηκάδων ἀρνῶν τροφαί, <pb/>
+                  <lb rend="displayNum" n="190"/>πηκτοῦ γάλακτός τ᾽ οὐ σπάνια τυρεύματα. 
+<lb rend="displayNum" n="191"/>φέρεσθε: χωρεῖθ᾽ ὡς τάχιστ᾽ ἄντρων ἄπο, 
+<lb rend="displayNum" n="192"/>βότρυος ἐμοὶ πῶμ᾽ ἀντιδόντες εὐίου. 
+<lb rend="displayNum" n="193"/>οἴμοι: Κύκλωψ ὅδ᾽ ἔρχεται: τί δράσομεν; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="194"/> ἀπολώλαμέν τἄρ᾽, ὦ γέρον: ποῖ χρὴ φυγεῖν; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="195"/> ἔσω πέτρας τῆσδ᾽, οὗπερ ἂν λάθοιτέ γε. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="196"/> δεινὸν τόδ᾽ εἶπας, ἀρκύων μολεῖν ἔσω. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="197"/> οὐ δεινόν: εἰσὶ καταφυγαὶ πολλαὶ πέτρας. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="198"/> οὐ δῆτ᾽: ἐπεί τἂν μεγάλα γ᾽ ἡ Τροία στένοι, 
+<lb rend="displayNum" n="199"/>εἰ φευξόμεσθ᾽ ἕν᾽ ἄνδρα, μυρίον δ᾽ ὄχλον 
+<lb rend="displayNum" n="200"/>Φρυγῶν ὑπέστην πολλάκις σὺν ἀσπίδι. 
+<lb rend="displayNum" n="201"/>ἀλλ᾽, εἰ θανεῖν δεῖ, κατθανούμεθ᾽ εὐγενῶς 
+<lb rend="displayNum" n="202"/>ἢ ζῶντες αἶνον τὸν πάρος συσσώσομεν. 
+</p>
+            </sp>
+            <milestone n="203" unit="card"/>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="203"/> 
+ἄνεχε πάρεχε: τί τάδε; τίς ἡ ῥαιθυμία; 
+<lb rend="displayNum" n="204"/>τί βακχιάζετ᾽; οὐχὶ Διόνυσος τάδε, 
+<lb rend="displayNum" n="205"/>οὐ κρόταλα χαλκοῦ τυμπάνων τ᾽ ἀράγματα. 
+<lb rend="displayNum" n="206"/>πῶς μοι κατ᾽ ἄντρα νεόγονα βλαστήματα; 
+<lb rend="displayNum" n="207"/>ἦ πρός τε μαστοῖς εἰσι χὐπὸ μητέρων 
+<lb rend="displayNum" n="208"/>πλευρὰς τρέχουσι, σχοινίνοις τ᾽ ἐν τεύχεσιν 
+<lb rend="displayNum" n="209"/>πλήρωμα τυρῶν ἐστιν ἐξημελγμένον; 
+<lb rend="displayNum" n="210"/>τί φάτε, τί λέγετε; τάχα τις ὑμῶν τῶι ξύλωι 
+<lb rend="displayNum" n="211"/>δάκρυα μεθήσει. βλέπετ᾽ ἄνω καὶ μὴ κάτω. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="212"/> ἰδού: πρὸς αὐτὸν τὸν Δί᾽ ἀνακεκύφαμεν 
+<lb rend="displayNum" n="213"/>καὶ τἄστρα καὶ τὸν Ὠρίωνα δέρκομαι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="214"/> ἄριστόν ἐστιν εὖ παρεσκευασμένον; 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="215"/> πάρεστιν: ὁ φάρυγξ εὐτρεπὴς ἔστω μόνον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="216"/> ἦ καὶ γάλακτός εἰσι κρατῆρες πλέωι; <pb/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="217"/> ὥστ᾽ ἐκπιεῖν γέ σ᾽, ἢν θέληις, ὅλον πίθον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="218"/> μήλειον ἢ βόειον ἢ μεμειγμένον; 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="219"/> ὃν ἂν θέληις σύ: μὴ ᾽μὲ καταπίηις μόνον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="220"/> ἥκιστ᾽: ἐπεί μ᾽ ἂν ἐν μέσηι τῆι γαστέρι 
+<lb rend="displayNum" n="221"/>πηδῶντες ἀπολέσαιτ᾽ ἂν ὑπὸ τῶν σχημάτων. 
+<lb rend="displayNum" n="222"/>ἔα: τίν᾽ ὄχλον τόνδ᾽ ὁρῶ πρὸς αὐλίοις; 
+<lb rend="displayNum" n="223"/>ληισταί τινες κατέσχον ἢ κλῶπες χθόνα; 
+<lb rend="displayNum" n="224"/>ὁρῶ γέ τοι τούσδ᾽ ἄρνας ἐξ ἄντρων ἐμῶν 
+<lb rend="displayNum" n="225"/>στρεπταῖς λύγοισι σῶμα συμπεπλεγμένους 
+<lb rend="displayNum" n="226"/>τεύχη τε τυρῶν συμμιγῆ γέροντά τε 
+<lb rend="displayNum" n="227"/>πληγαῖς μέτωπον φαλακρὸν ἐξωιδηκότα. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="228"/> ὤμοι, πυρέσσω συγκεκομμένος τάλας. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="229"/> ὑπὸ τοῦ; τίς ἐς σὸν κρᾶτ᾽ ἐπύκτευσεν, γέρον; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="230"/> ὑπὸ τῶνδε, Κύκλωψ, ὅτι τὰ σ᾽ οὐκ εἴων φέρειν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="231"/> οὐκ ἦισαν ὄντα θεόν με καὶ θεῶν ἄπο; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="232"/> ἔλεγον ἐγὼ τάδ᾽: οἱ δ᾽ ἐφόρουν τὰ χρήματα, 
+<lb rend="displayNum" n="233"/>καὶ τόν γε τυρὸν οὐκ ἐῶντος ἤσθιον 
+<lb rend="displayNum" n="234"/>τούς τ᾽ ἄρνας ἐξεφοροῦντο: δήσαντες δὲ σὲ 
+<lb rend="displayNum" n="235"/>κλωιῶι τριπήχει, κατὰ τὸν ὀφθαλμὸν μέσον 
+<lb rend="displayNum" n="236"/>τὰ σπλάγχν᾽ ἔφασκον ἐξαμήσεσθαι βίαι, 
+<lb rend="displayNum" n="237"/>μάστιγί τ᾽ εὖ τὸ νῶτον ἀπολέψειν σέθεν, 
+<lb rend="displayNum" n="238"/>κἄπειτα συνδήσαντες ἐς θἀδώλια 
+<lb rend="displayNum" n="239"/>τῆς ναὸς ἐμβαλόντες ἀποδώσειν τινὶ 
+<lb rend="displayNum" n="240"/>πέτρους μοχλεύειν, ἢ ᾽ς μυλῶνα καταβαλεῖν. 
+</p>
+            </sp>
+            <milestone n="241" unit="card"/>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="241"/> ἄληθες; οὔκουν κοπίδας ὡς τάχιστ᾽ ἰὼν 
+<lb rend="displayNum" n="242"/>θήξεις μαχαίρας καὶ μέγαν φάκελον ξύλων 
+<lb rend="displayNum" n="243"/>ἐπιθεὶς ἀνάψεις; ὡς σφαγέντες αὐτίκα 
+<lb rend="displayNum" n="244"/>πλήσουσι νηδὺν τὴν ἐμὴν ἀπ᾽ ἄνθρακος <pb/>
+                  <lb rend="displayNum" n="245"/>θερμὴν διδόντες δαῖτα τῶι κρεανόμωι, 
+<lb rend="displayNum" n="246"/>τὰ δ᾽ ἐκ λέβητος ἑφθὰ καὶ τετηκότα. 
+<lb rend="displayNum" n="247"/>ὡς ἔκπλεώς γε δαιτός εἰμ᾽ ὀρεσκόου: 
+<lb rend="displayNum" n="248"/>ἅλις λεόντων ἐστί μοι θοινωμένωι 
+<lb rend="displayNum" n="249"/>ἐλάφων τε, χρόνιος δ᾽ εἴμ᾽ ἀπ᾽ ἀνθρώπων βορᾶς. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="250"/> τὰ καινά γ᾽ ἐκ τῶν ἠθάδων, ὦ δέσποτα, 
+<lb rend="displayNum" n="251"/>ἡδίον᾽ ἐστίν. οὐ γὰρ οὖν νεωστί γε 
+<lb rend="displayNum" n="252"/>ἄλλοι πρὸς ἄντρα σοὐσαφίκοντο ξένοι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="253"/> Κύκλωψ, ἄκουσον ἐν μέρει καὶ τῶν ξένων. 
+<lb rend="displayNum" n="254"/>ἡμεῖς βορᾶς χρήιζοντες ἐμπολὴν λαβεῖν 
+<lb rend="displayNum" n="255"/>σῶν ἆσσον ἄντρων ἤλθομεν νεὼς ἄπο. 
+<lb rend="displayNum" n="256"/>τοὺς δ᾽ ἄρνας ἡμῖν οὖτος ἀντ᾽ οἴνου σκύφου 
+<lb rend="displayNum" n="257"/>ἀπημπόλα τε κἀδίδου πιεῖν λαβὼν 
+<lb rend="displayNum" n="258"/>ἑκὼν ἑκοῦσι, κοὐδὲν ἦν τούτων βίαι. 
+<lb rend="displayNum" n="259"/>ἀλλ᾽ οὗτος ὑγιὲς οὐδὲν ὧν φησιν λέγει, 
+<lb rend="displayNum" n="260"/>ἐπεὶ κατελήφθη σοῦ λάθραι πωλῶν τὰ σά. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="261"/> ἐγώ; κακῶς γ᾽ ἄρ᾽ ἐξόλοι᾽. <note type="sp" place="inline" anchored="true">Οδ.</note> εἰ ψεύδομαι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="262"/> μὰ τὸν Ποσειδῶ τὸν τεκόντα σ᾽, ὦ Κύκλωψ, 
+<lb rend="displayNum" n="263"/>μὰ τὸν μέγαν Τρίτωνα καὶ τὸν Νηρέα, 
+<lb rend="displayNum" n="264"/>μὰ τὴν Καλυψὼ τάς τε Νηρέως κόρας, 
+<lb rend="displayNum" n="265"/>μὰ θαἰερὰ κύματ᾽ ἰχθύων τε πᾶν γένος, 
+<lb rend="displayNum" n="266"/>ἀπώμοσ᾽, ὦ κάλλιστον ὦ Κυκλώπιον, 
+<lb rend="displayNum" n="267"/>ὦ δεσποτίσκε, μὴ τὰ σ᾽ ἐξοδᾶν ἐγὼ 
+<lb rend="displayNum" n="268"/>ξένοισι χρήματ᾽. ἢ κακῶς οὗτοι κακοὶ 
+<lb rend="displayNum" n="269"/>οἱ παῖδες ἀπόλοινθ᾽, οὓς μάλιστ᾽ ἐγὼ φιλῶ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="270"/> αὐτὸς ἔχ᾽. ἔγωγε τοῖς ξένοις τὰ χρήματα 
+<lb rend="displayNum" n="271"/>περνάντα σ᾽ εἶδον: εἰ δ᾽ ἐγὼ ψευδῆ λέγω, 
+<lb rend="displayNum" n="272"/>ἀπόλοιθ᾽ ὁ πατήρ μου: τοὺς ξένους δὲ μὴ ἀδίκει. <pb/>
+               </p>
+            </sp>
+            <milestone n="273" unit="card"/>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="273"/> ψεύδεσθ᾽: ἔγωγε τῶιδε τοῦ Ῥαδαμάνθυος 
+<lb rend="displayNum" n="274"/>μᾶλλον πέποιθα καὶ δικαιότερον λέγω. 
+<lb rend="displayNum" n="275"/>θέλω δ᾽ ἐρέσθαι: πόθεν ἐπλεύσατ᾽, ὦ ξένοι; 
+<lb rend="displayNum" n="276"/>ποδαποί; τίς ὑμᾶς ἐξεπαίδευσεν πόλις; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="277"/> Ἰθακήσιοι μὲν τὸ γένος, Ἰλίου δ᾽ ἄπο, 
+<lb rend="displayNum" n="278"/>πέρσαντες ἄστυ, πνεύμασιν θαλασσίοις 
+<lb rend="displayNum" n="279"/>σὴν γαῖαν ἐξωσθέντες ἥκομεν, Κύκλωψ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="280"/> ἦ τῆς κακίστης οἳ μετήλθεθ᾽ ἁρπαγὰς 
+<lb rend="displayNum" n="281"/>Ἑλένης Σκαμάνδρου γείτον᾽ Ἰλίου πόλιν; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="282"/> οὗτοι, πόνον τὸν δεινὸν ἐξηντληκότες. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="283"/> αἰσχρὸν στράτευμά γ᾽, οἵτινες μιᾶς χάριν 
+<lb rend="displayNum" n="284"/>γυναικὸς ἐξεπλεύσατ᾽ ἐς γαῖαν Φρυγῶν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="285"/> θεοῦ τὸ πρᾶγμα: μηδέν᾽ αἰτιῶ βροτῶν. 
+<lb rend="displayNum" n="286"/>ἡμεῖς δέ σ᾽, ὦ θεοῦ ποντίου γενναῖε παῖ, 
+<lb rend="displayNum" n="287"/>ἱκετεύομέν τε καὶ λέγομεν ἐλευθέρως: 
+<lb rend="displayNum" n="288"/>μὴ τλῆις πρὸς ἄντρα σοὐσαφιγμένους φίλους 
+<lb rend="displayNum" n="289"/>κτανεῖν βοράν τε δυσσεβῆ θέσθαι γνάθοις: 
+<lb rend="displayNum" n="290"/>οἳ τὸν σόν, ὦναξ, πατέρ᾽ ἔχειν ναῶν ἕδρας 
+<lb rend="displayNum" n="291"/>ἐρρυσάμεσθα γῆς ἐν Ἑλλάδος μυχοῖς: 
+<lb rend="displayNum" n="292"/>ἱερᾶς τ᾽ ἄθραυστος Ταινάρου μένει λιμὴν 
+<lb rend="displayNum" n="293"/>Μαλέας τ᾽ ἄκρας κευθμῶνες ἥ τε Σουνίου 
+<lb rend="displayNum" n="294"/>δίας Ἀθάνας σῶς ὑπάργυρος πέτρα 
+<lb rend="displayNum" n="295"/>Γεραίστιοί τε καταφυγαί: τά θ᾽ Ἑλλάδος 
+<lb rend="displayNum" n="296"/>†δύσφρον᾽ ὀνείδη† Φρυξὶν οὐκ ἐδώκαμεν. 
+<lb rend="displayNum" n="297"/>ὧν καὶ σὺ κοινοῖ: γῆς γὰρ Ἑλλάδος μυχοὺς 
+<lb rend="displayNum" n="298"/>οἰκεῖς ὑπ᾽ Αἴτνηι, τῆι πυριστάκτωι πέτραι. 
+<lb rend="displayNum" n="299"/>νόμος δὲ θνητοῖς, εἰ λόγους ἀποστρέφηι, 
+<lb rend="displayNum" n="300"/>ἱκέτας δέχεσθαι ποντίους ἐφθαρμένους <pb/>
+                  <lb rend="displayNum" n="301"/>ξένιά τε δοῦναι καὶ πέπλους ἐπαρκέσαι, 
+<lb rend="displayNum" n="302"/>οὐκ ἀμφὶ βουπόροισι πηχθέντας μέλη 
+<lb rend="displayNum" n="303"/>ὀβελοῖσι νηδὺν καὶ γνάθον πλῆσαι σέθεν. 
+<lb rend="displayNum" n="304"/>ἅλις δὲ Πριάμου γαῖ᾽ ἐχήρωσ᾽ Ἑλλάδα 
+<lb rend="displayNum" n="305"/>πολλῶν νεκρῶν πιοῦσα δοριπετῆ φόνον 
+<lb rend="displayNum" n="306"/>ἀλόχους τ᾽ ἀνάνδρους γραῦς τ᾽ ἄπαιδας ὤλεσεν 
+<lb rend="displayNum" n="307"/>πολιούς τε πατέρας. εἰ δὲ τοὺς λελειμμένους 
+<lb rend="displayNum" n="308"/>σὺ συμπυρώσας δαῖτ᾽ ἀναλώσεις πικράν, 
+<lb rend="displayNum" n="309"/>ποῖ τρέψεταί τις; ἀλλ᾽ ἐμοὶ πιθοῦ, Κύκλωψ: 
+<lb rend="displayNum" n="310"/>πάρες τὸ μάργον σῆς γνάθου, τὸ δ᾽ εὐσεβὲς 
+<lb rend="displayNum" n="311"/>τῆς δυσσεβείας ἀνθελοῦ: πολλοῖσι γὰρ 
+<lb rend="displayNum" n="312"/>κέρδη πονηρὰ ζημίαν ἠμείψατο. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="313"/> παραινέσαι σοι βούλομαι: τῶν γὰρ κρεῶν 
+<lb rend="displayNum" n="314"/>μηδὲν λίπηις τοῦδ᾽: ἢν δὲ τὴν γλῶσσαν δάκηις, 
+<lb rend="displayNum" n="315"/>κομψὸς γενήσηι καὶ λαλίστατος, Κύκλωψ. 
+</p>
+            </sp>
+            <milestone n="316" unit="card"/>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="316"/> ὁ πλοῦτος, ἀνθρωπίσκε, τοῖς σοφοῖς θεός, 
+<lb rend="displayNum" n="317"/>τὰ δ᾽ ἄλλα κόμποι καὶ λόγων εὐμορφία. 
+<lb rend="displayNum" n="318"/>ἄκρας δ᾽ ἐναλίας αἷς καθίδρυται πατὴρ 
+<lb rend="displayNum" n="319"/>χαίρειν κελεύω: τί τάδε προυστήσω λόγωι; 
+<lb rend="displayNum" n="320"/>Ζηνὸς δ᾽ ἐγὼ κεραυνὸν οὐ φρίσσω, ξένε, 
+<lb rend="displayNum" n="321"/>οὐδ᾽ οἶδ᾽ ὅτι Ζεύς ἐστ᾽ ἐμοῦ κρείσσων θεός. 
+<lb rend="displayNum" n="322"/>οὔ μοι μέλει τὸ λοιπόν: ὡς δ᾽ οὔ μοι μέλει 
+<lb rend="displayNum" n="323"/>ἄκουσον: ὅταν ἄνωθεν ὄμβρον ἐκχέηι, 
+<lb rend="displayNum" n="324"/>ἐν τῆιδε πέτραι στέγν᾽ ἔχων σκηνώματα, 
+<lb rend="displayNum" n="325"/>ἢ μόσχον ὀπτὸν ἤ τι θήρειον δάκος 
+<lb rend="displayNum" n="326"/>δαινύμενος, εὖ τέγγων τε γαστέρ᾽ ὑπτίαν, 
+<lb rend="displayNum" n="327"/>ἐπεκπιὼν γάλακτος ἀμφορέα, πέπλον 
+<lb rend="displayNum" n="328"/>κρούω, Διὸς βρονταῖσιν εἰς ἔριν κτυπῶν. 
+<lb rend="displayNum" n="329"/>ὅταν δὲ βορέας χιόνα Θρήικιος χέηι, 
+<lb rend="displayNum" n="330"/>δοραῖσι θηρῶν σῶμα περιβαλὼν ἐμὸν <pb/>
+                  <lb rend="displayNum" n="331"/>καὶ πῦρ ἀναίθων, χιόνος οὐδέν μοι μέλει. 
+<lb rend="displayNum" n="332"/>ἡ γῆ δ᾽ ἀνάγκηι, κἂν θέληι κἂν μὴ θέληι, 
+<lb rend="displayNum" n="333"/>τίκτουσα ποίαν τἀμὰ πιαίνει βοτά. 
+<lb rend="displayNum" n="334"/>ἁγὼ οὔτινι θύω πλὴν ἐμοί, θεοῖσι δ᾽ οὔ, 
+<lb rend="displayNum" n="335"/>καὶ τῆι μεγίστηι, γαστρὶ τῆιδε, δαιμόνων. 
+<lb rend="displayNum" n="336"/>ὡς τοὐμπιεῖν γε καὶ φαγεῖν τοὐφ᾽ ἡμέραν, 
+<lb rend="displayNum" n="337"/>Ζεὺς οὖτος ἀνθρώποισι τοῖσι σώφροσιν, 
+<lb rend="displayNum" n="338"/>λυπεῖν δὲ μηδὲν αὑτόν. οἳ δὲ τοὺς νόμους 
+<lb rend="displayNum" n="339"/>ἔθεντο ποικίλλοντες ἀνθρώπων βίον, 
+<lb rend="displayNum" n="340"/>κλαίειν ἄνωγα: τὴν <add>δ᾽</add> ἐμὴν ψυχὴν ἐγὼ 
+<lb rend="displayNum" n="341"/>οὐ παύσομαι δρῶν εὖ, κατεσθίων γε σέ. 
+<lb rend="displayNum" n="342"/>ξένια δὲ λήψηι τοιάδ᾽, ὡς ἄμεμπτος ὦ, 
+<lb rend="displayNum" n="343"/>πῦρ καὶ πατρῶιον τόνδε χαλκόν, ὃς ζέσας 
+<lb rend="displayNum" n="344"/>σὴν σάρκα διαφόρητον ἀμφέξει καλῶς. 
+<lb rend="displayNum" n="345"/>ἀλλ᾽ ἕρπετ᾽ εἴσω, τοῦ κατ᾽ αὔλιον θεοῦ 
+<lb rend="displayNum" n="346"/>ἵν᾽ ἀμφὶ βωμὸν στάντες εὐωχῆτέ με. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="347"/> αἰαῖ, πόνους μὲν Τρωϊκοὺς ὑπεξέδυν 
+<lb rend="displayNum" n="348"/>θαλασσίους τε, νῦν δ᾽ ἐς ἀνδρὸς ἀνοσίου 
+<lb rend="displayNum" n="349"/>ὠμὴν κατέσχον ἀλίμενόν τε καρδίαν. 
+<lb rend="displayNum" n="350"/>ὦ Παλλάς, ὦ δέσποινα Διογενὲς θεά, 
+<lb rend="displayNum" n="351"/>νῦν νῦν ἄρηξον: κρείσσονας γὰρ Ἰλίου 
+<lb rend="displayNum" n="352"/>πόνους ἀφῖγμαι κἀπὶ κινδύνου βάθρα. 
+<lb rend="displayNum" n="353"/>σύ τ᾽, ὦ φαεννὰς ἀστέρων οἰκῶν ἕδρας 
+<lb rend="displayNum" n="354"/>Ζεῦ ξένι᾽, ὅρα τάδ᾽: εἰ γὰρ αὐτὰ μὴ βλέπεις, 
+<lb rend="displayNum" n="355"/>ἄλλως νομίζηι Ζεὺς τὸ μηδὲν ὢν θεός. <pb/>
+               </p>
+            </sp>
+            <milestone n="356" unit="card"/>
+         </div>
+         <div type="choral" org="uniform" sample="complete" part="N">
+            <div type="strophe" org="uniform" sample="complete" part="N">
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="356"/> Εὐρείας φάρυγος, ὦ Κύκλωψ, 
+<lb rend="displayNum" n="357"/>ἀναστόμου τὸ χεῖλος: ὡς ἕτοιμά σοι 
+<lb rend="displayNum" n="358"/>ἑφθὰ καὶ ὀπτὰ καὶ ἀνθρακιᾶς ἄπο <add>θερμὰ</add> 
+χναύειν βρύκειν 
+<lb rend="displayNum" n="359"/>κρεοκοπεῖν μέλη ξένων 
+<lb rend="displayNum" n="360"/>δασυμάλλωι ἐν αἰγίδι κλινομένωι. 
+<milestone n="361" unit="card"/>
+                  </p>
+               </sp>
+            </div>
+            <div type="mesode" org="uniform" sample="complete" part="N">
+               <sp>
+                  <p>
+                     <lb rend="displayNum" n="361"/>μὴ ᾽μοὶ μὴ προσδίδου: 
+<lb rend="displayNum" n="362"/>μόνος μόνωι γέμιζε πορθμίδος σκάφος. 
+<lb rend="displayNum" n="363"/>χαιρέτω μὲν αὖλις ἅδε, 
+<lb rend="displayNum" n="364"/>χαιρέτω δὲ θυμάτων 
+<lb rend="displayNum" n="365"/>ἀποβώμιος †ἃν ἔχει θυσίαν† 
+<lb rend="displayNum" n="366"/>Κύκλωψ Αἰτναῖος ξενικῶν 
+<lb rend="displayNum" n="367"/>κρεῶν κεχαρμένος βορᾶι. 
+<milestone n="370" unit="card"/>
+                  </p>
+               </sp>
+            </div>
+            <div type="antistrophe" org="uniform" sample="complete" part="N">
+               <sp>
+                  <p>
+                     <lb rend="displayNum" n="370"/>†νηλὴς ὦ τλᾶμον ὅστις δωμάτων† 
+<lb rend="displayNum" n="371"/>ἐφεστίους ἱκτῆρας ἐκθύει δόμων, 
+<lb rend="displayNum" n="373"/>ἑφθά τε δαινύμενος μυσαροῖσί τ᾽ ὀδοῦσιν 
+<lb rend="displayNum" n="372"/>κόπτων βρύκων 
+<lb rend="displayNum" n="374"/>θέρμ᾽ ἀπ᾽ ἀνθράκων κρέα 
+</p>
+               </sp>
+               <milestone n="375" unit="card"/>
+            </div>
+         </div>
+         <div type="episode" org="uniform" sample="complete" part="N">
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="375"/> ὦ Ζεῦ, τί λέξω, δείν᾽ ἰδὼν ἄντρων ἔσω 
+<lb rend="displayNum" n="376"/>κοὐ πιστά, μύθοις εἰκότ᾽ οὐδ᾽ ἔργοις βροτῶν; <pb/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="377"/> τί δ᾽ ἔστ᾽, Ὀδυσσεῦ; μῶν τεθοίναται σέθεν 
+<lb rend="displayNum" n="378"/>φίλους ἑταίρους ἀνοσιώτατος Κύκλωψ; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="379"/> δισσούς γ᾽ ἀθρήσας κἀπιβαστάσας χεροῖν, 
+<lb rend="displayNum" n="380"/>οἳ σαρκὸς εἶχον εὐτραφέστατον πάχος. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="381"/> πῶς, ὦ ταλαίπωρ᾽, ἦτε πάσχοντες τάδε; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="382"/> ἐπεὶ πετραίαν τήνδ᾽ ἐσήλθομεν †χθόνα†, 
+<lb rend="displayNum" n="383"/>ἀνέκαυσε μὲν πῦρ πρῶτον, ὑψηλῆς δρυὸς 
+<lb rend="displayNum" n="384"/>κορμοὺς πλατείας ἐσχάρας βαλὼν ἔπι, 
+<lb rend="displayNum" n="385"/>τρισσῶν ἁμαξῶν ὡς ἀγώγιμον βάρος, 
+<lb rend="displayNum" n="392"/>καὶ χάλκεον λέβητ᾽ ἐπέζεσεν πυρί. 
+<lb rend="displayNum" n="386"/>ἔπειτα φύλλων ἐλατίνων χαμαιπετῆ 
+<lb rend="displayNum" n="387"/>ἔστρωσεν εὐνὴν πλησίον πυρὸς φλογί. 
+<lb rend="displayNum" n="388"/>κρατῆρα δ᾽ ἐξέπλησεν ὡς δεκάμφορον, 
+<lb rend="displayNum" n="389"/>μόσχους ἀμέλξας, λευκὸν ἐσχέας γάλα, 
+<lb rend="displayNum" n="390"/>σκύφος τε κισσοῦ παρέθετ᾽ εἰς εὖρος τριῶν 
+<lb rend="displayNum" n="391"/>πήχεων, βάθος δὲ τεσσάρων ἐφαίνετο, 
+<lb rend="displayNum" n="393"/>ὀβελούς τ᾽, ἄκρους μὲν ἐγκεκαυμένους πυρί, 
+<lb rend="displayNum" n="394"/>ξεστοὺς δὲ δρεπάνωι τἄλλα, παλιούρου κλάδων, 
+<lb rend="displayNum" n="395"/>†Αἰτναῖά τε σφαγεῖα πελέκεων γνάθοισ†. 
+<lb rend="displayNum" n="396"/>ὡς δ᾽ ἦν ἕτοιμα πάντα τῶι θεοστυγεῖ 
+<lb rend="displayNum" n="397"/>Ἅιδου μαγείρωι, φῶτε συμμάρψας δύο 
+<lb rend="displayNum" n="398"/>ἔσφαζ᾽ ἑταίρων τῶν ἐμῶν, ῥυθμῶι θ᾽ ἑνὶ 
+<lb rend="displayNum" n="399"/>τὸν μὲν λέβητος ἐς κύτος χαλκήλατον 
+<lb rend="displayNum" n="400"/>τὸν δ᾽ αὖ, τένοντος ἁρπάσας ἄκρου ποδός, 
+<lb rend="displayNum" n="401"/>παίων πρὸς ὀξὺν στόνυχα πετραίου λίθου <pb/>
+                  <lb rend="displayNum" n="402"/>ἐγκέφαλον ἐξέρρανε: καὶ †καθαρπάσασ† 
+<lb rend="displayNum" n="403"/>λάβρωι μαχαίραι σάρκας ἐξώπτα πυρί, 
+<lb rend="displayNum" n="404"/>τὰ δ᾽ ἐς λέβητ᾽ ἐφῆκεν ἕψεσθαι μέλη. 
+<lb rend="displayNum" n="405"/>ἐγὼ δ᾽ ὁ τλήμων δάκρυ᾽ ἀπ᾽ ὀφθαλμῶν χέων 
+<lb rend="displayNum" n="406"/>@ἐχριμπτόμην Κύκλωπι κἀδιακόνουν: 
+<lb rend="displayNum" n="407"/>ἅλλοι δ᾽ ὅπως ὄρνιθες ἐν μυχοῖς πέτρας 
+<lb rend="displayNum" n="408"/>πτήξαντες εἶχον, αἷμα δ᾽ οὐκ ἐνῆν χροΐ. 
+<milestone n="409" unit="card"/>
+                  <lb rend="displayNum" n="409"/>ἐπεὶ δ᾽ ἑταίρων τῶν ἐμῶν πλησθεὶς βορᾶς 
+<lb rend="displayNum" n="410"/>ἀνέπεσε, φάρυγος αἰθέρ᾽ ἐξανεὶς βαρύν, 
+<lb rend="displayNum" n="411"/>ἐσῆλθέ μοί τι θεῖον: ἐμπλήσας σκύφος 
+<lb rend="displayNum" n="412"/>Μάρωνος αὐτῶι τοῦδε προσφέρω πιεῖν, 
+<lb rend="displayNum" n="413"/>λέγων τάδ᾽: Ὦ τοῦ ποντίου θεοῦ Κύκλωψ, 
+<lb rend="displayNum" n="414"/>σκέψαι τόδ᾽ οἷον Ἑλλὰς ἀμπέλων ἄπο 
+<lb rend="displayNum" n="415"/>θεῖον κομίζει πῶμα, Διονύσου γάνος. 
+<lb rend="displayNum" n="416"/>ὁ δ᾽ ἔκπλεως ὢν τῆς ἀναισχύντου βορᾶς 
+<lb rend="displayNum" n="417"/>ἐδέξατ᾽ ἔσπασέν <add>τ᾽</add> ἄμυστιν ἑλκύσας 
+<lb rend="displayNum" n="418"/>κἀπήινεσ᾽ ἄρας χεῖρα: Φίλτατε ξένων, 
+<lb rend="displayNum" n="419"/>καλὸν τὸ πῶμα δαιτὶ πρὸς καλῆι δίδως. 
+<lb rend="displayNum" n="420"/>ἡσθέντα δ᾽ αὐτὸν ὡς ἐπηισθόμην ἐγώ, 
+<lb rend="displayNum" n="421"/>ἄλλην ἔδωκα κύλικα, γιγνώσκων ὅτι 
+<lb rend="displayNum" n="422"/>τρώσει νιν οἶνος καὶ δίκην δώσει τάχα. 
+<lb rend="displayNum" n="423"/>καὶ δὴ πρὸς ὠιδὰς εἷρπ᾽: ἐγὼ δ᾽ ἐπεγχέων 
+<lb rend="displayNum" n="424"/>ἄλλην ἐπ᾽ ἄλληι σπλάγχν᾽ ἐθέρμαινον ποτῶι. 
+<lb rend="displayNum" n="425"/>ἄιδει δὲ παρὰ κλαίουσι συνναύταις ἐμοῖς 
+<lb rend="displayNum" n="426"/>ἄμουσ᾽, ἐπηχεῖ δ᾽ ἄντρον. ἐξελθὼν δ᾽ ἐγὼ 
+<lb rend="displayNum" n="427"/>σιγῆι σὲ σῶσαι κἄμ᾽, ἐὰν βούληι, θέλω. 
+<lb rend="displayNum" n="428"/>ἀλλ᾽ εἴπατ᾽ εἴτε χρήιζετ᾽ εἴτ᾽ οὐ χρήιζετε <pb/>
+                  <lb rend="displayNum" n="429"/>φεύγειν ἄμεικτον ἄνδρα καὶ τὰ Βακχίου 
+<lb rend="displayNum" n="430"/>ναίειν μέλαθρα Ναΐδων νυμφῶν μέτα. 
+<lb rend="displayNum" n="431"/>ὁ μὲν γὰρ ἔνδον σὸς πατὴρ τάδ᾽ ἤινεσεν: 
+<lb rend="displayNum" n="432"/>ἀλλ᾽ ἀσθενὴς γὰρ κἀποκερδαίνων ποτοῦ 
+<lb rend="displayNum" n="433"/>ὥσπερ πρὸς ἰξῶι τῆι κύλικι λελημμένος 
+<lb rend="displayNum" n="434"/>πτέρυγας ἀλύει: σὺ δέ ʽνεανίας γὰρ εἶ 
+<lb rend="displayNum" n="435"/>σώθητι μετ᾽ ἐμοῦ καὶ τὸν ἀρχαῖον φίλον 
+<lb rend="displayNum" n="436"/>Διόνυσον ἀνάλαβ᾽, οὐ Κύκλωπι προσφερῆ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="437"/> ὦ φίλτατ᾽, εἰ γὰρ τήνδ᾽ ἴδοιμεν ἡμέραν 
+<lb rend="displayNum" n="438"/>Κύκλωπος ἐκφυγόντες ἀνόσιον κάρα. 
+<lb rend="displayNum" n="439"/>ὡς διὰ μακροῦ γε †τὸν σίφωνα τὸν φίλον 
+<lb rend="displayNum" n="440"/>χηρεύομεν τόνδ᾽ οὐκ ἔχομεν καταφαγεῖν.† 
+</p>
+            </sp>
+            <milestone n="441" unit="card"/>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="441"/> ἄκουε δή νυν ἣν ἔχω τιμωρίαν 
+<lb rend="displayNum" n="442"/>θηρὸς πανούργου σῆς τε δουλείας φυγήν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="443"/> λέγ᾽, ὡς Ἀσιάδος οὐκ ἂν ἥδιον ψόφον 
+<lb rend="displayNum" n="444"/>κιθάρας κλύοιμεν ἢ Κύκλωπ᾽ ὀλωλότα. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="445"/> ἐπὶ κῶμον ἕρπειν πρὸς κασιγνήτους θέλει 
+<lb rend="displayNum" n="446"/>Κύκλωπας ἡσθεὶς τῶιδε Βακχίου ποτῶι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="447"/> ξυνῆκ᾽: ἔρημον ξυλλαβὼν δρυμοῖσί νιν 
+<lb rend="displayNum" n="448"/>σφάξαι μενοινᾶις ἢ πετρῶν ὦσαι κάτα. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="449"/> οὐδὲν τοιοῦτον: δόλιος ἡ προθυμία. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="450"/> πῶς δαί; σοφόν τοί σ᾽ ὄντ᾽ ἀκούομεν πάλαι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="451"/> κώμου μὲν αὐτὸν τοῦδ᾽ ἀπαλλάξαι, λέγων 
+<lb rend="displayNum" n="452"/>ὡς οὐ Κύκλωψι πῶμα χρὴ δοῦναι τόδε, 
+<lb rend="displayNum" n="453"/>μόνον δ᾽ ἔχοντα βίοτον ἡδέως ἄγειν. 
+<lb rend="displayNum" n="454"/>ὅταν δ᾽ ὑπνώσσηι Βακχίου νικώμενος, 
+<lb rend="displayNum" n="455"/>ἀκρεμὼν ἐλαίας ἔστιν ἐν δόμοισί τις, 
+<lb rend="displayNum" n="456"/>ὃν φασγάνωι τῶιδ᾽ ἐξαποξύνας ἄκρον <pb/>
+                  <lb rend="displayNum" n="457"/>ἐς πῦρ καθήσω: κἆιθ᾽ ὅταν κεκαυμένον 
+<lb rend="displayNum" n="458"/>ἴδω νιν, ἄρας θερμὸν ἐς μέσην βαλῶ 
+<lb rend="displayNum" n="459"/>Κύκλωπος ὄψιν ὄμμα τ᾽ ἐκτήξω πυρί. 
+<lb rend="displayNum" n="460"/>ναυπηγίαν δ᾽ ὡσεί τις ἁρμόζων ἀνὴρ 
+<lb rend="displayNum" n="461"/>διπλοῖν χαλινοῖν τρύπανον κωπηλατεῖ, 
+<lb rend="displayNum" n="462"/>οὕτω κυκλώσω δαλὸν ἐν φαεσφόρωι 
+<lb rend="displayNum" n="463"/>Κύκλωπος ὄψει καὶ συναυανῶ κόρας. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="464"/> ἰοὺ ἰού: 
+<lb rend="displayNum" n="465"/>γέγηθα μαινόμεσθα τοῖς εὑρήμασιν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="466"/> κἄπειτα καὶ σὲ καὶ φίλους γέροντά τε 
+<lb rend="displayNum" n="467"/>νεὼς μελαίνης κοῖλον ἐμβήσας σκάφος 
+<lb rend="displayNum" n="468"/>διπλαῖσι κώπαις τῆσδ᾽ ἀποστελῶ χθονός. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="469"/> ἔστ᾽ οὖν ὅπως ἂν ὡσπερεὶ σπονδῆς θεοῦ 
+<lb rend="displayNum" n="470"/>κἀγὼ λαβοίμην τοῦ τυφλοῦντος ὄμματα 
+<lb rend="displayNum" n="471"/>δαλοῦ; πόνου γὰρ τοῦδε κοινωνεῖν θέλω. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="472"/> δεῖ γοῦν: μέγας γὰρ δαλός, οὗ ξυλληπτέον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="473"/> ὡς κἂν ἁμαξῶν ἑκατὸν ἀραίμην βάρος, 
+<lb rend="displayNum" n="474"/>εἰ τοῦ Κύκλωπος τοῦ κακῶς ὀλουμένου 
+<lb rend="displayNum" n="475"/>ὀφθαλμὸν ὥσπερ σφηκιὰν ἐκθύψομεν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="476"/> σιγᾶτέ νυν: δόλον γὰρ ἐξεπίστασαι: 
+<lb rend="displayNum" n="477"/>χὤταν κελεύω, τοῖσιν ἀρχιτέκτοσιν 
+<lb rend="displayNum" n="478"/>πείθεσθ᾽. ἐγὼ γὰρ ἄνδρας ἀπολιπὼν φίλους 
+<lb rend="displayNum" n="479"/>τοὺς ἔνδον ὄντας οὐ μόνος σωθήσομαι. 
+<lb rend="displayNum" n="480"/>
+                  <del status="unremarkable">καίτοι φύγοιμ᾽ ἂν κἀκβέβηκ᾽ ἄντρου μυχῶν: 
+<lb rend="displayNum" n="481"/>ἀλλ᾽ οὐ δίκαιον ἀπολιπόντ᾽ ἐμοὺς φίλους 
+<lb rend="displayNum" n="482"/>ξὺν οἷσπερ ἦλθον δεῦρο σωθῆναι μόνον.</del>
+               </p>
+            </sp>
+            <milestone n="483" unit="card"/>
+         </div>
+         <div type="choral" org="uniform" sample="complete" part="N">
+            <div type="anapests" org="uniform" sample="complete" part="N">
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="483"/> ἄγε, τίς πρῶτος, τίς δ᾽ ἐπὶ πρώτωι 
+<lb rend="displayNum" n="484"/>ταχθεὶς δαλοῦ κώπην ὀχμάσαι. <pb/>
+                     <lb rend="displayNum" n="485"/>Κύκλωπος ἔσω βλεφάρων ὤσας 
+<lb rend="displayNum" n="486"/>λαμπρὰν ὄψιν διακναίσει; 
+<lb rend="displayNum" n="487"/>
+                     <del status="unremarkable">ὠιδὴ ἔνδοθεν.</del>
+                     <lb rend="displayNum" n="488"/>σίγα σίγα. καὶ δὴ μεθύων 
+<lb rend="displayNum" n="489"/>ἄχαριν κέλαδον μουσιζόμενος 
+<lb rend="displayNum" n="490"/>σκαιὸς ἀπωιδὸς καὶ κλαυσόμενος 
+<lb rend="displayNum" n="491"/>χωρεῖ πετρίνων ἔξω μελάθρων. 
+<lb rend="displayNum" n="492"/>φέρε νιν κώμοις παιδεύσωμεν 
+<lb rend="displayNum" n="493"/>τὸν ἀπαίδευτον: 
+<lb rend="displayNum" n="494"/>πάντως μέλλει τυφλὸς εἶναι. 
+<milestone n="495" unit="card"/>
+                  </p>
+               </sp>
+            </div>
+            <div type="strophe" n="1" org="uniform" sample="complete" part="N">
+               <sp>
+                  <p>
+                     <lb rend="displayNum" n="495"/>μάκαρ ὅστις εὐιάζει 
+<lb rend="displayNum" n="496"/>βοτρύων φίλαισι πηγαῖς 
+<lb rend="displayNum" n="497"/>ἐπὶ κῶμον ἐκπετασθεὶς 
+<lb rend="displayNum" n="498"/>φίλον ἄνδρ᾽ ὑπαγκαλίζων, 
+<lb rend="displayNum" n="499"/>ἐπὶ δεμνίοις τε †ξανθὸν† 
+<lb rend="displayNum" n="500"/>χλιδανᾶς ἔχων ἑταίρας 
+<lb rend="displayNum" n="501"/>μυρόχριστος λιπαρὸν βό-
+<lb rend="displayNum" n="502"/>στρυχον, αὐδᾶι δέ: Θύραν τίς οἴξει μοι; 
+</p>
+               </sp>
+               <milestone n="503" unit="card"/>
+            </div>
+            <div type="strophe" n="2" org="uniform" sample="complete" part="N">
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="503"/> παπαπαῖ: πλέως μὲν οἴνου, 
+<lb rend="displayNum" n="504"/>γάνυμαι <add>δὲ</add> δαιτὸς ἥβαι, 
+<lb rend="displayNum" n="505"/>σκάφος ὁλκὰς ὣς γεμισθεὶς 
+<lb rend="displayNum" n="506"/>ποτὶ σέλμα γαστρὸς ἄκρας. 
+<lb rend="displayNum" n="507"/>ὑπάγει μ᾽ ὁ φόρτος εὔφρων 
+<lb rend="displayNum" n="508"/>ἐπὶ κῶμον ἦρος ὥραις 
+<lb rend="displayNum" n="509"/>ἐπὶ Κύκλωπας ἀδελφούς. 
+<lb rend="displayNum" n="510"/>φέρε μοι, ξεῖνε, φέρ᾽, ἀσκὸν ἔνδος μοι. <pb/>
+                  </p>
+               </sp>
+               <milestone n="511" unit="card"/>
+            </div>
+            <div type="strophe" n="3" org="uniform" sample="complete" part="N">
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="511"/> καλὸν ὄμμασιν δεδορκὼς 
+<lb rend="displayNum" n="512"/>καλὸς ἐκπερᾶι μελάθρων. 
+<lb rend="displayNum" n="513"/>
+                     <add/> φιλεῖ τίς ἡμᾶς; 
+<lb rend="displayNum" n="514"/>λύχνα δ᾽ †ἀμμένει δαΐα σὸν 
+<lb rend="displayNum" n="515"/>χρόα χὡσ† τέρεινα νύμφα 
+<lb rend="displayNum" n="516"/>δροσερῶν ἔσωθεν ἄντρων. 
+<lb rend="displayNum" n="517"/>στεφάνων δ᾽ οὐ μία χροιὰ 
+<lb rend="displayNum" n="518"/>περὶ σὸν κρᾶτα τάχ᾽ ἐξομιλήσει. 
+</p>
+               </sp>
+               <milestone n="519" unit="card"/>
+            </div>
+         </div>
+         <div type="episode" org="uniform" sample="complete" part="N">
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="519"/> Κύκλωψ, ἄκουσον: ὡς ἐγὼ τοῦ Βακχίου 
+<lb rend="displayNum" n="520"/>τούτου τρίβων εἴμ᾽, ὃν πιεῖν ἔδωκά σοι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="521"/> ὁ Βάκχιος δὲ τίς; θεὸς νομίζεται; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="522"/> μέγιστος ἀνθρώποισιν ἐς τέρψιν βίου. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="523"/> ἐρυγγάνω γοῦν αὐτὸν ἡδέως ἐγώ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="524"/> τοιόσδ᾽ ὁ δαίμων: οὐδένα βλάπτει βροτῶν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="525"/> θεὸς δ᾽ ἐν ἀσκῶι πῶς γέγηθ᾽ οἴκους ἔχων; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="526"/> ὅπου τιθῆι τις, ἐνθάδ᾽ ἐστὶν εὐπετής. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="527"/> οὐ τοὺς θεοὺς χρὴ σῶμ᾽ ἔχειν ἐν δέρμασιν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="528"/> τί δ᾽, εἴ σε τέρπει γ᾽; ἢ τὸ δέρμα σοι πικρόν; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="529"/> μισῶ τὸν ἀσκόν: τὸ δὲ ποτὸν φιλῶ τόδε. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="530"/> μένων νυν αὐτοῦ πῖνε κεὐθύμει, Κύκλωψ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="531"/> οὐ χρή μ᾽ ἀδελφοῖς τοῦδε προσδοῦναι ποτοῦ; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="532"/> ἔχων γὰρ αὐτὸς τιμιώτερος φανῆι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="533"/> διδοὺς δὲ τοῖς φίλοισι χρησιμώτερος. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="534"/> πυγμὰς ὁ κῶμος λοίδορόν τ᾽ ἔριν φιλεῖ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="535"/> μεθύω μέν, ἔμπας δ᾽ οὔτις ἂν ψαύσειέ μου. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="536"/> ὦ τᾶν, πεπωκότ᾽ ἐν δόμοισι χρὴ μένειν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="537"/> ἠλίθιος ὅστις μὴ πιὼν κῶμον φιλεῖ. <pb/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="538"/> ὃς δ᾽ ἂν μεθυσθείς γ᾽ ἐν δόμοις μείνηι σοφός. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="539"/> τί δρῶμεν, ὦ Σιληνέ; σοὶ μένειν δοκεῖ; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="540"/> δοκεῖ: τί γὰρ δεῖ συμποτῶν ἄλλων, Κύκλωψ; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="541"/> καὶ μὴν λαχνῶδές γ᾽ οὖδας ἀνθηρᾶς χλόης. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="542"/> καὶ πρός γε θάλπος ἡλίου πίνειν καλόν. 
+<lb rend="displayNum" n="543"/>κλίθητί νύν μοι πλευρὰ θεὶς ἐπὶ χθονός. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="544"/> ἰδού. 
+<lb rend="displayNum" n="545"/>τί δῆτα τὸν κρατῆρ᾽ ὄπισθ᾽ ἐμοῦ τίθης; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="546"/> ὡς μὴ παριών τις καταβάληι. <note type="sp" place="inline" anchored="true">Κυ.</note> πίνειν μὲν οὖν 
+<lb rend="displayNum" n="547"/>κλέπτων σὺ βούληι: κάτθες αὐτὸν ἐς μέσον. 
+<lb rend="displayNum" n="548"/>σὺ δ᾽, ὦ ξέν᾽, εἰπὲ τοὔνομ᾽ ὅτι σε χρὴ καλεῖν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="549"/> Οὖτιν: χάριν δὲ τίνα λαβών σ᾽ ἐπαινέσω; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="550"/> πάντων σ᾽ ἑταίρων ὕστερον θοινάσομαι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="551"/> καλόν γε τὸ γέρας τῶι ξένωι δίδως, Κύκλωψ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="552"/> οὗτος, τί δρᾶις; τὸν οἶνον ἐκπίνεις λάθραι; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="553"/> οὔκ, ἀλλ᾽ ἔμ᾽ οὗτος ἔκυσεν ὅτι καλὸν βλέπω. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="554"/> κλαύσηι, φιλῶν τὸν οἶνον οὐ φιλοῦντα σέ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="555"/> οὐ μὰ Δί᾽, ἐπεί μού φησ᾽ ἐρᾶν ὄντος καλοῦ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="556"/> ἔγχει, πλέων δὲ τὸν σκύφον δίδου μόνον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="557"/> πῶς οὖν κέκραται; φέρε διασκεψώμεθα. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="558"/> ἀπολεῖς: δὸς οὕτως. <note type="sp" place="inline" anchored="true">Σι.</note> οὐ μὰ δί᾽, οὐ πρὶν ἄν γέ σε 
+<lb rend="displayNum" n="559"/>στέφανον ἴδω λαβόντα γεύσωμαί τ᾽ ἔτι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="560"/> οἱνοχόος ἄδικος. <note type="sp" place="inline" anchored="true">Σι.</note>
+                  <add>οὐ</add> μὰ δί᾽, ἀλλ᾽ οἷνος 
+γλυκύς. 
+<lb rend="displayNum" n="561"/>ἀπομακτέον δέ σοὐστὶν ὡς λήψηι πιεῖν. <pb/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="562"/> ἰδού, καθαρὸν τὸ χεῖλος αἱ τρίχες τέ μου. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="563"/> θές νυν τὸν ἀγκῶν᾽ εὐρύθμως κἆιτ᾽ ἔκπιε, 
+<lb rend="displayNum" n="564"/>ὥσπερ μ᾽ ὁρᾶις πίνοντα χὤσπερ οὐκ ἐμέ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="565"/> ἆ ἆ, τί δράσεις; <note type="sp" place="inline" anchored="true">Σι.</note> ἡδέως ἠμύστισα. 
+</p>
+            </sp>
+            <milestone n="566" unit="card"/>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="566"/> λάβ᾽, ὦ ξέν᾽, αὐτὸς οἰνοχόος τέ μοι γενοῦ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="567"/> γιγνώσκεται γοῦν ἅμπελος τἠμῆι χερί. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="568"/> φέρ᾽ ἔγχεόν νυν. <note type="sp" place="inline" anchored="true">Οδ.</note> ἐγχέω, σίγα μόνον. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="569"/> χαλεπὸν τόδ᾽ εἶπας, ὅστις ἂν πίνηι πολύν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="570"/> ἰδού, λαβὼν ἔκπιθι καὶ μηδὲν λίπηις: 
+<lb rend="displayNum" n="571"/>συνεκθανεῖν δὲ σπῶντα χρὴ τῶι πώματι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="572"/> παπαῖ, σοφόν γε τὸ ξύλον τῆς ἀμπέλου. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="573"/> κἂν μὲν σπάσηις γε δαιτὶ πρὸς πολλῆι πολύν, 
+<lb rend="displayNum" n="574"/>τέγξας ἄδιψον νηδύν, εἰς ὕπνον βαλεῖ, 
+<lb rend="displayNum" n="575"/>ἢν δ᾽ ἐλλίπηις τι, ξηρανεῖ σ᾽ ὁ Βάκχιος. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="576"/> ἰοὺ ἰού: 
+<lb rend="displayNum" n="577"/>ὡς ἐξένευσα μόγις: ἄκρατος ἡ χάρις. 
+<lb rend="displayNum" n="578"/>ὁ δ᾽ οὐρανός μοι συμμεμειγμένος δοκεῖ 
+<lb rend="displayNum" n="579"/>τῆι γῆι φέρεσθαι, τοῦ Διός τε τὸν θρόνον 
+<lb rend="displayNum" n="580"/>λεύσσω τὸ πᾶν τε δαιμόνων ἁγνὸν σέβας. 
+<lb rend="displayNum" n="581"/>οὐκ ἂν φιλήσαιμ᾽; αἱ Χάριτες πειρῶσί με. 
+<lb rend="displayNum" n="582"/>ἅλις: Γανυμήδη τόνδ᾽ ἔχων ἀναπαύσομαι 
+<lb rend="displayNum" n="583"/>κάλλιον ἢ τὰς Χάριτας. ἥδομαι δέ πως 
+<lb rend="displayNum" n="584"/>τοῖς παιδικοῖσι μᾶλλον ἢ τοῖς θήλεσιν. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="585"/> ἐγὼ γὰρ ὁ Διός εἰμι Γανυμήδης, Κύκλωψ; 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="586"/> ναὶ μὰ Δί᾽, ὃν ἁρπάζω γ᾽ ἐγὼ ᾽κ τῆς Δαρδάνου. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="587"/> ἀπόλωλα, παῖδες: σχέτλια πείσομαι κακά. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Κύκλωψ</speaker>
+               <p>
+                  <lb rend="displayNum" n="588"/> μέμφηι τὸν ἐραστὴν κἀντρυφᾶις πεπωκότι; <pb/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Σιληνός</speaker>
+               <p>
+                  <lb rend="displayNum" n="589"/> οἴμοι: πικρότατον οἶνον ὄψομαι τάχα. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="590"/> ἄγε δή, Διονύσου παῖδες, εὐγενῆ τέκνα, 
+<lb rend="displayNum" n="591"/>ἔνδον μὲν ἁνήρ: τῶι δ᾽ ὕπνωι παρειμένος 
+<lb rend="displayNum" n="592"/>τάχ᾽ ἐξ ἀναιδοῦς φάρυγος ὠθήσει κρέα. 
+<lb rend="displayNum" n="593"/>δαλὸς δ᾽ ἔσωθεν αὐλίων †ὠθεῖ† καπνὸν 
+<lb rend="displayNum" n="594"/>παρευτρέπισται, κοὐδὲν ἄλλο πλὴν πυροῦν 
+<lb rend="displayNum" n="595"/>Κύκλωπος ὄψιν: ἀλλ᾽ ὅπως ἀνὴρ ἔσηι. 
+</p>
+            </sp>
+            <sp>
+               <speaker>χορός</speaker>
+               <p>
+                  <lb rend="displayNum" n="596"/> πέτρας τὸ λῆμα κἀδάμαντος ἕξομεν. 
+<lb rend="displayNum" n="597"/>χώρει δ᾽ ἐς οἴκους πρίν τι τὸν πατέρα παθεῖν 
+<lb rend="displayNum" n="598"/>ἀπάλαμνον: ὥς σοι τἀνθάδ᾽ ἐστὶν εὐτρεπῆ. 
+</p>
+            </sp>
+            <sp>
+               <speaker>Ὀδυσσεύς</speaker>
+               <p>
+                  <lb rend="displayNum" n="599"/> Ἥφαιστ᾽, ἄναξ Αἰτναῖε, γείτονος κακοῦ 
+<lb rend="displayNum" n="600"/>λαμπρὸν πυρώσας ὄμμ᾽ ἀπαλλάχθηθ᾽ ἅπαξ, 
+<lb rend="displayNum" n="601"/>σύ τ᾽, ὦ μελαίνης Νυκτὸς ἐκπαίδευμ᾽, Ὕπνε, 
+<lb rend="displayNum" n="602"/>ἄκρατος ἐλθὲ θηρὶ τῶι θεοστυγεῖ, 
+<lb rend="displayNum" n="603"/>καὶ μὴ ᾽πὶ καλλίστοισι Τρωϊκοῖς πόνοις 
+<lb rend="displayNum" n="604"/>αὐτόν τε ναύτας τ᾽ ἀπολέσητ᾽ Ὀδυσσέα 
+<lb rend="displayNum" n="605"/>ὑπ᾽ ἀνδρὸς ὧι θεῶν οὐδὲν ἢ βροτῶν μέλει. 
+<lb rend="displayNum" n="606"/>ἢ τὴν τύχην μὲν δαίμον᾽ ἡγεῖσθαι χρεών, 
+<lb rend="displayNum" n="607"/>τὰ δαιμόνων δὲ τῆς τύχης ἐλάσσονα. 
+</p>
+            </sp>
+            <milestone n="608" unit="card"/>
+            <div type="lyric" org="uniform" sample="complete" part="N">
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="608"/> λήψεται τὸν τράχηλον 
+<lb rend="displayNum" n="609"/>ἐντόνως ὁ καρκίνος 
+<lb rend="displayNum" n="610"/>τοῦ ξενοδαιτυμόνος: πυρὶ γὰρ τάχα 
+<lb rend="displayNum" n="611"/>φωσφόρους ὀλεῖ κόρας. 
+<lb rend="displayNum" n="612"/>ἤδη δαλὸς ἠνθρακωμένος 
+<lb rend="displayNum" n="615"/>κρύπτεται ἐς σποδιάν, δρυὸς ἄσπετον 
+<lb rend="displayNum" n="616"/>ἔρνος. ἀλλ᾽ ἴτω Μάρων, πρασσέτω, 
+<lb rend="displayNum" n="617"/>μαινομένου ᾽ξελέτω βλέφαρον <pb/>
+                     <lb rend="displayNum" n="618"/>Κύκλωπος, ὡς πίηι κακῶς. 
+<lb rend="displayNum" n="620"/>κἀγὼ τὸν φιλοκισσοφόρον Βρόμιον 
+<lb rend="displayNum" n="621"/>ποθεινὸν εἰσιδεῖν θέλω, 
+<lb rend="displayNum" n="622"/>Κύκλωπος λιπὼν ἐρημίαν: 
+<lb rend="displayNum" n="623"/>ἆρ᾽ ἐς τοσόνδ᾽ ἀφίξομαι; 
+</p>
+               </sp>
+               <milestone n="624" unit="card"/>
+               <sp>
+                  <speaker>Ὀδυσσεύς</speaker>
+                  <p>
+                     <lb rend="displayNum" n="624"/> σιγᾶτε πρὸς θεῶν, θῆρες, ἡσυχάζετε, 
+<lb rend="displayNum" n="625"/>συνθέντες ἄρθρα στόματος: οὐδὲ πνεῖν ἐῶ, 
+<lb rend="displayNum" n="626"/>οὐ σκαρδαμύσσειν οὐδὲ χρέμπτεσθαί τινα, 
+<lb rend="displayNum" n="627"/>ὡς μὴ ᾽ξεγερθῆι τὸ κακόν, ἔστ᾽ ἂν ὄμματος 
+<lb rend="displayNum" n="628"/>ὄψις Κύκλωπος ἐξαμιλληθῆι πυρί. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="629"/> σιγῶμεν ἐγκάψαντες αἰθέρα γνάθοις. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Ὀδυσσεύς</speaker>
+                  <p>
+                     <lb rend="displayNum" n="630"/> ἄγε νυν ὅπως ἅψεσθε τοῦ δαλοῦ χεροῖν 
+<lb rend="displayNum" n="631"/>ἔσω μολόντες: διάπυρος δ᾽ ἐστὶν καλῶς. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="632"/> οὔκουν σὺ τάξεις οὕστινας πρώτους χρεὼν 
+<lb rend="displayNum" n="633"/>καυτὸν μοχλὸν λαβόντας ἐκκαίειν τὸ φῶς 
+<lb rend="displayNum" n="634"/>Κύκλωπος, ὡς ἂν τῆς τύχης κοινώμεθα; 
+<lb n="635"/>
+                     <note type="sp" place="inline" anchored="true">Χο.<hi rend="14">α</hi>
+                     </note> ἡμεῖς μέν ἐσμεν μακροτέρω πρὸ τῶν θυρῶν 
+<lb rend="displayNum" n="636"/>ἑστῶτες ὠθεῖν ἐς τὸν ὀφθαλμὸν τὸ πῦρ. 
+<lb n="637"/>
+                     <note type="sp" place="inline" anchored="true">Χο.<hi rend="14">β</hi>
+                     </note> ἡμεῖς δὲ χωλοί γ᾽ ἀρτίως γεγενήμεθα. 
+<lb n="638"/>
+                     <note type="sp" place="inline" anchored="true">Χο.<hi rend="14">α</hi>
+                     </note> ταὐτὸν πεπόνθατ᾽ ἆρ᾽ ἐμοί: τοὺς γὰρ πόδας 
+<lb rend="displayNum" n="639"/>ἑστῶτες ἐσπάσθημεν οὐκ οἶδ᾽ ἐξ ὅτου. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Ὀδυσσεύς</speaker>
+                  <p>
+                     <lb n="640"/> ἑστῶτες ἐσπάσθητε; <note type="sp" place="inline" anchored="true">Χο.<hi rend="14">α</hi>
+                     </note> καὶ τά γ᾽ ὄμματα 
+<lb rend="displayNum" n="641"/>μέστ᾽ ἐστὶν ἡμῖν κόνεος ἢ τέφρας ποθέν. <pb/>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ὀδυσσεύς</speaker>
+                  <p>
+                     <lb rend="displayNum" n="642"/> ἄνδρες πονηροὶ κοὐδὲν οἵδε σύμμαχοι. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="643"/> ὁτιὴ τὸ νῶτον τὴν ῥάχιν τ᾽ οἰκτίρομεν 
+<lb rend="displayNum" n="644"/>καὶ τοὺς ὀδόντας ἐκβαλεῖν οὐ βούλομαι 
+<lb rend="displayNum" n="645"/>τυπτόμενος, αὕτη γίγνεται πονηρία; 
+<lb rend="displayNum" n="646"/>ἀλλ᾽ οἶδ᾽ ἐπωιδὴν Ὀρφέως ἀγαθὴν πάνυ, 
+<lb rend="displayNum" n="647"/>ὥστ᾽ αὐτόματον τὸν δαλὸν ἐς τὸ κρανίον 
+<lb rend="displayNum" n="648"/>στείχονθ᾽ ὑφάπτειν τὸν μονῶπα παῖδα γῆς. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Ὀδυσσεύς</speaker>
+                  <p>
+                     <lb rend="displayNum" n="649"/> πάλαι μὲν ἤιδη σ᾽ ὄντα τοιοῦτον φύσει, 
+<lb rend="displayNum" n="650"/>νῦν δ᾽ οἶδ᾽ ἄμεινον. τοῖσι δ᾽ οἰκείοις φίλοις 
+<lb rend="displayNum" n="651"/>χρῆσθαί μ᾽ ἀνάγκη. χειρὶ δ᾽ εἰ μηδὲν σθένεις, 
+<lb rend="displayNum" n="652"/>ἀλλ᾽ οὖν ἐπεγκέλευέ γ᾽, ὡς εὐψυχίαν 
+<lb rend="displayNum" n="653"/>φίλων κελευσμοῖς τοῖσι σοῖς κτησώμεθα. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="654"/> δράσω τάδ᾽: ἐν τῶι Καρὶ κινδυνεύσομεν. 
+<lb rend="displayNum" n="655"/>κελευσμάτων δ᾽ ἕκατι τυφέσθω Κύκλωψ. 
+<milestone n="656" unit="card"/>
+                  </p>
+               </sp>
+            </div>
+            <div type="lyric" org="uniform" sample="complete" part="N">
+               <sp>
+                  <p>
+                     <lb rend="displayNum" n="656"/>ἰὼ ἰώ: γενναιότατ᾽ ὠ-
+<lb rend="displayNum" n="657"/>θεῖτε σπεύδετ᾽, ἐκκαίετε τὰν ὀφρὺν 
+<lb rend="displayNum" n="658"/>θηρὸς τοῦ ξενοδαίτα. 
+<lb rend="displayNum" n="659"/>τύφετ᾽ ὦ, καίετ᾽ ὦ 
+<lb rend="displayNum" n="660"/>τὸν Αἴτνας μηλονόμον. 
+<lb rend="displayNum" n="661"/>τόρνευ᾽ ἕλκε, μή σ᾽ ἐξοδυνηθεὶς 
+<lb rend="displayNum" n="662"/>δράσηι τι μάταιον. 
+</p>
+               </sp>
+               <milestone n="663" unit="card"/>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="663"/> ὤμοι, κατηνθρακώμεθ᾽ ὀφθαλμοῦ σέλας. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="664"/> καλός γ᾽ ὁ παιάν: μέλπε μοι τόνδ᾽ αὖ, Κύκλωψ. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="665"/> ὤμοι μάλ᾽, ὡς ὑβρίσμεθ᾽, ὡς ὀλώλαμεν. 
+<lb rend="displayNum" n="666"/>ἀλλ᾽ οὔτι μὴ φύγητε τῆσδ᾽ ἔξω πέτρας 
+<lb rend="displayNum" n="667"/>χαίροντες, οὐδὲν ὄντες: ἐν πύλαισι γὰρ 
+<lb rend="displayNum" n="668"/>σταθεὶς φάραγγος τῆσδ᾽ ἐναρμόσω χέρας. <pb/>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="669"/> τί χρῆμ᾽ ἀυτεῖς, ὦ Κύκλωψ; <note type="sp" place="inline" anchored="true">Κυ.</note> ἀπωλόμην. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="670"/> αἰσχρός γε φαίνηι. <note type="sp" place="inline" anchored="true">Κυ.</note> κἀπὶ τοῖσδέ γ᾽ ἄθλιος. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="671"/> μεθύων κατέπεσες ἐς μέσους τοὺς ἄνθρακας; 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="672"/> Οὖτίς μ᾽ ἀπώλεσ᾽. <note type="sp" place="inline" anchored="true">Χο.</note> οὐκ ἄρ᾽ οὐδείς <add>σ᾽</add> ἠδίκει. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="673"/> Οὖτίς με τυφλοῖ βλέφαρον. <note type="sp" place="inline" anchored="true">Χο.</note> οὐκ ἄρ᾽ εἶ τυφλός. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="674"/> †ὣς δὴ σύ†. <note type="sp" place="inline" anchored="true">Χο.</note> καὶ πῶς σ᾽ οὔτις ἂν θείη τυφλόν; 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="675"/> σκώπτεις. ὁ δ᾽ Οὖτις ποῦ ᾽στιν; <note type="sp" place="inline" anchored="true">Χο.</note> οὐδαμοῦ, 
+Κύκλωψ. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="676"/> ὁ ξένος ἵν᾽ ὀρθῶς ἐκμάθηις μ᾽ ἀπώλεσεν, 
+<lb rend="displayNum" n="677"/>ὁ μιαρός, ὅς μοι δοὺς τὸ πῶμα κατέκλυσεν. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="678"/> δεινὸς γὰρ οἷνος καὶ παλαίεσθαι βαρύς. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="679"/> πρὸς θεῶν, πεφεύγασ᾽ ἢ μένουσ᾽ ἔσω δόμων; 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="680"/> οὗτοι σιωπῆι τὴν πέτραν ἐπήλυγα 
+<lb rend="displayNum" n="681"/>λαβόντες ἑστήκασι. <note type="sp" place="inline" anchored="true">Κυ.</note> ποτέρας τῆς χερός; 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="682"/> ἐν δεξιᾶι σου. <note type="sp" place="inline" anchored="true">Κυ.</note> ποῦ; <note type="sp" place="inline" anchored="true">Χο.</note> πρὸς αὐτῆι τῆι 
+πέτραι. 
+<lb rend="displayNum" n="683"/>ἔχεις; <note type="sp" place="inline" anchored="true">Κυ.</note> κακόν γε πρὸς κακῶι: τὸ κρανίον 
+<lb rend="displayNum" n="684"/>παίσας κατέαγα. <note type="sp" place="inline" anchored="true">Χο.</note> καί σε διαφεύγουσί γε. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="685"/> οὐ τῆιδέ πηι, τῆιδ᾽ εἶπας; <note type="sp" place="inline" anchored="true">Χο.</note> οὔ: ταύτηι λέγω. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="686"/> πῆι γάρ; <note type="sp" place="inline" anchored="true">Χο.</note> περιάγου κεῖσε, πρὸς τἀριστερά. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="687"/> οἴμοι γελῶμαι: κερτομεῖτέ μ᾽ ἐν κακοῖς. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="688"/> ἀλλ᾽ οὐκέτ᾽, ἀλλὰ πρόσθεν οὗτός ἐστι σοῦ. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="689"/> ὦ παγκάκιστε, ποῦ ποτ᾽ εἶ; <note type="sp" place="inline" anchored="true">Οδ.</note> τηλοῦ σέθεν 
+<lb rend="displayNum" n="690"/>φυλακαῖσι φρουρῶ σῶμ᾽ Ὀδυσσέως τόδε. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="691"/> πῶς εἶπας; ὄνομα μεταβαλὼν καινὸν λέγεις. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Ὀδυσσεύς</speaker>
+                  <p>
+                     <lb rend="displayNum" n="692"/> ὅπερ μ᾽ ὁ φύσας ὠνόμαζ᾽ Ὀδυσσέα. 
+<lb rend="displayNum" n="693"/>δώσειν δ᾽ ἔμελλες ἀνοσίου δαιτὸς δίκας: 
+<lb rend="displayNum" n="694"/>καλῶς γὰρ ἂν Τροίαν γε διεπυρώσαμεν 
+<lb rend="displayNum" n="695"/>εἰ μή σ᾽ ἑταίρων φόνον ἐτιμωρησάμην. <pb/>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="696"/> αἰαῖ: παλαιὸς χρησμὸς ἐκπεραίνεται: 
+<lb rend="displayNum" n="697"/>τυφλὴν γὰρ ὄψιν ἐκ σέθεν σχήσειν μ᾽ ἔφη 
+<lb rend="displayNum" n="698"/>Τροίας ἀφορμηθέντος. ἀλλὰ καὶ σέ τοι 
+<lb rend="displayNum" n="699"/>δίκας ὑφέξειν ἀντὶ τῶνδ᾽ ἐθέσπισεν, 
+<lb rend="displayNum" n="700"/>πολὺν θαλάσσηι χρόνον ἐναιωρούμενον. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Ὀδυσσεύς</speaker>
+                  <p>
+                     <lb rend="displayNum" n="701"/> κλαίειν σ᾽ ἄνωγα: καὶ δέδραχ᾽ ὅπερ λέγω. 
+<lb rend="displayNum" n="702"/>ἐγὼ δ᾽ ἐπ᾽ ἀκτὰς εἶμι καὶ νεὼς σκάφος 
+<lb rend="displayNum" n="703"/>ἥσω ᾽πὶ πόντον Σικελὸν ἔς τ᾽ ἐμὴν πάτραν. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>Κύκλωψ</speaker>
+                  <p>
+                     <lb rend="displayNum" n="704"/> οὐ δῆτ᾽, ἐπεί σε τῆσδ᾽ ἀπορρήξας πέτρας 
+<lb rend="displayNum" n="705"/>αὐτοῖσι συνναύταισι συντρίψω βαλών. 
+<lb rend="displayNum" n="706"/>ἄνω δ᾽ ἐπ᾽ ὄχθον εἶμι, καίπερ ὢν τυφλός, 
+<lb rend="displayNum" n="707"/>δι᾽ ἀμφιτρῆτος τῆσδε προσβαίνων ποδί. 
+</p>
+               </sp>
+               <sp>
+                  <speaker>χορός</speaker>
+                  <p>
+                     <lb rend="displayNum" n="708"/> ἡμεῖς δὲ συνναῦταί γε τοῦδ᾽ Ὀδυσσέως 
+<lb rend="displayNum" n="709"/>ὄντες τὸ λοιπὸν Βακχίωι δουλεύσομεν. <pb/>
+                  </p>
+               </sp>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

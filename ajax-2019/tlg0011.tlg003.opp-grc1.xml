@@ -276,6 +276,11 @@
 <l n="21">νυκτὸς γὰρ ἡμᾶς τῆσδε πρᾶγος ἄσκοπον</l>
 <l n="22">ἔχει περάνας, εἴπερ εἴργασται τάδε·</l>
 
+ <app loc="9@ἁνὴρ" >
+  <lem wit="#Brunck #Schaefer">ἁνὴρ corr. Brunck et Schaefer et hic et passim</lem>
+  <rdg wit="#L #A #rec" type="noassimilation">ἀνὴρ <hi rend="bold">L A rec</hi></rdg>
+ </app>
+ 
  <note n="9"><seg n="lemma"><quote>ἁνὴρ</quote> corr. <ref target="#Brunck">Brunck</ref> et <ref target="#Schaefer">Schaefer</ref> et hic et passim:</seg>
 <seg n="variant">ἀνὴρ <ref target="#L">L</ref> <ref target="#A">A</ref> <ref target="#rec">rec</ref></seg>
 </note>
@@ -361,6 +366,9 @@
 <speaker>Ὀδυσσεύς</speaker>
 <l n="48">ἦ καὶ παρέστη κἀπὶ τέρμʼ ἀφίκετο;</l>
 
+ <app loc="23@ἴσμεν">
+  <rdg wit="#etym">ἴδμεν <bibl n="tlg4099">Etym. M. 466, 12</bibl></rdg>
+ </app>
  <note n="23"><seg n="lemma"><quote>ἴσμεν</quote> ]</seg>
 <seg n="variant">ἴδμεν <bibl n="tlg4099">Etym. M. 466, 12</bibl></seg>
 </note>

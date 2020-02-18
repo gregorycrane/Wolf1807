@@ -836,7 +836,7 @@
 <div type="textpart" subtype="section" n="8"><p><s> but if you do
           indulge in it, do it in the way which is conformable to custom.<note anchored="true">The
             text is <foreign xml:lang="grc">w(s no/mimon</foreign>: and the Latin explanation is
-            'qua fas eat uti; qua uti absque flagitio licet.'</note> </s>
+            <quote lang="lat">qua fas eat uti; qua uti absque flagitio licet.</quote></note> </s>
     <s>Do not however be disagreeable
           to those who indulge in these pleasures, or reprove them; </s>
     <s>and do not often boast that you
@@ -882,16 +882,32 @@
 
 <div type="textpart" subtype="section" n="13"> <p><s>When you are going to any of those who are in great power, place before yourself that you
           will not find the man at home, that you will be excluded, that the door will not be opened
-          to you, that the man will not care about you. And if with all this it is your duty to
+          to you, that the man will not care about you.</s>
+                            <s> And if with all this it is your duty to
           visit him, bear what happens, and never say to yourself that it was not worth the trouble.
-          For this is silly, and marks the character of a man who is offended by externals.</s></p>
-        <p><s>In company take care not to speak much and excessively about your own acts or dangers:
-          for as it is pleasant to you to make mention of your own dangers, it is not so pleasant to
-          others to hear what has happened to you. Take care also not to provoke laughter; for this
+         </s>
+                            <s> For this is silly, and marks the character of a man who is offended by externals.</s></p>
+         </div>
+
+                    <div type="textpart" subtype="section" n="14"><p><s>In company take care not to speak much and excessively about your own acts or dangers:
+         </s>
+                            <s> for as it is pleasant to you to make mention of your own dangers, it is not so pleasant to
+          others to hear what has happened to you.  </s></p>
+                    </div>
+
+                    <div type="textpart" subtype="section" n="15">
+                        <p><s>Take care also not to provoke laughter;  </s>
+                            <s>for this
           is a slippery way towards vulgar habits, and is also adapted to diminish the respect of
-          your neighbours. It is a dangerous habit also to approach obscene talk. When then any
+          your neighbours. </s></p>
+                    </div>
+
+                    <div type="textpart" subtype="section" n="16">
+                        <p><s>It is a dangerous habit also to approach obscene talk. </s>
+                            <s>When then any
           thing of this kind happens, if there is a good opportunity, rebuke the man who has
-          proceeded to this talk: but if there is not an opportunity, by your silence at least, and
+          proceeded to this talk:</s>
+                            <s> but if there is not an opportunity, by your silence at least, and
           blushing and expression of dissatisfaction by your countenance, show plainly that you are
           displeased at such talk. <pb n="397"/></s></p>
       </div>
@@ -899,13 +915,18 @@
       <div type="chapter" n="34">
 <div type="section" n="1">
         <p><s>If you have received the impression (<foreign xml:lang="grc">fantasi/an</foreign>) of any
-          pleasure, guard yourself against being carried away by it; but let the thing wait for you,
-          and allow yourself a certain delay on your own part. Then think of both times, of the time
+          pleasure, guard yourself against being carried away by it; </s>
+                            <s>but let the thing wait for you,
+          and allow yourself a certain delay on your own part. </s>
+                            <s>Then think of both times, of the time
           when you will enjoy the pleasure, and of the time after the enjoyment of the pleasure when
-          you will repent and will reproach yourself. And set against these things how you will
-          rejoice if you have abstained from the pleasure, and how you will commend yourself. But if
+          you will repent and will reproach yourself. </s>
+                            <s>And set against these things how you will
+          rejoice if you have abstained from the pleasure, and how you will commend yourself.</s>
+                            <s> But if
           it seem to you seasonable to undertake (do) the thing, take care that the charm of it, and
-          the pleasure, and the attraction of it shall not conquer you: but set on the other side
+          the pleasure, and the attraction of it shall not conquer you: </s>
+                            <s>but set on the other side
           the consideration how much better it is to be conscious that you have gained this
           victory.</s></p>
       </div>
@@ -913,8 +934,10 @@
       <div type="chapter" n="35">
 <div type="section" n="1">
         <p><s>When you have decided that a thing ought to be done and are doing it, never avoid being
-          seen doing it, though the many shall form an unfavourable opinion about it. For if it is
-          not right to do it, avoid doing the thing; but if it is right, why are you afraid of those
+          seen doing it, though the many shall form an unfavourable opinion about it. </s>
+                            <s>For if it is
+          not right to do it, avoid doing the thing; </s>
+                            <s>but if it is right, why are you afraid of those
           who shall find fault wrongly?</s></p>
       </div>
 </div>
@@ -924,7 +947,8 @@
           disjunctive argument, but for the conjunctive is of no value,<note anchored="true">Compare
             i. 25, 11, etc.</note> so in a symposium (entertainment) to select the larger share is
           of great value for the body, but for the maintenance of the social feeling is worth
-          nothing. When then you are eating with another, remember to look not only to the value for
+          nothing. </s>
+                            <s>When then you are eating with another, remember to look not only to the value for
           the body of the things set before you, but also to the value of the behaviour towards the
           host which ought to be observed.<note anchored="true">See the note of Schweig. on
             xxxvi.</note>
@@ -940,7 +964,8 @@
       <div type="chapter" n="38">
 <div type="section" n="1">
         <p><s>In walking about as you take care not to step on a nail or to sprain your foot, so take
-          care not to damage your own ruling faculty: and if we observe this rule in every act, we
+          care not to damage your own ruling faculty: </s>
+                            <s>and if we observe this rule in every act, we
           shall undertake the act with more security.</s></p>
       </div>
 </div>
@@ -954,13 +979,17 @@
                   <l>Si pede major erit, subvertet; si minor, uret.</l>
                 </lg></quote>
               <bibl n="Hor. Ep. 1.10.42">Horat. Epp. i. 10, 42</bibl>
-            </cit>, and <bibl n="Hor. Ep. 1.7.98">Epp. i. 7, 98</bibl>.</note> If then you stand on
-          this rule (the demands of the body), you will maintain the measure: but if you pass beyond
-          it, you must then of necessity be hurried as it were down a precipice. As also in the
+            </cit>, and <bibl n="Hor. Ep. 1.7.98">Epp. i. 7, 98</bibl>.</note> </s>
+                            <s>If then you stand on
+          this rule (the demands of the body), you will maintain the measure:</s>
+                            <s> but if you pass beyond
+          it, you must then of necessity be hurried as it were down a precipice. </s>
+                            <s>As also in the
           matter of the shoe, if you go beyond the (necessities of the) foot, the shoe is gilded,
           then of a purple colour, then embroidered:<note anchored="true">The word is <foreign
               xml:lang="grc">kenthto/n</foreign>
-            <foreign xml:lang="la">'acu pictum,'</foreign> ornamented by needlework.</note> for
+            <foreign xml:lang="la">'acu pictum,'</foreign> ornamented by needlework.</note></s>
+                            <s> for
           there is no limit to that which has once passed the true measure.</s></p>
       </div>
 </div>
